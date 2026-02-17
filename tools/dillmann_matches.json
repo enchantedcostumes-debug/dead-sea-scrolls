@@ -1,0 +1,3356 @@
+{
+  "total_words": 308,
+  "matched": 134,
+  "unmatched": 174,
+  "match_rate": "43.5%",
+  "matches": {
+    "ይከውን": {
+      "match_type": "exact",
+      "current_def": "he/it becomes, it shall be (alternate)",
+      "dillmann_entry_nums": [
+        "4810",
+        "6290",
+        "3636"
+      ],
+      "dillmann_titles": [
+        "ትንሣኤ",
+        "ኮነ",
+        "ቅዳሴ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. surrectio , lapsi Org. ascensus vel ortus siderum: ምስለ፡ ትንሣኤ፡ ፀሓይ፡ (በጽባሕ፡) Kuf. 3. exaestuatio undarum: ትንሣኤ፡ መዋግድ፡ M.M. f. 96. elatio , superbia , ἔπαρσις Zach. 12,7. insurgere contra aliquem, insultatio : ትንሣኤ፡ ፀር፡ Lit. 159,4; ትንሣኤ፡ ወቅሥት፡ turbae et rixae , Lud. e L. Myst. exsistere , emerge"
+        ],
+        [
+          "I,1 [proprie: erectum stare , vid. Ges. thes. p. 665; كَانَ exsistit , accidit , fuit ] Perf. 1 pers. Pl. ኮነ፡ (Jes. 1,9; Jes. 63,19; Jes. 64,6 al.), Subj. ይኩን፡ (ይኵን፡ passim), Imperat. ኩን፡ (ኵን፡) accidere , evenire , fieri ( geschehen ): ዘከመ፡ ኮነ፡ τὸ γεγονός Esth. 4,4; Esth. 4,7; ደንገፁ፡ በበይነ፡ ዘኮነ፡ Judit"
+        ],
+        [
+          "subst. Pl. ቅዳሴያት፡ et ቅዳስያት፡ sanctificatio : ይከውን፡ (ለከ፡) ለቅዳሴ፡ Jes. 8,14 vers. alt.; ለቅዳሴ፡ ምድር፡ Kuf. 4. sanctitatis praedicatio , Lit. 165,2; Seraphim ወሀቡ፡ ፫ቅዳሴያት፡ M.M. f. 8; መልአከ፡ ቅዳሴ፡ Kuf. 2; Kuf. 15; ለቅዳሴ፡ ወለበረከት፡ Kuf. p. 9; በኵሉ፡ ቅዳሴያቲክሙ፡ Hez. 20,40 var. consecratio , dedicatio , inauguratio , enc"
+        ]
+      ]
+    },
+    "ዘሰማይ": {
+      "match_type": "prefix_stripped (ሰማይ)",
+      "current_def": "of heaven, heavenly",
+      "dillmann_entry_nums": [
+        "2221",
+        "757",
+        "2564"
+      ],
+      "dillmann_titles": [
+        "ርኅው",
+        "ሕብር",
+        "ሰማይ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. , fem. ርኁት፡, apertus , patens : ርኅው፡ ኆኅትየ፡ Job 31,32; ይረክብዎ፡ (ለአንቀጽ፡) ርኅወ፡ Jsp. p. 377; ኆኅት፡ ርኁት፡ Apoc. 3,8; Apoc. 4,1; Act. 16,27 Platt; 1 Cor. 16,9; ኀዋኅው፡ ርኅዋት፡ Hen. 32,2; Hen. 36,1 seq.; መሳክው፡ ርኅዋት፡ Hen. 72,7; ርእየ፡ ሰማየ፡ ርኅወ፡ Act. 10,11; ርኅው፡ ሎሙ፡ መካነ፡ ትዕግሥትየ፡ 4 Esr. 9,12."
+        ],
+        [
+          "subst. , m. et fem. , Pl. ሕበር፡ et ሕብራት፡ color : ሕብሩ፡ እሳተ፡ ይመስል፡ 4 Esr. 14,41; ዘዘ፡ ዚአሁ፡ ሕብረ፡ ጽጌሁ፡ 4,49; Sap. 13,14; Sap. 15,4; ሕብራት፡ colores Chrys. ho. 12; ሕብራት፡ ቀይሓት፡ Fal. f. 16; ሕብራቲሆሙ፡ ይመስል፡ መረግደ፡ Mavâs. 20; ጥበብ፡ እንተ፡ ብዙኅ፡ ሕበሪሃ፡ πολυποίκιλος Eph. 3,10; de colore cutis ሕብረ፡ ሥጋሁ፡ Ex. 4,7; ይገብእ፡ ሕብረ፡"
+        ],
+        [
+          "subst. , m. et fem. , Pl. ሰማያት፡ [שָׁמַיִם ܫ̈ܡܰܝܳܐ سَمَآءٌ] coelum , m. Jes. 13,13; Jes. 42,5; Jes. 48,13; Job 9,8; ልዑል፡ ሰማይ፡ Job 11,8; Ps. 103,3; Matth. 16,2; Matth. 16,3; Apoc. 12,1 al.; fem. Lev. 26,19; Jes. 40,22; Jes. 44,24; Jes. 45,12; Jer. 2,12; Hez. 32,7; Hagg. 2,6; Ps. 18,1; Ps. 49,7; Ps. 10"
+        ]
+      ]
+    },
+    "ወዘምድር": {
+      "match_type": "prefix_stripped (ምድር)",
+      "current_def": "and of + earth, land, ground, country",
+      "dillmann_entry_nums": [
+        "11323",
+        "4365",
+        "1586"
+      ],
+      "dillmann_titles": [
+        "በጌ",
+        "ቱሱሕ",
+        "ምድር"
+      ],
+      "dillmann_senses": [
+        [
+          "bagi subst. በጌ፡ ምድር፡ bage mǝdr (role name) vid. በጌምድር፡, ምድር፡"
+        ],
+        [
+          "part. mixtus , commixtus , temperatus : ወይን፡ ዘኢኮነ፡ ቱሱሐ፡ οἶνος ἀκρατος ( vinum merum ) Jer. 32,1; Ps. 74,7; Apoc. 14,10 Platt; ወይን፡ ምስለ፡ ከርቤ፡ ቱሱሕ፡ Marc. 15,23; ጸዐዳ፡ ቱሱሕ፡ ምስለ፡ ጸሊም፡ Voc. Ae.; ወትካትሰ፡ ሰማያት፡ ቱሱሕ፡ ምስለ፡ ማይ፡ ወምድርኒ፡ ሀለወት፡ ምስለ፡ ማይ፡ Clem. f. 48; ሠናይ፡ ዘይረክብ፡ ሰብእ፡ በዝ፡ ዓለም፡ ቱሱሕ፡ በጻማ፡ ወድካም፡ Jsp. p."
+        ],
+        [
+          "subst. , m. et fem. , Pl. አምዳር፡ et ምድራት፡, Pl. Pl. አምዳራት፡ terra i.e. orbis terrarum Gen. 1,1; Gen. 1,2; Gen. 2,1; Gen. 9,19; Gen. 19,31; Jes. 24,4; Jes. 65,17; Jes. 66,1; Jer. 4,28; Hen. 1,7; Hen. 2,3; Deut. 32,1; Matth. 5,18; Matth. 24,35; Hebr. 12,26; Eph. 1,10; ኵሉ፡ ምድር፡ omnes homines , Judith 11,1"
+        ]
+      ]
+    },
+    "ግብር": {
+      "match_type": "exact",
+      "current_def": "deed, work, act, thing",
+      "dillmann_entry_nums": [
+        "7113",
+        "8435",
+        "4114"
+      ],
+      "dillmann_titles": [
+        "ዐቃቢ",
+        "ምግባር",
+        "ቤት"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. , fem. ዐቃቢት፡, Pl. m. ዐቃብያን፡, c. ዐቀብት፡ custos : Gen. 4,9; ዐቃብያን፡ (v. ዐቀብተ፡) ቤት፡ Koh. 12,3; ዐቃቤ፡ ኅለት፡ Jes. 27,4; መኑ፡ ይሠይም፡ ዐቃቤ፡ ላዕለ፡ አፉየ፡ Sir. 22,27; Ps. 38,2; Ps. 140,3; አንትሙ፡ ካህናት፡ ዐቃብያነ፡ ቤተ፡ እግዚአብሔር፡ Clem. f. 205; ካህናት፡ ዐቃብያነ፡ ሕጉ፡ ለእግዚአብሔር፡ Clem. f. 207; Petrus ዐቃቤ፡ መራኁተ፡ መንግሥተ፡ ሰመያት፡ Clem. "
+        ],
+        [
+          "subst. , plerumque m. , Pl. ምግባራት፡ actio , agendi ratio , institutum vitae , facinora , facta vel opera quae quis facere solet , πρᾶγμα Koh. 3,1; Koh. 3,17; ለኵሉ፡ ሰብእ፡ ይፈድዮ፡ በከመ፡ ምግባሩ፡ κατὰ τὰς πράξεις Sir. 32,24; Ps. 27,5; Matth. 16,27; Luc. 23,51; Rom. 8,13; Col. 3,9; ποιήματα Ps. 63,10; Koh. 9,7; "
+        ],
+        [
+          "subst. , m. et fem. , Pl. አብያት፡ domus , domicilium , Matth. 2,11; Matth. 5,15; Matth. 7,24; Matth. 7,25; Matth. 7,26; Matth. 7,27; Matth. 8,6; Matth. 9,6; Matth. 9,7; Lev. 14,34 seq.; Lev. 25,29 seq.; Deut. 8,12; Job 1,19; Job 8,15; Koh. 10,18; Jes. 5,8; Jes. 5,9; Jes. 22,18; Jes. 65,21; Jer. 19,13."
+        ]
+      ]
+    },
+    "ዘላዕሌሁም": {
+      "match_type": "contains_root (ላዕሌሁ)",
+      "current_def": "of/which + upon them, over them",
+      "dillmann_entry_nums": [
+        "6872",
+        "7619"
+      ],
+      "dillmann_titles": [
+        "አስተውፅአ",
+        "አዝነመ"
+      ],
+      "dillmann_senses": [
+        [
+          "vel አስተወፅአ፡ IV,1 et crebrius አስተዋፅአ፡ IV,3 expendere , erogare : 4 Reg. 12,15; Marc. 5,26; 2 Cor. 12,15; ወአሐውር፡ ኣስተዋፅእ፡ ምጽዋተ፡ ἐδαπάνων αὐτά Tob. 1,7; አስተውፅኦ፡ (v. አስተዋፅኦ፡) ለመድፍንከ፡ በእንተ፡ ትእዛዙ፡ ለልዑል፡ Sir. 29,11; እለ፡ ኢያስተዋፅኡ፡ ብዕሎሙ፡ በሠናይ፡ ὁ κακῶς τῷ πλούτῳ κεχρημένος Chrys. Ta. 2; ለእመቦ፡ ምንትኒ፡ ዘአጥረይነ፡ ናስተዋ"
+        ],
+        [
+          "II,1 pluere facere vel jubere , de Deo: ኢያዝነመ፡ ዲበ፡ ምድር፡ Gen. 2,5; Kuf. 12; ያዘንም፡ ከመ፡ ዝናም፡ ኀያል፡ Jes. 30,30; Jer. 14,22; Ep. Jer. 52; ኣዘንም፡ ውስተ፡ ገጸ፡ አሐቲ፡ ሀገር፡ Am. 4,7; ያዘንም፡ ለክሙ፡ ጸዳየ፡ ወመፀወ፡ Joel 2,23; seq. ዝናመ፡ Matth. 5,45. grandinare facere : ኣዘንም፡ በረደ፡ Ex. 9,18; አዝነመ፡ ላዕለ፡ ሕዝብ፡ Sir. 46,6. alias res "
+        ]
+      ]
+    },
+    "እምፈትሐ": {
+      "match_type": "prefix_stripped (ፈትሐ)",
+      "current_def": "from + judgment, ruling, decision",
+      "dillmann_entry_nums": [
+        "9970"
+      ],
+      "dillmann_titles": [
+        "ፈትሐ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [פתח ܦܬܚ فتح] Subj. ይፍታሕ፡ aperire , saccum Gen. 42,27; Gen. 43,21; ፈትሐ፡ ኪሰ፡ Jsp. p. 370; uterum Gen. 29,31; Ex. 13,2; Ex. 13,13; Luc. 2,23; thesaurum Hen. 11,1; Deut. 28,12; os 4 Esr. 14,41; Hen. 56,8; Hen. 106,11; Jes. 52,15; aures: ፍታሕ፡ አፉሁ፡ ወእዘኒሁ፡ Kuf. 12; manus: ፈቲሐከ፡ እዴከ፡ Ps. 103,29; እደዊሃ፡ "
+        ]
+      ]
+    },
+    "ዘእንተ": {
+      "match_type": "prefix_stripped (እንተ)",
+      "current_def": "of/which + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "7442",
+        "416"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ዘ",
+        "ላዕለ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ],
+        [
+          "praep. frequentissima [e.q. על, ܥܰܠ, عَلَى, amh. ላይ፡]; pron. suffixa per ê sibi subjungit, ut ላዕሌየ፡, ላዕሌከ፡ caet. ( gramm. § 167,3) super , supra (ἐπὶ et ὑπέρ), et de statu quietis et de motu in superiorem loci partem: ቆመ፡ ዕዝራ፡ ላዕለ፡ መከየድ፡ ዘዕፅ፡ 2 Esr. 18,4; አዕረፈት፡ በረከት፡ ላዕለ፡ ያዕቆብ፡ ዲበ፡ ርእሱ፡ Sir. 44,23;"
+        ]
+      ]
+    },
+    "ወሰላም": {
+      "match_type": "prefix_stripped (ሰላም)",
+      "current_def": "and peace",
+      "dillmann_entry_nums": [
+        "5463",
+        "7441",
+        "14"
+      ],
+      "dillmann_titles": [
+        "አምኀ",
+        "ዘ",
+        "ሃሌታ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,2 [componendum videtur cum وَمِقَ amavit , dilexit ] osculari (sicut φιλεῖν), ut: epistola perveniens ad eum ተአምኅ፡ ሊተ፡ አእዳዊሁ፡ ህየንተ፡ አፈ፡ ዚአየ፡ (osculetur meo nomine manus ejus vice oris mei), p. 43 Nr. 49; cfr. ተኣምኀ፡ et አምኃ፡ dilectionis et venerationis significationem dare alicui, salutare aliquem ("
+        ],
+        [
+          "pron. rel. et conj. rel. ( gramm. § 147; gramm. § 169,5). Pron. rel. : Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡ qui , quae , quod . De constructione hujus pronominis (vid. gramm. § 201; § 202). Formae pronominis secundum numeros et genera variantur, ut: ኢየሱስ፡ ዘተብህለ፡ ክርስቶስ፡ Matth. 1,16; ምድር፡ እንተ፡ ኢኮነት፡ እንቲ"
+        ],
+        [
+          "subst. abstr. : cantus Halleluja : አንቀጸ፡ ሃሌታ፡ (v. ሃሊታ፡) እምዮሐንስ፡ tabula Hallelujarum inde a Joannis festo , Deg. (vid. Catal. Cod. Aeth. Mus. Brit. p. 37)."
+        ]
+      ]
+    },
+    "ወእምእንት": {
+      "match_type": "contains_root (እንት)",
+      "current_def": "and + from + that which; because of, on account of (conjunction)",
+      "dillmann_entry_nums": [
+        "5741"
+      ],
+      "dillmann_titles": [
+        "እንተ"
+      ],
+      "dillmann_senses": [
+        [
+          "(i.e. እንት፡ in Acc. et st. constr.) vice praepositionis fungitur, sed pronomina suffixa non admittit ( gramm. § 166,19; gramm. § 167,2). de loco et spatio in , ad , versus , a (vel variis nominum casibus latine vertendum), ut: እንተ፡ አይ፡ ፍኖት፡ ሖረ፡ (qua via, welchen Weg) 3 Reg. 13,12; Jac. 2,25; Matth. 2"
+        ]
+      ]
+    },
+    "ወግብርኩም": {
+      "match_type": "contains_root (ግብር)",
+      "current_def": "and + your (mp) deeds, your works",
+      "dillmann_entry_nums": [
+        "7113",
+        "8435"
+      ],
+      "dillmann_titles": [
+        "ዐቃቢ",
+        "ምግባር"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. , fem. ዐቃቢት፡, Pl. m. ዐቃብያን፡, c. ዐቀብት፡ custos : Gen. 4,9; ዐቃብያን፡ (v. ዐቀብተ፡) ቤት፡ Koh. 12,3; ዐቃቤ፡ ኅለት፡ Jes. 27,4; መኑ፡ ይሠይም፡ ዐቃቤ፡ ላዕለ፡ አፉየ፡ Sir. 22,27; Ps. 38,2; Ps. 140,3; አንትሙ፡ ካህናት፡ ዐቃብያነ፡ ቤተ፡ እግዚአብሔር፡ Clem. f. 205; ካህናት፡ ዐቃብያነ፡ ሕጉ፡ ለእግዚአብሔር፡ Clem. f. 207; Petrus ዐቃቤ፡ መራኁተ፡ መንግሥተ፡ ሰመያት፡ Clem. "
+        ],
+        [
+          "subst. , plerumque m. , Pl. ምግባራት፡ actio , agendi ratio , institutum vitae , facinora , facta vel opera quae quis facere solet , πρᾶγμα Koh. 3,1; Koh. 3,17; ለኵሉ፡ ሰብእ፡ ይፈድዮ፡ በከመ፡ ምግባሩ፡ κατὰ τὰς πράξεις Sir. 32,24; Ps. 27,5; Matth. 16,27; Luc. 23,51; Rom. 8,13; Col. 3,9; ποιήματα Ps. 63,10; Koh. 9,7; "
+        ]
+      ]
+    },
+    "ወይከውኑ": {
+      "match_type": "prefix_stripped (ይከውኑ)",
+      "current_def": "and + they become, they shall be",
+      "dillmann_entry_nums": [
+        "4975"
+      ],
+      "dillmann_titles": [
+        "ንቱግ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. demtus , exemtus : Filius ኢንቱግ፡ ወኢብዑድ፡ እምህላዌ፡ አቡሁ፡ M.M. f. 2; ከመ፡ ኢይኩኑ፡ ንቱጋነ፡ እማኅበር፡ Sx. Masc. 11 Enc. is de quo quid demtum est, mancus , imperfectus : ንቱጋነ፡ (v. ንትጋ፡) ይከውኑ፡ ἀτέλεστα Sap. 3,16; Hen. 77,2; እግዚአብሔር፡ ደለወከ፡ ወረከበከ፡ ሕጹጸ፡ ወንቱገ፡ (sec. Dan. 5,27) Jsp. p. 275; አኮ፡ መፍትው፡ ከመ፡ ንኅድግ፡ ቤተ፡ እ"
+        ]
+      ]
+    },
+    "በፈትሐ": {
+      "match_type": "prefix_stripped (ፈትሐ)",
+      "current_def": "in/by + judgment, ruling, decision",
+      "dillmann_entry_nums": [
+        "9970"
+      ],
+      "dillmann_titles": [
+        "ፈትሐ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [פתח ܦܬܚ فتح] Subj. ይፍታሕ፡ aperire , saccum Gen. 42,27; Gen. 43,21; ፈትሐ፡ ኪሰ፡ Jsp. p. 370; uterum Gen. 29,31; Ex. 13,2; Ex. 13,13; Luc. 2,23; thesaurum Hen. 11,1; Deut. 28,12; os 4 Esr. 14,41; Hen. 56,8; Hen. 106,11; Jes. 52,15; aures: ፍታሕ፡ አፉሁ፡ ወእዘኒሁ፡ Kuf. 12; manus: ፈቲሐከ፡ እዴከ፡ Ps. 103,29; እደዊሃ፡ "
+        ]
+      ]
+    },
+    "ወበጽድቅ": {
+      "match_type": "prefix_stripped (ጽድቅ)",
+      "current_def": "and + in/with + righteousness, justice",
+      "dillmann_entry_nums": [
+        "10123",
+        "9565",
+        "4643"
+      ],
+      "dillmann_titles": [
+        "ፍጹም",
+        "ጽድቃት",
+        "ኀየሰ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. impletus , plenus : Lev. 4,5; Num. 3,3; ሥርናይ፡ ፍጹም፡ πλήρης Marc. 4,28; ወርኅ፡ ፍጹመ፡ ብርሃን፡ Abush. 13. plenus , de tempore, vid. infra sub. n. 2,e. ፍጹመ፡ መዋዕል፡ plenus dierum i.e. qui vitae suae tempus explevit Kuf. 22. expletus : Rom. 13,10. perfectus , absolutus , plenus : ad finem perductus , consu"
+        ],
+        [
+          "vid. sub ጽድቅ፡"
+        ],
+        [
+          "I,2 [sine dubio i.q. ኀየረ፡, permutatis literis r et s ] meliorem , praestantiorem esse vel fieri : ዘይኄይስ፡ ይከውን፡ ኀቤከ፡ βέλτιον ἔσται σοι Jer. 45,20; 1 Cor. 11,17; 1 Cor. 12,31; Hebr. 7,22. c.c. እምነ፡ pers. vel rei, quae superatur: Ps. 36,17; ፈሪሀ፡ እግዚአብሔር፡ እምኵሉ፡ ትኄይስ፡ Sir. 25,11; ኀየሰ፡ ነፍስቶሙ፡ ወሠነየ፡ ራእዮሙ፡ "
+        ]
+      ]
+    },
+    "በእምወይነ": {
+      "match_type": "contains_root (ወይነ)",
+      "current_def": "in + from + the days of, in the time of",
+      "dillmann_entry_nums": [
+        "2762",
+        "2765"
+      ],
+      "dillmann_titles": [
+        "ሰትየ",
+        "ስቱይ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [שָׁתָה ܐܶܫܬܺܝ] Subj. ይስተይ፡, Imperat. ስተይ፡ et ስቲ፡ bibere , absol. Gen. 30,38; Ex. 17,6; Num. 29,11; በሊዕ፡ ወሰትይ፡ Ruth 3,3; ንብላዕ፡ ወንስተይ፡ Jes. 22,13; Jes. 21,5; Jes. 29,8; Jer. 32,13; 4 Esr. 10,7; Luc. 17,8; c. Acc. rei Lev. 10,9; እለ፡ ይሰትይዎ፡ ለወይን፡ Jes. 5,22; Jes. 22,13; Jes. 25,6; Jer. 42,5; Jer. 42"
+        ],
+        [
+          "part. potus : ኢትገሥጽ፡ ቢጸከ፡ እንዘ፡ ስቱይ፡ ወይን፡, var. ወይነ፡, Sir. 34,31."
+        ]
+      ]
+    },
+    "ወበእንተ": {
+      "match_type": "prefix_stripped (እንተ)",
+      "current_def": "and in + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "7442",
+        "416"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ዘ",
+        "ላዕለ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ],
+        [
+          "praep. frequentissima [e.q. על, ܥܰܠ, عَلَى, amh. ላይ፡]; pron. suffixa per ê sibi subjungit, ut ላዕሌየ፡, ላዕሌከ፡ caet. ( gramm. § 167,3) super , supra (ἐπὶ et ὑπέρ), et de statu quietis et de motu in superiorem loci partem: ቆመ፡ ዕዝራ፡ ላዕለ፡ መከየድ፡ ዘዕፅ፡ 2 Esr. 18,4; አዕረፈት፡ በረከት፡ ላዕለ፡ ያዕቆብ፡ ዲበ፡ ርእሱ፡ Sir. 44,23;"
+        ]
+      ]
+    },
+    "በምዕራፍ": {
+      "match_type": "prefix_stripped (ምዕራፍ)",
+      "current_def": "in/by + section, chapter, division",
+      "dillmann_entry_nums": [
+        "7054",
+        "4906",
+        "3128"
+      ],
+      "dillmann_titles": [
+        "ምዕራፍ",
+        "አንቀፅ",
+        "ምስፋር"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. ( m. ), Pl. ምዕራፋት፡ locus quietis , locus quo quis residet , mansio , κατάπαυσις Deut. 12,9; Ps. 131,15; ወይከውን፡ ክቡረ፡ ምዕራፊሁ፡ Jes. 11,10; ይእኅዝ፡ ጽድቅ፡ ምዕራፈ፡ Jes. 32,17; Jes. 34,14; ማኅደረ፡ ምዕራፍየ፡ Jes. 66,1; ኢየሩሳልም፡ ሀገረ፡ ማኅደረ፡ ምዕራፊከ፡ Sir. 36,18; ደብተራ፡ ምዕራፈ፡ ስብሐተ፡ ስምከ፡ Judith 9,8; ሀገረ፡ ምዕራፍከ፡ κατασκην"
+        ],
+        [
+          "et አንቀጽ፡ subst. , m. et fem. , Pl. አናቅጽ፡, porta ( janua ) πύλη, θύρα, urbis Gen. 34,24; Deut. 22,24; Jud. 16,2; Jud. 16,3; 1 Reg. 21,13; 2 Reg. 10,8; አናቅጸ፡ አህጉር፡ Jes. 14,31; Jes. 22,7; Jes. 22,8; Jer. 17,19; Luc. 7,12; Act. 9,24; 2 Esr. 13; አንቀጸ፡ ብንያም፡ Jer. 44,13; templi: Hez. 40,6; ዛቲ፡ አንቀጽ፡ ዕጹታ፡ ት"
+        ],
+        [
+          "subst. i.q. መስፈርት፡ Kuf. p. 141 ann. 8. ምስፋር፡ (v. ምዕራፍ፡) ወክንፋር፡ ዘ፡ ሻኛ፡ መዝራዕት፡ ወርች፡ Voc. Ae."
+        ]
+      ]
+    },
+    "ይከውኑ": {
+      "match_type": "exact",
+      "current_def": "they become, they shall be",
+      "dillmann_entry_nums": [
+        "4975"
+      ],
+      "dillmann_titles": [
+        "ንቱግ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. demtus , exemtus : Filius ኢንቱግ፡ ወኢብዑድ፡ እምህላዌ፡ አቡሁ፡ M.M. f. 2; ከመ፡ ኢይኩኑ፡ ንቱጋነ፡ እማኅበር፡ Sx. Masc. 11 Enc. is de quo quid demtum est, mancus , imperfectus : ንቱጋነ፡ (v. ንትጋ፡) ይከውኑ፡ ἀτέλεστα Sap. 3,16; Hen. 77,2; እግዚአብሔር፡ ደለወከ፡ ወረከበከ፡ ሕጹጸ፡ ወንቱገ፡ (sec. Dan. 5,27) Jsp. p. 275; አኮ፡ መፍትው፡ ከመ፡ ንኅድግ፡ ቤተ፡ እ"
+        ]
+      ]
+    },
+    "እምመላእክት": {
+      "match_type": "prefix_stripped (መላእክት)",
+      "current_def": "from + angels, messengers (plural)",
+      "dillmann_entry_nums": [
+        "12254",
+        "1106",
+        "352"
+      ],
+      "dillmann_titles": [
+        "ምስኳዐ፡ ምሕያከ፡ መላእክት፡",
+        "ምልክና",
+        "መልአክ"
+      ],
+      "dillmann_senses": [
+        [
+          "mǝskwāʿa mǝḥyāka malāʾǝkt n. pr. (place name) ወእምድኅረ፡ ቀሠፍዎሙ፡ ወደይዎሙ፡ ውስተ፡ ምምስኳዐ፡ {form used in that ms.} ምሕያከ፡ መላእክት፡ ‘ After they had flogged them, they threw them into the ruminating place of officersʼ cud ’ 78 l. 6–7 (ed.), 67 l. 24–25 (tr.); ወእንዘ፡ ይነብሩ፡ ህየ፡ ለአኩ፡ ኀበ፡ ሊቀ፡ ማኅበር፡ አኃው፡ እለ፡ አግዓዞሙ፡ ንጉሥ፡"
+        ],
+        [
+          "subst. dominium , mancipium : ይጸንዕ፡ ምልክናሁ፡ እምድኅረ፡ ፴ ዓመት፡ (sc. usucapione) F.N. 35; ንኤዝዝ፡ ከመ፡ ይኩን፡ ላቲ፡ (ለብእሲት፡) ምልክናሁ፡ ለዝንቱ፡ ንዋይ፡ F.N. 24,7; potestas patria, tutoris al.; auctoritas , dominium , imperium , majestas , celsitudo : ዘታሕተ፡ ምልክናሁ፡ qui sub ejus (tutoris) potestate est F.N. 24; አሰስሎተ፡ ምልክናሁ፡"
+        ],
+        [
+          "subst. , m. [מַלְאָךְ, ܡܰܠܰܐܟܳܐ, مَلْأَكٌ, amh. መልአክ፡ et መላክ፡] Pl. መላእክት፡ nuntius , legatus : መላእክት፡ ረዋጽያን፡ Jes. 18,2; Judith 3,1. in specie legatus Dei i.e. angelus Luc. 2,13; Job 1,6; Hebr. 1,4-7; al. saepissime; መልአከ፡ ብርሃን፡ 2 Cor. 11,14; መላእክት፡ ዘመቅሠፍት፡ Hen. 56,1; መላእክት፡ ሞት፡ Job 33,23; Asc. Jes. 9"
+        ]
+      ]
+    },
+    "ወእምግብርኩም": {
+      "match_type": "contains_root (ግብር)",
+      "current_def": "and from + your (mp) deeds, your works",
+      "dillmann_entry_nums": [
+        "7113",
+        "8435"
+      ],
+      "dillmann_titles": [
+        "ዐቃቢ",
+        "ምግባር"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. , fem. ዐቃቢት፡, Pl. m. ዐቃብያን፡, c. ዐቀብት፡ custos : Gen. 4,9; ዐቃብያን፡ (v. ዐቀብተ፡) ቤት፡ Koh. 12,3; ዐቃቤ፡ ኅለት፡ Jes. 27,4; መኑ፡ ይሠይም፡ ዐቃቤ፡ ላዕለ፡ አፉየ፡ Sir. 22,27; Ps. 38,2; Ps. 140,3; አንትሙ፡ ካህናት፡ ዐቃብያነ፡ ቤተ፡ እግዚአብሔር፡ Clem. f. 205; ካህናት፡ ዐቃብያነ፡ ሕጉ፡ ለእግዚአብሔር፡ Clem. f. 207; Petrus ዐቃቤ፡ መራኁተ፡ መንግሥተ፡ ሰመያት፡ Clem. "
+        ],
+        [
+          "subst. , plerumque m. , Pl. ምግባራት፡ actio , agendi ratio , institutum vitae , facinora , facta vel opera quae quis facere solet , πρᾶγμα Koh. 3,1; Koh. 3,17; ለኵሉ፡ ሰብእ፡ ይፈድዮ፡ በከመ፡ ምግባሩ፡ κατὰ τὰς πράξεις Sir. 32,24; Ps. 27,5; Matth. 16,27; Luc. 23,51; Rom. 8,13; Col. 3,9; ποιήματα Ps. 63,10; Koh. 9,7; "
+        ]
+      ]
+    },
+    "እምወይነ": {
+      "match_type": "prefix_stripped (ወይነ)",
+      "current_def": "from + the days of, from the time of",
+      "dillmann_entry_nums": [
+        "2762",
+        "2765"
+      ],
+      "dillmann_titles": [
+        "ሰትየ",
+        "ስቱይ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [שָׁתָה ܐܶܫܬܺܝ] Subj. ይስተይ፡, Imperat. ስተይ፡ et ስቲ፡ bibere , absol. Gen. 30,38; Ex. 17,6; Num. 29,11; በሊዕ፡ ወሰትይ፡ Ruth 3,3; ንብላዕ፡ ወንስተይ፡ Jes. 22,13; Jes. 21,5; Jes. 29,8; Jer. 32,13; 4 Esr. 10,7; Luc. 17,8; c. Acc. rei Lev. 10,9; እለ፡ ይሰትይዎ፡ ለወይን፡ Jes. 5,22; Jes. 22,13; Jes. 25,6; Jer. 42,5; Jer. 42"
+        ],
+        [
+          "part. potus : ኢትገሥጽ፡ ቢጸከ፡ እንዘ፡ ስቱይ፡ ወይን፡, var. ወይነ፡, Sir. 34,31."
+        ]
+      ]
+    },
+    "እምአድባብር": {
+      "match_type": "contains_root (ድባብ)",
+      "current_def": "from + mountains (plural, extended form)",
+      "dillmann_entry_nums": [
+        "7981",
+        "1680"
+      ],
+      "dillmann_titles": [
+        "ድባብ",
+        "ምሥሃል"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , amharicum magis quam aeth., uraniscus portabilis vel umbraculum („a large umbrella, which instead of a canopy the priests carry about in procession“ Isenb. p. 166), Genz. f. 40 (vid. sub መርዋሕት፡); ጸዋሬ፡ ድባብ፡ Chron. Ax. f. 89."
+        ],
+        [
+          "subst. locus clementiae vel propitiationis i.e. ἱλαστήριον propitiatorium (כַּפֹּרֶת operculum arcae foederis, cui insistebant Cherubim) Ex. 38,5-8; Lev. 16,2; Lev. 13 seq.; Num. 7,89; Am. 9,1; Am. 8,14 (ምሥሃል፡ ሰማርያ፡); Hebr. 9,5. „ uraniscus , qualis in Aethiopia est super altaribus vel etiam super l"
+        ]
+      ]
+    },
+    "ወእምመራዕይ": {
+      "match_type": "contains_root (መራዕይ)",
+      "current_def": "and from + visions, revelations (plural)",
+      "dillmann_entry_nums": [
+        "2316",
+        "2322"
+      ],
+      "dillmann_titles": [
+        "መርዓት",
+        "መርዐይ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , fem. , Pl. መራዕው፡, rarius መራዕይ፡ (Gen. 21,22; Gen. 26,26; gramm. § 139,2,c) et መራዕዋት፡ et መርዓውያት፡ et መርዓታት፡ (Sx. Nah. 17) sponsa nuptialis , sponsa , νύμφη Jes. 49,18; Jes. 61,10; Jes. 62,5; Jer. 2,32; Jer. 7,34; Jer. 16,9; Jer. 40,11; Joel 1,8; Joel 2,16; ኮንኪ፡ ሊተ፡ መርዓተ፡ Hez. 16,8; Cant. 4,8; "
+        ],
+        [
+          "(Matth. 8,31 rom.; Matth. 8,30-32 Platt), at plerumque መርዔት፡ subst. , m. et fem. , Pl. መራዕይ፡, rarius መርዔታት፡ (ἀγέλαι Cyr. hom. f. 103) jumenta et armenta et pecus pastum ducta , grex (ἀγέλη, ποίμνιον, ποίμνη, νομάδες, κτήνη, βόσκημα, βουκόλιον al.) Cant. 4,1; Cant. 4,2; Jer. 10,21; Jer. 10,22; Jer. 2"
+        ]
+      ]
+    },
+    "በሰላም": {
+      "match_type": "exact",
+      "current_def": "in/by + peace, completeness, well-being",
+      "dillmann_entry_nums": [
+        "5058",
+        "9470",
+        "2435"
+      ],
+      "dillmann_titles": [
+        "አነመ",
+        "ጸውዐ",
+        "ሰላም"
+      ],
+      "dillmann_senses": [
+        [
+          "et አኖመ፡ II,1 dormire facere , somnum afferre , sopire , soporare : ምንተ፡ ያነውመከ፡ Jon. 1,6; Luc. 22,46; አነመቶ፡ (v. አኖመቶ፡) Jud. 16,14; Jud. 16,19; Kuf. 31. obdormire facere , de moribundis: አነሞሙ፡ (v. አኖሞሙ፡) ለኵሎሙ፡ ነገሥት፡ Jes. 14,18; Nah. 3,18; አኑመነ፡ (Imperat.) በሰላም፡ Deg."
+        ],
+        [
+          "(passim ጸወዐ፡ scriptum ut Ex. 34,5) I,2 [צָוַח צְוַח صاح, sine dubio etiam שִׁוֵּע et دعا] vocare , Jes. 44,7; Jes. 50,2; Job 5,1; c. Acc. pers.: Job 13,22; 1 Reg. 3,4; 1 Reg. 3,5; 1 Reg. 3,6; 1 Reg. 3,7; 1 Reg. 3,8; 1 Reg. 15,2; 1 Reg. 26,14; Gen. 3,9; Gen. 27,1; Ex. 3,4; Cant. 3,1; (προσφωνεῖν) Mat"
+        ],
+        [
+          "subst. , m. et fem. (ut Rom. 14,19; 1 Petr. 3,11; Hen. 5,4), [ܫܠܳܡ שָׁלוֹם سَلَامٌ] incolumitas , salus Hen. 76,8; Hen. 76,13; ሑር፡ በሰላም፡ Kuf. 18; በሰላም፡ የሐውር፡ ወበሰላም፡ ይትመየጥ፡ Kuf. 27; 2 Reg. 3,23; 2 reg. 3,24; ይዜንዎ፡ በእንተ፡ ሰላም፡ 2 Reg. 8,10; 1 Reg. 30,21; ከመ፡ ያእምር፡ ሰላሞሙ፡ ut cognosceret, quomodo valerent "
+        ]
+      ]
+    },
+    "ወእምሄኖክ": {
+      "match_type": "contains_root (ሄኖክ)",
+      "current_def": "and from + Enoch (proper noun)",
+      "dillmann_entry_nums": [
+        "10174"
+      ],
+      "dillmann_titles": [
+        "ሄኖክ"
+      ],
+      "dillmann_senses": [
+        [
+          "Henoch."
+        ]
+      ]
+    },
+    "በእንተ": {
+      "match_type": "exact",
+      "current_def": "in/by + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "4734",
+        "8397"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ኀፈረI",
+        "አንጐርጐረ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "I,1; raro ኀፍረ፡ [i.q. חָפֵר ܚܦܰܪ خَفِرَ, amh. አፈረ፡; vic. חמר خمر (vid. ሐመረ፡)] Subj. ይኅፈር፡ erubescere , rubore suffundi , pudere , abs. , ut Gen. 2,25; ዘኢየኀፍር፡ ὁ ἀπολωλεκώς αἰσχύνην Sir. 29,14; ዘየኀፍር፡ αἰσχυντηρός pudibundus Sir. 35,10; Kuf. 3; ተኀፍሩ፡ ወኀፊረ፡ ኢኀፈሩ፡ (var. ኢኀፍሩ፡) Jer. 6,15; ወኀፍረተ፡ ኢኀፈሩ፡ Jer"
+        ],
+        [
+          "V murmurare , fremere prae impatientia vel indignatione, queritari , indignabundum esse , stomachari : እለ፡ ያንጐረጕሩ፡ οἱ γογγύζοντες Jes. 29,24; Jes. 30,12; ለምንት፡ ያንጐረጕር፡ ሰብእ፡ Thren. 3,38; Judith 5,22; Ps. 58,17; Ps. 105,25; Ex. 15,24; Num. 11,1; Judae 16; διαγογγύζειν Deut. 1,27; Luc. 15,2; አንጐርጐሩ፡ ወተ"
+        ]
+      ]
+    },
+    "ወእምምድር": {
+      "match_type": "contains_root (ምድር)",
+      "current_def": "and from + earth, land, ground, country",
+      "dillmann_entry_nums": [
+        "11323",
+        "4365"
+      ],
+      "dillmann_titles": [
+        "በጌ",
+        "ቱሱሕ"
+      ],
+      "dillmann_senses": [
+        [
+          "bagi subst. በጌ፡ ምድር፡ bage mǝdr (role name) vid. በጌምድር፡, ምድር፡"
+        ],
+        [
+          "part. mixtus , commixtus , temperatus : ወይን፡ ዘኢኮነ፡ ቱሱሐ፡ οἶνος ἀκρατος ( vinum merum ) Jer. 32,1; Ps. 74,7; Apoc. 14,10 Platt; ወይን፡ ምስለ፡ ከርቤ፡ ቱሱሕ፡ Marc. 15,23; ጸዐዳ፡ ቱሱሕ፡ ምስለ፡ ጸሊም፡ Voc. Ae.; ወትካትሰ፡ ሰማያት፡ ቱሱሕ፡ ምስለ፡ ማይ፡ ወምድርኒ፡ ሀለወት፡ ምስለ፡ ማይ፡ Clem. f. 48; ሠናይ፡ ዘይረክብ፡ ሰብእ፡ በዝ፡ ዓለም፡ ቱሱሕ፡ በጻማ፡ ወድካም፡ Jsp. p."
+        ]
+      ]
+    },
+    "በብርሃን": {
+      "match_type": "prefix_stripped (ብርሃን)",
+      "current_def": "in/by + light, illumination",
+      "dillmann_entry_nums": [
+        "3865",
+        "854"
+      ],
+      "dillmann_titles": [
+        "ብርሃን",
+        "ሖረ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , plerumque m. ( fem. ex. gr. Jac. 1,17), Pl. ብርሃናት፡ lux , lumen (φῶς, φέγγος) Gen. 1,3; Gen. 1,4; Jes. 5,20; Jes. 9,1; Jes. 45,7; Jes. 60, 1; Jes. 60, 2; Jes. 60, 3; Jer. 28,16; Koh. 11,7; Job 3,4; Job 17,12; Job 38,19; Joh. 11,10; Matth. 10,27, al. creberrime; ብርሃነ፡ ወርኅ፡, ፀሓይ፡ Jes. 30,26; A"
+        ],
+        [
+          "I,1 [i.q. سَارَ profectus fuit , vid. §39.b; حَارَ (حَوْرٌ) significat redire ] Subj. (potissimum in libris antiquioribus) ይሖር፡ et (in recentioribus plerumque) ይሑር፡ (vid. gramm. p. 147), verbum usu tritissimum ire , incedere , vadere , proficisci : በእንግድዓኪ፡ ሑሪ፡ Gen. 3,13; ዘየሐውር፡ በአርባዕ፡, በእደዊሁ፡ Lev. "
+        ]
+      ]
+    },
+    "ዘደበረ": {
+      "match_type": "prefix_stripped (ደበረ)",
+      "current_def": "of/which + mountain (construct state)",
+      "dillmann_entry_nums": [
+        "5759"
+      ],
+      "dillmann_titles": [
+        "አንደባራ"
+      ],
+      "dillmann_senses": [
+        [
+          "vid. sub ደበረ፡"
+        ]
+      ]
+    },
+    "ሲና": {
+      "match_type": "exact",
+      "current_def": "Sinai (proper name) - the holy mountain where God appeared; from Hebrew Sinay",
+      "dillmann_entry_nums": [
+        "10418"
+      ],
+      "dillmann_titles": [
+        "ሲና"
+      ],
+      "dillmann_senses": [
+        [
+          "Sinai mons."
+        ]
+      ]
+    },
+    "ወዘደበረ": {
+      "match_type": "prefix_stripped (ደበረ)",
+      "current_def": "and of + mountain (construct state)",
+      "dillmann_entry_nums": [
+        "5759"
+      ],
+      "dillmann_titles": [
+        "አንደባራ"
+      ],
+      "dillmann_senses": [
+        [
+          "vid. sub ደበረ፡"
+        ]
+      ]
+    },
+    "ይግበር": {
+      "match_type": "exact",
+      "current_def": "he does, he makes, he acts; imperfect of gabara (to do)",
+      "dillmann_entry_nums": [
+        "8420"
+      ],
+      "dillmann_titles": [
+        "ገብረ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [גָּבֵר valuit , fortis fuit ; de prima radicis significatione vid. Ges. thes. p. 261] Subj. ይግበር፡ actuosum esse , laborare , Ruth 2,19; Ruth 3,2; Ex. 31,5. agere Deut. 17,12; Num. 24,18; Joh. 5,17; Jac. 2,22 Platt; Rom. 7,5. transit., facere , creare , condere : Gen. 1,7; Gen. 1,16 seq.; Gen. 2"
+        ]
+      ]
+    },
+    "ይዕሴት": {
+      "match_type": "prefix_stripped (ዕሴት)",
+      "current_def": "iniquity, wickedness, transgression (noun)",
+      "dillmann_entry_nums": [
+        "7085"
+      ],
+      "dillmann_titles": [
+        "ዕሴት"
+      ],
+      "dillmann_senses": [
+        [
+          ", rarius ዕስየት፡, subst. , fem. et m. (ut Ruth 2,12), Pl. ዕሴያት፡ (Hen. 105,1), retributio , remuneratio , praemium , gratia ( relata vel referenda ): ይመጽእ፡ (Christus) ለፍዳ፡ ኃጥኣን፡ ወለዕሴተ፡ ጻድቃን፡ M.M. f. 71; እግዚአብሔር፡ ያገብእ፡ ዕስየተ፡ (ἀνταποδιδούς) Sir. 32,13; ትረክብ፡ ዕሴተከ፡ Sir. 12,2; μισθός Matth. 6,2; 1 Cor. 3,1"
+        ]
+      ]
+    },
+    "እስከ": {
+      "match_type": "exact",
+      "current_def": "until, up to",
+      "dillmann_entry_nums": [
+        "4759",
+        "6045",
+        "4801"
+      ],
+      "dillmann_titles": [
+        "ነ",
+        "ከመ",
+        "ነሥአ"
+      ],
+      "dillmann_senses": [
+        [
+          "partic. suff. ( gramm. § 160,a) sine dubio extenuata e ኔ፡ (q.v.): versus ; nonnisi voci እስከ፡, sive praep. sive conj. sit, annexa occurrit, sc. እስከነ፡ (i.q. እስከኔ፡), quod significat: usque ad Ex. 13,2; Jud. 15,14; Ps. 49,2; Ps. 112,3; Mal. 1,11; እስከነ፡ ምክያድ፡ 1 Par. 13,9; Phlx. crebro. usque dum , donec,"
+        ],
+        [
+          "adv. rel. , praep. , conj. [כְּמוֹ, כְּמָא, ܐܰܟܡܳܐ, كَمَا; gramm. § 63, a; gramm. § 64, b], Adv. rel. integrae sententiae praemissum: ከመ፡ comparative: ut , sicut , quemadmodum , sive addito correlato ( sic , ita ): Sir. 3,15; Sir. 10,2; ከመ፡ ይፈቱ፡ ኅጽው፡ – ከማሁ፡ Sir. 20,4; Jes. 62,5; Jer. 3,20; Hen. 28,2"
+        ],
+        [
+          "I,1 [נָשָׂא, etiam نَاشَ نَأَشَ نَشَأَ; amh. ነሣ፡] Subj. ይንሣእ፡ suscipere , tollere , elevare (vid. አንሥአ፡ II,1): ነሥአኒ፡ መንፈስ፡ ἀνέλαβέ με πνεῦμα Hez. 11,1; ነሥእዎ፡ እምነ፡ ብሔር፡ Sir. 49,14; (4 Esr. 8,24); ንሥኡ፡ ትእምርተ፡ ለአሕዛብ፡ ἐξάρατε Jes. 62,10; Jer. 6,1; Jer. 28,12 (v. አንሥኡ፡); Jer. 28,27; lapidem Sir. 6,21 var"
+        ]
+      ]
+    },
+    "ዘላዕለ": {
+      "match_type": "prefix_stripped (ላዕለ)",
+      "current_def": "of/which + above, on high, over",
+      "dillmann_entry_nums": [
+        "3901",
+        "6245",
+        "7980"
+      ],
+      "dillmann_titles": [
+        "ባረከ",
+        "አኰነነ",
+        "ዲበ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,3 genibus flexis laudare , celebrare , venerari Deum, c.c. Acc. Deut. 8,10; Jud. 5,2; Ps. 15,7; Ps. 25,12; Ps. 144,2; Kuf. 22; Sir. 50,22; Jes. 25,3; Jes. 38,18; Jes. 65,16; Hen. 39,12; Hen. 61,7; Hen. 61,12; Hen. 63,2; Luc. 1,64; Luc. 24,53; c. ለ, ut: ባርኩ፡ ለስሙ፡ በኵሉ፡ ጊዜ፡ Sir. 39,35; Ps. 95,2; Ps. "
+        ],
+        [
+          "II,2 judicem constituere aliquem: ኢያኴንንዎሙ፡ Sir. 38,33. condemnationem adsciscere alicui, 2 Cor. 3,9 Platt; c. Acc. Herm. p. 108. principatum deferre , potestatem dare alicui, dominum , principem constituere , praeficere aliquem: ምኵናንየ፡ ኀበ፡ አኰነነኒ፡ Sir. 24,11; c. dupl. Acc. : አኮ፡ ለከንቱ፡ አኰነንዎ፡ መጥባሕተ፡ R"
+        ],
+        [
+          "praep. [sive a ደበበ፡ sive a ዴበ፡ propagata] antiquitus ዲቤ፡ (ut Matth. 14,26 et Matth. 24,2 rom.; Joh. 12,15 et Joh. 13,25 rom.) quae forma ante pronomina suff. semper retinetur (gramm. § 167,3), dein plerumque ዲበ፡ ዲበ፡ simplex: super , supra , in , plerumque ἐπί, de statu quietis et de motu (cum ላዕለ፡ m"
+        ]
+      ]
+    },
+    "ወእንተ": {
+      "match_type": "prefix_stripped (እንተ)",
+      "current_def": "and + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "7442",
+        "416"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ዘ",
+        "ላዕለ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ],
+        [
+          "praep. frequentissima [e.q. על, ܥܰܠ, عَلَى, amh. ላይ፡]; pron. suffixa per ê sibi subjungit, ut ላዕሌየ፡, ላዕሌከ፡ caet. ( gramm. § 167,3) super , supra (ἐπὶ et ὑπέρ), et de statu quietis et de motu in superiorem loci partem: ቆመ፡ ዕዝራ፡ ላዕለ፡ መከየድ፡ ዘዕፅ፡ 2 Esr. 18,4; አዕረፈት፡ በረከት፡ ላዕለ፡ ያዕቆብ፡ ዲበ፡ ርእሱ፡ Sir. 44,23;"
+        ]
+      ]
+    },
+    "ወእምዕቡይ": {
+      "match_type": "contains_root (ዕቡይ)",
+      "current_def": "and from + great, large, mighty",
+      "dillmann_entry_nums": [
+        "4240",
+        "289"
+      ],
+      "dillmann_titles": [
+        "ትሑት",
+        "ልብ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. , fem. ትሕት፡, humilis demissus , de oculis: ትሑታነ፡ ገጽ፡ Hen. 48,8. exilis , de voce feminae, Lud. ex Enc. de sorte et conditione hominum: vilis , ignobilis , abjectus , ትሑት፡ ምስለ፡ ዐቢይ፡ Kuf. 23; Job 5,11. Job 12,21; 1 Reg. 18,23; ራእዩ፡ ምኑን፡ ወትሑት፡ እምኵሉ፡ ሰብእ፡ Jes.53,8; 1 Cor. 4,10; Luc. 1,52; Luc. 16,"
+        ],
+        [
+          "subst. [לֵב et לֵבָב, ܠܶܒܳܐ, لُبٌّ amh. ልብ፡; de etymo vid. Ges. thes. p. 738] m. et fem. (ut Prov. 6,18; Prov. 15,13; Prov. 15,14; Prov. 17,22; Prov. 26,23; Job 36,34; Koh. 1,16; Koh. 2,23; Koh. 7,22; Koh. 8,17; Koh. 9,3; Jer. 18,12) Pl. አልባብ፡ (ut Matth. 9,4) est sensu physico cor et hominum ut Ps. "
+        ]
+      ]
+    },
+    "እለ": {
+      "match_type": "exact",
+      "current_def": "these, those, the ones who (relative pronoun, plural)",
+      "dillmann_entry_nums": [
+        "7442",
+        "5394",
+        "7441"
+      ],
+      "dillmann_titles": [
+        "ዘ",
+        "እለ",
+        "ዘ"
+      ],
+      "dillmann_senses": [
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ],
+        [
+          "ቄጥሩ፡ vel ኤሌቄጥሩ፡ n. peregr. , ἤλεκτρον, electrum Hez. 1 4; Hez. 1,27; Hez. 8,2. – Voc. Ae.: እለ፡ ቄጥሩ፡ ዘ፡ ዖፍ፡ ዘራብዕ፡ ርእሱ፡ (!!)."
+        ],
+        [
+          "pron. rel. et conj. rel. ( gramm. § 147; gramm. § 169,5). Pron. rel. : Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡ qui , quae , quod . De constructione hujus pronominis (vid. gramm. § 201; § 202). Formae pronominis secundum numeros et genera variantur, ut: ኢየሱስ፡ ዘተብህለ፡ ክርስቶስ፡ Matth. 1,16; ምድር፡ እንተ፡ ኢኮነት፡ እንቲ"
+        ]
+      ]
+    },
+    "እምእንት": {
+      "match_type": "prefix_stripped (እንት)",
+      "current_def": "from + that which, because of, on account of",
+      "dillmann_entry_nums": [
+        "5741"
+      ],
+      "dillmann_titles": [
+        "እንተ"
+      ],
+      "dillmann_senses": [
+        [
+          "(i.e. እንት፡ in Acc. et st. constr.) vice praepositionis fungitur, sed pronomina suffixa non admittit ( gramm. § 166,19; gramm. § 167,2). de loco et spatio in , ad , versus , a (vel variis nominum casibus latine vertendum), ut: እንተ፡ አይ፡ ፍኖት፡ ሖረ፡ (qua via, welchen Weg) 3 Reg. 13,12; Jac. 2,25; Matth. 2"
+        ]
+      ]
+    },
+    "ሰላም": {
+      "match_type": "exact",
+      "current_def": "peace, completeness, well-being",
+      "dillmann_entry_nums": [
+        "5463",
+        "7441",
+        "14"
+      ],
+      "dillmann_titles": [
+        "አምኀ",
+        "ዘ",
+        "ሃሌታ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,2 [componendum videtur cum وَمِقَ amavit , dilexit ] osculari (sicut φιλεῖν), ut: epistola perveniens ad eum ተአምኅ፡ ሊተ፡ አእዳዊሁ፡ ህየንተ፡ አፈ፡ ዚአየ፡ (osculetur meo nomine manus ejus vice oris mei), p. 43 Nr. 49; cfr. ተኣምኀ፡ et አምኃ፡ dilectionis et venerationis significationem dare alicui, salutare aliquem ("
+        ],
+        [
+          "pron. rel. et conj. rel. ( gramm. § 147; gramm. § 169,5). Pron. rel. : Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡ qui , quae , quod . De constructione hujus pronominis (vid. gramm. § 201; § 202). Formae pronominis secundum numeros et genera variantur, ut: ኢየሱስ፡ ዘተብህለ፡ ክርስቶስ፡ Matth. 1,16; ምድር፡ እንተ፡ ኢኮነት፡ እንቲ"
+        ],
+        [
+          "subst. abstr. : cantus Halleluja : አንቀጸ፡ ሃሌታ፡ (v. ሃሊታ፡) እምዮሐንስ፡ tabula Hallelujarum inde a Joannis festo , Deg. (vid. Catal. Cod. Aeth. Mus. Brit. p. 37)."
+        ]
+      ]
+    },
+    "ምድር": {
+      "match_type": "exact",
+      "current_def": "earth, land, ground, country",
+      "dillmann_entry_nums": [
+        "11323",
+        "4365",
+        "1586"
+      ],
+      "dillmann_titles": [
+        "በጌ",
+        "ቱሱሕ",
+        "ምድር"
+      ],
+      "dillmann_senses": [
+        [
+          "bagi subst. በጌ፡ ምድር፡ bage mǝdr (role name) vid. በጌምድር፡, ምድር፡"
+        ],
+        [
+          "part. mixtus , commixtus , temperatus : ወይን፡ ዘኢኮነ፡ ቱሱሐ፡ οἶνος ἀκρατος ( vinum merum ) Jer. 32,1; Ps. 74,7; Apoc. 14,10 Platt; ወይን፡ ምስለ፡ ከርቤ፡ ቱሱሕ፡ Marc. 15,23; ጸዐዳ፡ ቱሱሕ፡ ምስለ፡ ጸሊም፡ Voc. Ae.; ወትካትሰ፡ ሰማያት፡ ቱሱሕ፡ ምስለ፡ ማይ፡ ወምድርኒ፡ ሀለወት፡ ምስለ፡ ማይ፡ Clem. f. 48; ሠናይ፡ ዘይረክብ፡ ሰብእ፡ በዝ፡ ዓለም፡ ቱሱሕ፡ በጻማ፡ ወድካም፡ Jsp. p."
+        ],
+        [
+          "subst. , m. et fem. , Pl. አምዳር፡ et ምድራት፡, Pl. Pl. አምዳራት፡ terra i.e. orbis terrarum Gen. 1,1; Gen. 1,2; Gen. 2,1; Gen. 9,19; Gen. 19,31; Jes. 24,4; Jes. 65,17; Jes. 66,1; Jer. 4,28; Hen. 1,7; Hen. 2,3; Deut. 32,1; Matth. 5,18; Matth. 24,35; Hebr. 12,26; Eph. 1,10; ኵሉ፡ ምድር፡ omnes homines , Judith 11,1"
+        ]
+      ]
+    },
+    "አላ": {
+      "match_type": "exact",
+      "current_def": "but, however, except, rather (conjunction)",
+      "dillmann_entry_nums": [
+        "5380",
+        "5772",
+        "6046"
+      ],
+      "dillmann_titles": [
+        "አላ",
+        "አኮ",
+        "ክመ"
+      ],
+      "dillmann_senses": [
+        [
+          "(i.e. allâ ) particula adversativa [simili modo composita atque إِلاَّ, gramm. § 168,6] plerumque praevia negatione: sed , Gen. 3,5; Gen. 17,15; Gen. 40,23; Num. 10,30; Num. 11,20; Deut. 7,5; Deut. 9,4; Deut. 9,5; Prov. 23,31; Prov. 24,8; Jer. 50,3; Sir. 24,34; Judith 2,13; Judith 12,2; Judith 13,20"
+        ],
+        [
+          "partic. neg. [sine dubio composita e ኮ፡ (i.e. כֹּה, כָּה sic , ita ) et አ፡ ( non ), quod e pleniori quadam forma (ut እን፡ vel አል፡) extenuatum videtur; aliam conjecturam habet Ewald Lehrbuch der hebr. Sprache|1855 p. 692], vi gravior est quam ኢ፡, et ad neganda singula sententiarum verba adhihetur: non"
+        ],
+        [
+          "adv. [ gramm. § 64,6; gramm. § 150,c; gramm. § 162]; ejus vis non in ከ፡ sed in መ፡ niti videtur (ከ፡ tenuius pronuntiatio ክ፡), et potestate fere cum vocula መ፡ (q.v. col. 141) convenit, sed fortius et gravius est. fere , propemodum : ክመ፡ እንተ፡ ጸብሐት፡ fere quotidie Gen. 39,10; ሎቱ፡ ያስዖዝዞ፡ ክመ፡ እግሩ፡ (propemo"
+        ]
+      ]
+    },
+    "ወአይከውን": {
+      "match_type": "prefix_stripped (ይከውን)",
+      "current_def": "and + not + he becomes; will not be, shall not exist",
+      "dillmann_entry_nums": [
+        "4810",
+        "6290",
+        "3636"
+      ],
+      "dillmann_titles": [
+        "ትንሣኤ",
+        "ኮነ",
+        "ቅዳሴ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. surrectio , lapsi Org. ascensus vel ortus siderum: ምስለ፡ ትንሣኤ፡ ፀሓይ፡ (በጽባሕ፡) Kuf. 3. exaestuatio undarum: ትንሣኤ፡ መዋግድ፡ M.M. f. 96. elatio , superbia , ἔπαρσις Zach. 12,7. insurgere contra aliquem, insultatio : ትንሣኤ፡ ፀር፡ Lit. 159,4; ትንሣኤ፡ ወቅሥት፡ turbae et rixae , Lud. e L. Myst. exsistere , emerge"
+        ],
+        [
+          "I,1 [proprie: erectum stare , vid. Ges. thes. p. 665; كَانَ exsistit , accidit , fuit ] Perf. 1 pers. Pl. ኮነ፡ (Jes. 1,9; Jes. 63,19; Jes. 64,6 al.), Subj. ይኩን፡ (ይኵን፡ passim), Imperat. ኩን፡ (ኵን፡) accidere , evenire , fieri ( geschehen ): ዘከመ፡ ኮነ፡ τὸ γεγονός Esth. 4,4; Esth. 4,7; ደንገፁ፡ በበይነ፡ ዘኮነ፡ Judit"
+        ],
+        [
+          "subst. Pl. ቅዳሴያት፡ et ቅዳስያት፡ sanctificatio : ይከውን፡ (ለከ፡) ለቅዳሴ፡ Jes. 8,14 vers. alt.; ለቅዳሴ፡ ምድር፡ Kuf. 4. sanctitatis praedicatio , Lit. 165,2; Seraphim ወሀቡ፡ ፫ቅዳሴያት፡ M.M. f. 8; መልአከ፡ ቅዳሴ፡ Kuf. 2; Kuf. 15; ለቅዳሴ፡ ወለበረከት፡ Kuf. p. 9; በኵሉ፡ ቅዳሴያቲክሙ፡ Hez. 20,40 var. consecratio , dedicatio , inauguratio , enc"
+        ]
+      ]
+    },
+    "ሰብእ": {
+      "match_type": "exact",
+      "current_def": "man, men, people, mankind",
+      "dillmann_entry_nums": [
+        "6341",
+        "4074",
+        "2714"
+      ],
+      "dillmann_titles": [
+        "ኬደI",
+        "ባዕል",
+        "ሰብእ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [amh. ሔደ፡, كَدِيدٌ terra calcata ; كَدَا durum fuit solum (proprie: tundendo vel calcando)] Subj. ይኪድ፡ calcare , viam, locum eundo , incedendo ; terere : abs. : ኀበ፡ ኬደ፡ ἐν βήμασιν αὐτοῦ Sir. 45,9; ብሔር፡ ኀበ፡ ኢኬደ፡ (እግረ፡) ሰብእ፡ Jer. 2,6; c. Acc. : ኬዱ፡ ፍኖተ፡ Job 22,15; Job 28,8; ፍኖተ፡ ረሲዓን፡ ኢትኪድ፡ Prov. "
+        ],
+        [
+          "adj. et subst. , fem. ባዕልት፡, Pl. አብዕልት፡ ( m. et fem. , ut Ruth 3,10) dives , locuples , opulentus Jer. 9,23; Dan. apocr. 1,4; Matth. 19,23; Matth. 27,57; Sir. 10,22; Sir. 13,18; Sir. 13,19; Sir. 21,4; ባዕል፡ ደንጻዊ፡ Sir. 25,2; Sir. 25,30; Sir. 25,14; ብእሲት፡ ክብርት፡ ወባዕልት፡ Sx. Haml. 15; Sx. Teq. 18; Kebr. N"
+        ],
+        [
+          "subst. , m. , sing. et coll. [huic voci comparari solent etymologi nomina propria שְׁבָא et סְבָא; amh. ሰው፡] homo , homines , genus humanum (rarius: aliquis , vir ): Sing. ut Gen. 1,26; Gen. 2,7; Jer. 14,9; Jes. 2,9; Jes. 5,15; Jes. 6,5; Ps. 21,6; እምከመ፡ ሞተ፡ ሰብእ፡ ይከውን፡ ክፍለ፡ ዕፄ፡ Sir. 10,11; Sir. 8,6; "
+        ]
+      ]
+    },
+    "ጽድቅ": {
+      "match_type": "exact",
+      "current_def": "righteousness, justice, virtue (noun)",
+      "dillmann_entry_nums": [
+        "10123",
+        "9565",
+        "4643"
+      ],
+      "dillmann_titles": [
+        "ፍጹም",
+        "ጽድቃት",
+        "ኀየሰ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. impletus , plenus : Lev. 4,5; Num. 3,3; ሥርናይ፡ ፍጹም፡ πλήρης Marc. 4,28; ወርኅ፡ ፍጹመ፡ ብርሃን፡ Abush. 13. plenus , de tempore, vid. infra sub. n. 2,e. ፍጹመ፡ መዋዕል፡ plenus dierum i.e. qui vitae suae tempus explevit Kuf. 22. expletus : Rom. 13,10. perfectus , absolutus , plenus : ad finem perductus , consu"
+        ],
+        [
+          "vid. sub ጽድቅ፡"
+        ],
+        [
+          "I,2 [sine dubio i.q. ኀየረ፡, permutatis literis r et s ] meliorem , praestantiorem esse vel fieri : ዘይኄይስ፡ ይከውን፡ ኀቤከ፡ βέλτιον ἔσται σοι Jer. 45,20; 1 Cor. 11,17; 1 Cor. 12,31; Hebr. 7,22. c.c. እምነ፡ pers. vel rei, quae superatur: Ps. 36,17; ፈሪሀ፡ እግዚአብሔር፡ እምኵሉ፡ ትኄይስ፡ Sir. 25,11; ኀየሰ፡ ነፍስቶሙ፡ ወሠነየ፡ ራእዮሙ፡ "
+        ]
+      ]
+    },
+    "እንዘ": {
+      "match_type": "exact",
+      "current_def": "while, when, as (temporal conjunction)",
+      "dillmann_entry_nums": [
+        "4734",
+        "2264",
+        "4407"
+      ],
+      "dillmann_titles": [
+        "ኀፈረI",
+        "ተረክበ",
+        "አኅለቀ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1; raro ኀፍረ፡ [i.q. חָפֵר ܚܦܰܪ خَفِرَ, amh. አፈረ፡; vic. חמר خمر (vid. ሐመረ፡)] Subj. ይኅፈር፡ erubescere , rubore suffundi , pudere , abs. , ut Gen. 2,25; ዘኢየኀፍር፡ ὁ ἀπολωλεκώς αἰσχύνην Sir. 29,14; ዘየኀፍር፡ αἰσχυντηρός pudibundus Sir. 35,10; Kuf. 3; ተኀፍሩ፡ ወኀፊረ፡ ኢኀፈሩ፡ (var. ኢኀፍሩ፡) Jer. 6,15; ወኀፍረተ፡ ኢኀፈሩ፡ Jer"
+        ],
+        [
+          "III,1 (ተረከበ፡ Asc. Jes. 3,4; an errore typographi?) acquiri , comparari , se assequendum praebere : እምአይቴ፡ ተረክበት፡ ጥበብ፡ Job 28,12; ተኀሥሡኒ፡ ወእትረከበክሙ፡ ( me assequendum praebebo vobis ) Jer. 36,13; 2 Par. 15,2. acquisitum possideri , haberi : ወተረክበ፡ ለሰሎሞን፡ ፬፼አፍራስ፡ ἦσαν αὐτῷ 2 Par. 9,25; Deut. 21,17. mente"
+        ],
+        [
+          "II,1 consumere , absumere , conficere , ut: እሳት፡ አኅለቀ፡ ሥነ፡ ገዳም፡ ἀνήλωσε Joel 1,19; አኅለቆሙ፡ በነደ፡ እሳት፡ καταναλῶσαι Sir. 45,19; Jer. 3,24; Sir. 34,2; አኅለቀ፡ ዐጸደ፡ ወይንየ፡ በአባግዒሁ፡ vineam meam oves suas depascere sivit , Kebr. Nag. 72; እንበለ፡ ያኅልቅዎ፡ Num. 11,33; in specie insumere , consumere , disperdere , pro"
+        ]
+      ]
+    },
+    "ሰማይ": {
+      "match_type": "exact",
+      "current_def": "heaven, sky, the heavens",
+      "dillmann_entry_nums": [
+        "2221",
+        "757",
+        "2564"
+      ],
+      "dillmann_titles": [
+        "ርኅው",
+        "ሕብር",
+        "ሰማይ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. , fem. ርኁት፡, apertus , patens : ርኅው፡ ኆኅትየ፡ Job 31,32; ይረክብዎ፡ (ለአንቀጽ፡) ርኅወ፡ Jsp. p. 377; ኆኅት፡ ርኁት፡ Apoc. 3,8; Apoc. 4,1; Act. 16,27 Platt; 1 Cor. 16,9; ኀዋኅው፡ ርኅዋት፡ Hen. 32,2; Hen. 36,1 seq.; መሳክው፡ ርኅዋት፡ Hen. 72,7; ርእየ፡ ሰማየ፡ ርኅወ፡ Act. 10,11; ርኅው፡ ሎሙ፡ መካነ፡ ትዕግሥትየ፡ 4 Esr. 9,12."
+        ],
+        [
+          "subst. , m. et fem. , Pl. ሕበር፡ et ሕብራት፡ color : ሕብሩ፡ እሳተ፡ ይመስል፡ 4 Esr. 14,41; ዘዘ፡ ዚአሁ፡ ሕብረ፡ ጽጌሁ፡ 4,49; Sap. 13,14; Sap. 15,4; ሕብራት፡ colores Chrys. ho. 12; ሕብራት፡ ቀይሓት፡ Fal. f. 16; ሕብራቲሆሙ፡ ይመስል፡ መረግደ፡ Mavâs. 20; ጥበብ፡ እንተ፡ ብዙኅ፡ ሕበሪሃ፡ πολυποίκιλος Eph. 3,10; de colore cutis ሕብረ፡ ሥጋሁ፡ Ex. 4,7; ይገብእ፡ ሕብረ፡"
+        ],
+        [
+          "subst. , m. et fem. , Pl. ሰማያት፡ [שָׁמַיִם ܫ̈ܡܰܝܳܐ سَمَآءٌ] coelum , m. Jes. 13,13; Jes. 42,5; Jes. 48,13; Job 9,8; ልዑል፡ ሰማይ፡ Job 11,8; Ps. 103,3; Matth. 16,2; Matth. 16,3; Apoc. 12,1 al.; fem. Lev. 26,19; Jes. 40,22; Jes. 44,24; Jes. 45,12; Jer. 2,12; Hez. 32,7; Hagg. 2,6; Ps. 18,1; Ps. 49,7; Ps. 10"
+        ]
+      ]
+    },
+    "በሰማይ": {
+      "match_type": "prefix_stripped (ሰማይ)",
+      "current_def": "in/by + heaven, sky, the heavens",
+      "dillmann_entry_nums": [
+        "2221",
+        "757",
+        "2564"
+      ],
+      "dillmann_titles": [
+        "ርኅው",
+        "ሕብር",
+        "ሰማይ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. , fem. ርኁት፡, apertus , patens : ርኅው፡ ኆኅትየ፡ Job 31,32; ይረክብዎ፡ (ለአንቀጽ፡) ርኅወ፡ Jsp. p. 377; ኆኅት፡ ርኁት፡ Apoc. 3,8; Apoc. 4,1; Act. 16,27 Platt; 1 Cor. 16,9; ኀዋኅው፡ ርኅዋት፡ Hen. 32,2; Hen. 36,1 seq.; መሳክው፡ ርኅዋት፡ Hen. 72,7; ርእየ፡ ሰማየ፡ ርኅወ፡ Act. 10,11; ርኅው፡ ሎሙ፡ መካነ፡ ትዕግሥትየ፡ 4 Esr. 9,12."
+        ],
+        [
+          "subst. , m. et fem. , Pl. ሕበር፡ et ሕብራት፡ color : ሕብሩ፡ እሳተ፡ ይመስል፡ 4 Esr. 14,41; ዘዘ፡ ዚአሁ፡ ሕብረ፡ ጽጌሁ፡ 4,49; Sap. 13,14; Sap. 15,4; ሕብራት፡ colores Chrys. ho. 12; ሕብራት፡ ቀይሓት፡ Fal. f. 16; ሕብራቲሆሙ፡ ይመስል፡ መረግደ፡ Mavâs. 20; ጥበብ፡ እንተ፡ ብዙኅ፡ ሕበሪሃ፡ πολυποίκιλος Eph. 3,10; de colore cutis ሕብረ፡ ሥጋሁ፡ Ex. 4,7; ይገብእ፡ ሕብረ፡"
+        ],
+        [
+          "subst. , m. et fem. , Pl. ሰማያት፡ [שָׁמַיִם ܫ̈ܡܰܝܳܐ سَمَآءٌ] coelum , m. Jes. 13,13; Jes. 42,5; Jes. 48,13; Job 9,8; ልዑል፡ ሰማይ፡ Job 11,8; Ps. 103,3; Matth. 16,2; Matth. 16,3; Apoc. 12,1 al.; fem. Lev. 26,19; Jes. 40,22; Jes. 44,24; Jes. 45,12; Jer. 2,12; Hez. 32,7; Hagg. 2,6; Ps. 18,1; Ps. 49,7; Ps. 10"
+        ]
+      ]
+    },
+    "እምውእቱ": {
+      "match_type": "prefix_stripped (ውእቱ)",
+      "current_def": "from + he, from him; from that one (3ms)",
+      "dillmann_entry_nums": [
+        "3743",
+        "7643",
+        "6217"
+      ],
+      "dillmann_titles": [
+        "ብህለ",
+        "ዝኩ",
+        "ክትመት"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [amh. ባለ፡ Isenb. grammar p. 136; sine dubio i.q. ܡܰܠܶܠ (cfr. ብዕል፡ et مَالٌ); Arabice occurrit quidem بَهَلَ sed significat maledixit , VIII supplex fuit in oratione (መሐለ፡ ማሕለለ፡)]; Perf. nonnisi apud scriptores inferioris aevi usitatum est, ex. gr. in Chrys. crebro, ut: ብህለ፡ ካልአ፡ aliud quid dixit"
+        ],
+        [
+          "et ዝክቱ፡ pron. demonstr. ille , iste ( gramm. § 146,1,b). Compositum est ex ዝ፡ et ኩ፡, quare nonnumquam particula brevissima ሰ፡ inter ዝ፡ et ኩ፡ inseritur, ut: ዳኅንኑ፡ ዝሰኩ፡ አቡክሙ፡ Gad. Za Mich. ; ዝሰኩ፡ ዘምስሌከ፡ Deg. – Ejus formae sunt Sing. ዝኩ፡ m. , raro fem. (Ex. 1,17; ዝኩ፡ አንስት፡ Herm. p. 84 b); Acc. ዝኰ፡ (Apo"
+        ],
+        [
+          "n. act. , ut videtur i.q. ኅትመት፡ obsignatio : (Abba Macarius ait:) ትሕትና፡ (ውእቱ፡) ክትመተ፡ ሐራዌ፡ ክርስቶስ፡ Phlx. 152."
+        ]
+      ]
+    },
+    "እምሰማይ": {
+      "match_type": "exact",
+      "current_def": "from heaven",
+      "dillmann_entry_nums": [
+        "5281",
+        "6556"
+      ],
+      "dillmann_titles": [
+        "ነጸረ",
+        "ወረደ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,2 [amh. id.; نَظَرَ id.; נָצַר ܢܛܰܪ (نطر) custodivit , observavit ] spectare , intueri absol. : በከመ፡ አዕይንቲከ፡ ይኔጽራ፡ βλέπουσι Jer. 49,2; ከመ፡ መዋቲኑ፡ ትኔጽር፡ ወትሬኢ፡ Job 10,4; ነጽር፡ ወርኢ፡ ኀሳረነ፡ Thren. 5,1; Hen. 14,25; Rom. 11,8. spectatorem esse ( zusehen ): አበዊሆሙኒ፡፡ ይኔጽሩ፡ Kuf. 5. speculari : ዘይኔጽር፡ σκοπός 2"
+        ],
+        [
+          "I,1 [amh. et יָרַד id.; وَرَدَ plerumque significatus speciales habet] Subj. ይረድ፡; Imperat. ረድ፡, descendere , Ex. 19,24; Jes. 47,1; Ps. 17,11; Matth. 24,17; Marc. 1,10; ወሪዶት፡ Hen. 63,10; Joh. 4,49; c. እምነ፡ loci: ጐንደየ፡ ወሪደ፡ እምደብር፡ Ex. 32,1; Judith 10,10; እምነ፡ ሰረገላ፡ Jud. 4,15; እምሰማይ፡ Matth. 28,2; Joh."
+        ]
+      ]
+    },
+    "በከማ": {
+      "match_type": "prefix_stripped (ከማ)",
+      "current_def": "as, like, according to (comparative conjunction)",
+      "dillmann_entry_nums": [
+        "6045"
+      ],
+      "dillmann_titles": [
+        "ከመ"
+      ],
+      "dillmann_senses": [
+        [
+          "adv. rel. , praep. , conj. [כְּמוֹ, כְּמָא, ܐܰܟܡܳܐ, كَمَا; gramm. § 63, a; gramm. § 64, b], Adv. rel. integrae sententiae praemissum: ከመ፡ comparative: ut , sicut , quemadmodum , sive addito correlato ( sic , ita ): Sir. 3,15; Sir. 10,2; ከመ፡ ይፈቱ፡ ኅጽው፡ – ከማሁ፡ Sir. 20,4; Jes. 62,5; Jer. 3,20; Hen. 28,2"
+        ]
+      ]
+    },
+    "ዕቡይ": {
+      "match_type": "exact",
+      "current_def": "great, large, mighty",
+      "dillmann_entry_nums": [
+        "4240",
+        "289",
+        "7162"
+      ],
+      "dillmann_titles": [
+        "ትሑት",
+        "ልብ",
+        "ዕቡይ"
+      ],
+      "dillmann_senses": [
+        [
+          "part. , fem. ትሕት፡, humilis demissus , de oculis: ትሑታነ፡ ገጽ፡ Hen. 48,8. exilis , de voce feminae, Lud. ex Enc. de sorte et conditione hominum: vilis , ignobilis , abjectus , ትሑት፡ ምስለ፡ ዐቢይ፡ Kuf. 23; Job 5,11. Job 12,21; 1 Reg. 18,23; ራእዩ፡ ምኑን፡ ወትሑት፡ እምኵሉ፡ ሰብእ፡ Jes.53,8; 1 Cor. 4,10; Luc. 1,52; Luc. 16,"
+        ],
+        [
+          "subst. [לֵב et לֵבָב, ܠܶܒܳܐ, لُبٌّ amh. ልብ፡; de etymo vid. Ges. thes. p. 738] m. et fem. (ut Prov. 6,18; Prov. 15,13; Prov. 15,14; Prov. 17,22; Prov. 26,23; Job 36,34; Koh. 1,16; Koh. 2,23; Koh. 7,22; Koh. 8,17; Koh. 9,3; Jer. 18,12) Pl. አልባብ፡ (ut Matth. 9,4) est sensu physico cor et hominum ut Ps. "
+        ],
+        [
+          "part. superbus , arrogans , insolens , fastuosus , inflatus , ( superbia tumens ), ὑπερήφανος Ps. 17,30; Ps. 88,11; Job 38,15; Job 40,7; Sir. 3,28; Sir. 11,30; Sir. 23,8; Sir. 27,15; Sap. 14,6; Prov. 3,34; Jes. 13,11; Jac. 4,6; συκοφάντης Ps. 71,4; ὑβρισταί Rom. 1,30 Platt; አዕይንት፡ ዕቡይ፡ Prov. 24,36; "
+        ]
+      ]
+    },
+    "አንስት": {
+      "match_type": "exact",
+      "current_def": "women (plural)",
+      "dillmann_entry_nums": [
+        "4019",
+        "5722",
+        "4301"
+      ],
+      "dillmann_titles": [
+        "ብእሲት",
+        "አንስቲያ",
+        "ተባዕት"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , fem. , nonnisi in sing., usitatum (pro Pl. frequentant አንስት፡ vel አንስትያ፡); in Vocativo ብእሲቶ፡ (ut Judith 11,1; Luc. 13,22; Luc. 22,57; Joh. 4,21; Joh. 20,13; Joh. 20,15) vel ኦብእሲቶ፡ (Joh. 2,4; Matth. 15,28; Chrys. Ta. 15) femina , mulier , plerumque adulta, sive nupta, sive innupta: ብእሲት፡ ድንግል"
+        ],
+        [
+          "vel አንስትያ፡ subst. coll. ( gramm. § 140,IV), mulieres , feminae , usurpari solet pro አንስት፡, ubicumque pronomina suffigenda sunt, ut 1 Reg. 22,19; Judith 4,10; Judith 4,11; Jer. 18,21; Jer. 51,9; Rom. 1,26. in specie: maritae , uxores , conjuges , (etiam concubinae ); vicem Pluralis vocis ብእሲት፡ obit, "
+        ],
+        [
+          "(forma fem. pro neutro: ein männliches , opp. አንስት፡), subst. et adj. , sing, et coll., Pl. አትቡዕ፡ (sicut አእኑስ፡), mas , masculus , de hominibus: Gen. 1,27; Gen. 17,10; Gen. 17,12; Gen. 17,23; Gen. 34,25; Ex. 1,16; Ex. 23,17; Kuf. 2; Kuf. 3; Job 3,2; Sir. 36,26; ወለደት፡ ተባዕተ፡ Jes. 66,7; ተባዕት፡ ተወልደ፡ Jer. "
+        ]
+      ]
+    },
+    "እምዘእንተ": {
+      "match_type": "contains_root (እንተ)",
+      "current_def": "from + of/which + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "7442"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ዘ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ]
+      ]
+    },
+    "ሳር": {
+      "match_type": "exact",
+      "current_def": "chief, prince, commander (noun); from Hebrew sar",
+      "dillmann_entry_nums": [
+        "1937"
+      ],
+      "dillmann_titles": [
+        "ሣዕር"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , plerumque m. , Pl. አሥዕርት፡ (Chrys. Ta. 27) [Aethiopes et Arabes herbas, quibus terra obsita est, cum pilis corporis comparantes herbarum et pilorum nomina ex eadem radice propagaverunt, ut شَعْرَاءُ herbosus, plantis abundans, arboribus obsitus : سُعرٌ plantae , arbores ; (Syri ab una radice"
+        ]
+      ]
+    },
+    "ዘምድር": {
+      "match_type": "prefix_stripped (ምድር)",
+      "current_def": "of earth, earthly",
+      "dillmann_entry_nums": [
+        "11323",
+        "4365",
+        "1586"
+      ],
+      "dillmann_titles": [
+        "በጌ",
+        "ቱሱሕ",
+        "ምድር"
+      ],
+      "dillmann_senses": [
+        [
+          "bagi subst. በጌ፡ ምድር፡ bage mǝdr (role name) vid. በጌምድር፡, ምድር፡"
+        ],
+        [
+          "part. mixtus , commixtus , temperatus : ወይን፡ ዘኢኮነ፡ ቱሱሐ፡ οἶνος ἀκρατος ( vinum merum ) Jer. 32,1; Ps. 74,7; Apoc. 14,10 Platt; ወይን፡ ምስለ፡ ከርቤ፡ ቱሱሕ፡ Marc. 15,23; ጸዐዳ፡ ቱሱሕ፡ ምስለ፡ ጸሊም፡ Voc. Ae.; ወትካትሰ፡ ሰማያት፡ ቱሱሕ፡ ምስለ፡ ማይ፡ ወምድርኒ፡ ሀለወት፡ ምስለ፡ ማይ፡ Clem. f. 48; ሠናይ፡ ዘይረክብ፡ ሰብእ፡ በዝ፡ ዓለም፡ ቱሱሕ፡ በጻማ፡ ወድካም፡ Jsp. p."
+        ],
+        [
+          "subst. , m. et fem. , Pl. አምዳር፡ et ምድራት፡, Pl. Pl. አምዳራት፡ terra i.e. orbis terrarum Gen. 1,1; Gen. 1,2; Gen. 2,1; Gen. 9,19; Gen. 19,31; Jes. 24,4; Jes. 65,17; Jes. 66,1; Jer. 4,28; Hen. 1,7; Hen. 2,3; Deut. 32,1; Matth. 5,18; Matth. 24,35; Hebr. 12,26; Eph. 1,10; ኵሉ፡ ምድር፡ omnes homines , Judith 11,1"
+        ]
+      ]
+    },
+    "ትእምርት": {
+      "match_type": "exact",
+      "current_def": "sign, wonder, miracle, portent (noun)",
+      "dillmann_entry_nums": [
+        "5449",
+        "5457",
+        "4587"
+      ],
+      "dillmann_titles": [
+        "ተአመረ",
+        "ትእምርት",
+        "ማኅተም"
+      ],
+      "dillmann_senses": [
+        [
+          "III,2 i.q. ተአምረ፡ Nr. 1: se cognoscendum praebere , apparere , Ex. 29,42; Ex. 30,6; Ex. 30,36. promulgari , indici : እንበለ፡ ይትአመር፡ ለኵሉ፡ ሥጋ፡ ለአሰንብቶ፡ Kuf. p. 10. denom. a ትእምርት፡ signum dare : ትትኤመሩ፡ በመጥቅዕ፡ Num. 10,9; ተአመሩ፡ በቃለ፡ ቀርን፡ Jer. 4,5; c. pron. suff. (sensu Dativi): እትኤመሮሙ፡ σημανῶ αὐτοῖς Zach. 10"
+        ],
+        [
+          "subst. , m. et fem. , Pl. ተኣምር፡ (crebro ተአምር፡ scriptum), rarius ትእምርታት፡, Pl. Pl. ተኣምራት፡; Pl. ተኣምር፡ crebro pro Singulari usurpatur ( gramm. § 141); signum nota , indicium : Matth. 16,3; Matth. 26,48; Rom. 4,11; 1 Cor. 14,22; ርእዮ፡ ትእምርቶ፡ ለዓለም፡ Sir. 42,18; ምንት፡ ትእምርቱ፡ ለዕድሜሁ፡ 4 Esr. 4,14; 4 Esr. 3,1; Ma"
+        ],
+        [
+          "subst. , plerumque m. , Pl. መኃትምት፡ (መኃትም፡) et ማኅተማት፡ claustrum : እንዘ፡ ኢያርኁ፡ ማኅተመ፡ ድንግልና፡ Lit.; ይወድዮሙ፡ (ለኃጥኣን፡) ውስተ፡ ማኅተመ፡ ረሲዓን፡ (i.e. in infernum) Ssal. Req. sigillum et (is, quo imprimitur sigillum) annulus signatorius , Apoc. 5,1; Apoc. 5,2; Apoc. 6,l seq.; ዘኀተምኪ፡ በ፯መኃትምት፡ Rel. Bar.; መሣንቅ፡ በማኅተሞን፡"
+        ]
+      ]
+    },
+    "ቃለ": {
+      "match_type": "exact",
+      "current_def": "word, speech, saying, matter",
+      "dillmann_entry_nums": [
+        "9271",
+        "8456",
+        "4803"
+      ],
+      "dillmann_titles": [
+        "ጸርኀ",
+        "አግብአ",
+        "አንሥአ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [צָרַח صَرَخَ; vic. ጠርአ፡ et רָזַח; amh. ጸራ፡] Subj. ይጽራኅ፡, alta et clara voce clamare , vociferari , ጸርኀት፡ በዐቢይ፡ ቃል፡ 4 Esr. 10,39; Matth. 27,46; Apoc. 6,10; ይጸርኅ፡ ደሙ፡ እምድር፡ እስከ፡ ሰማይ፡ Kuf. 4; de proclamante Apoc. 5,2; de plorantibus et lamentantibus: ጸርኀ፡ ወበከየ፡ Gen. 45,2; Ruth 1,9; Ruth 1,14; 4 Es"
+        ],
+        [
+          "II, 1 revertere avertere , convertere : ከመ፡ ያግብእዎሙ፡ ለአሕዛብ፡ ኀቤሆሙ፡ Act. 20,30. deflectere , declinare facere : ከመ፡ እንተ፡ ታገብእ፡ ዐይነ፡ መዳልው፡ Jes. 40,15; 4 Esr. 1,35. retro vertere : ያገብኦሙ፡ ድኅሬሆሙ፡ ለጠቢባን፡ Jes. 44,25; Ps. 20,12; Ps. 43,12. rejicere : ያገብኦ፡ ድኅረ፡ ዘባኑ፡ Sir. 21,15; Ps. 49,18. retrahere Hen. 60,1"
+        ],
+        [
+          "II,1 tollere , extollere , attollere , sublevare , ut: onus de terra, ሶበ፡ ያነሥእዎ፡ (ለእብን) ይገድፍዎ፡ Sir. 6,21 (v. ይነሥእዎ፡); ኢታንሥእ፡ ክቡደ፡ Sir. 13,2; Jes. 46,1; Jer. 17,21; aliquem sursum: አንሥአኒ፡ መንፈስ፡ ማእከለ፡ ሰማይ፡ ወምድር፡ Hez. 8,3; humi jacentem, lapsum: 2 Sam. 12,17; Deut. 22,4; ባዕል፡ እመ፡ ድኅፀ፡ ብዙኃን፡ ያነሥእዎ፡ Sir."
+        ]
+      ]
+    },
+    "በረከት": {
+      "match_type": "exact",
+      "current_def": "blessing",
+      "dillmann_entry_nums": [
+        "4114",
+        "3907",
+        "8728"
+      ],
+      "dillmann_titles": [
+        "ቤት",
+        "በረከት",
+        "ገጽ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. et fem. , Pl. አብያት፡ domus , domicilium , Matth. 2,11; Matth. 5,15; Matth. 7,24; Matth. 7,25; Matth. 7,26; Matth. 7,27; Matth. 8,6; Matth. 9,6; Matth. 9,7; Lev. 14,34 seq.; Lev. 25,29 seq.; Deut. 8,12; Job 1,19; Job 8,15; Koh. 10,18; Jes. 5,8; Jes. 5,9; Jes. 22,18; Jes. 65,21; Jer. 19,13."
+        ],
+        [
+          "subst. , m. et fem. , Pl. በረከታት፡ benedictio laudatio , celebratio : አዕበይዎ፡ (ለእግዚአብሔር፡) በኵሉ፡ በረከት፡ ወስብሐት፡ 2 Esr. 19,5; Apoc. 5,12; Apoc. 5,13; Hen. 39,7; Hen. 39,9; Hen. 71,12. fausta precatio Gen. 27,12; Gen. 27,35; Gen. 27,36; Gen. 27,38; Num. 24,1; Deut. 11,26; Deut. 11,27; Hen. 1,1; በረከተ፡ አሮን፡ ፈኑ"
+        ],
+        [
+          "subst. , fere ubique m. , sing. et coll., Pl. ገጻት፡ [etymon non liquet; quaeritur annon cum ܚܙܳܐ חָזָה componendum sit, quamquam etiam ea, quae Arabum lexicographi de غَضَاضٌ notant, respiciendum videtur] facies , bestiarum Job 41,4; Job 41,5; Hez. 1,10; hominum, angelorum, Dei: Gen. 2,7; Gen. 3,19; "
+        ]
+      ]
+    },
+    "ዘሄኖክ": {
+      "match_type": "prefix_stripped (ሄኖክ)",
+      "current_def": "of/which + Enoch (proper noun)",
+      "dillmann_entry_nums": [
+        "10174"
+      ],
+      "dillmann_titles": [
+        "ሄኖክ"
+      ],
+      "dillmann_senses": [
+        [
+          "Henoch."
+        ]
+      ]
+    },
+    "ዘበረከ": {
+      "match_type": "prefix_stripped (በረከ)",
+      "current_def": "of/who + he blessed; the one who blessed",
+      "dillmann_entry_nums": [
+        "3900"
+      ],
+      "dillmann_titles": [
+        "በረከ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בָּרַךְ ܒܪܶܟ بَرَكَ] in genua procumbere , de asina Num. 22,27; camelo: ሶበ፡ በጽሐ፡ ገመል፡ ኀበ፡ ውእቱ፡ መካን፡ በረከ፡ በብረኪሁ፡ ወኢተንሥአ፡ Sx. Nah. 19."
+        ]
+      ]
+    },
+    "በወይነ": {
+      "match_type": "prefix_stripped (ወይነ)",
+      "current_def": "in + the days of, at the time of",
+      "dillmann_entry_nums": [
+        "2762",
+        "2765"
+      ],
+      "dillmann_titles": [
+        "ሰትየ",
+        "ስቱይ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [שָׁתָה ܐܶܫܬܺܝ] Subj. ይስተይ፡, Imperat. ስተይ፡ et ስቲ፡ bibere , absol. Gen. 30,38; Ex. 17,6; Num. 29,11; በሊዕ፡ ወሰትይ፡ Ruth 3,3; ንብላዕ፡ ወንስተይ፡ Jes. 22,13; Jes. 21,5; Jes. 29,8; Jer. 32,13; 4 Esr. 10,7; Luc. 17,8; c. Acc. rei Lev. 10,9; እለ፡ ይሰትይዎ፡ ለወይን፡ Jes. 5,22; Jes. 22,13; Jes. 25,6; Jer. 42,5; Jer. 42"
+        ],
+        [
+          "part. potus : ኢትገሥጽ፡ ቢጸከ፡ እንዘ፡ ስቱይ፡ ወይን፡, var. ወይነ፡, Sir. 34,31."
+        ]
+      ]
+    },
+    "ሄኖክ": {
+      "match_type": "exact",
+      "current_def": "Enoch (proper noun)",
+      "dillmann_entry_nums": [
+        "10174"
+      ],
+      "dillmann_titles": [
+        "ሄኖክ"
+      ],
+      "dillmann_senses": [
+        [
+          "Henoch."
+        ]
+      ]
+    },
+    "እመስለ": {
+      "match_type": "prefix_stripped (መስለ)",
+      "current_def": "from + likeness, from the manner of",
+      "dillmann_entry_nums": [
+        "1259"
+      ],
+      "dillmann_titles": [
+        "መሰለ"
+      ],
+      "dillmann_senses": [
+        [
+          "et መስለ፡ I,1 [מָשַׁל ܡܬܰܠ مَثَلَ; amh. i.q. aeth.] Subj. ይምሰል፡ similem esse vel fieri , ( speciem habere alicujus rei), c.c. Acc. : ይመስሎ፡ ዝንቱ፡ ወልድ፡ ለጦቢት፡ Tob. 7,2; Kuf. 31; አልቦ፡ ዘይመስሎ፡ Sir. 25,11; ምንተ፡ ይመስሉ፡ Jes. 23,2; ምንተ፡ ይመስል፡ ብእሲ፡ 4 Reg. 1,7; ሕብሩ፡ ይመስል፡ እሳተ፡ 4 Esr. 14,41; አርዌ፡ ዘይመስል፡ ድበ፡ Dan. 7,5"
+        ]
+      ]
+    },
+    "ለትውልድ": {
+      "match_type": "prefix_stripped (ትውልድ)",
+      "current_def": "to/for + generation, offspring, begetting",
+      "dillmann_entry_nums": [
+        "7533",
+        "6448",
+        "8116"
+      ],
+      "dillmann_titles": [
+        "ትዝምድ",
+        "ትውልድ",
+        "ዳር"
+      ],
+      "dillmann_senses": [
+        [
+          "(pro ትዝምድት፡) subst. cognatio , genus , stirpes , familiae , progenies : exi እምነ፡ ምድርከ፡ ወእምነ፡ ትዝምድከ፡ Kuf. 12; Kuf. 25; እሉ፡ ትዝምደ፡ ያዕቆብ፡ Kuf. 39; ኂሩተ፡ ትዝምድ፡ εὐγένεια Sap. 8,3; ἔκγονα Prov. 23,18; in specie genus vel genera ejusdem aetatis (i.q. ትውልድ፡) ኵሉ፡ በበ፡ ትዝምዱ፡ ኵሎ፡ መዋዕለ፡ Kuf. 5; ውስተ፡ ትዝምዶሙ፡ vel በኵሉ"
+        ],
+        [
+          "(pro ትውልድት፡; in libris antiquioribus etiam ተውልድ፡, vid. Oct. Ae., P. II p. 5; passim ቱልድ፡ ut Gen. 15,2 F.), subst. , m. et fem. , Pl. ትውልዳት፡ progenies , et bestiarum, ut: ትውልደ፡ ቃግስት፡ Jes. 14,29; Matth. 3,7; Matth. 12,34; Matth. 23,33, et hominum Jud. 1,10; ትውልደ፡ ሕርቱማን፡ Jes. 57,4; ትውልድ፡ እኩይ፡ ἔκγονον κ"
+        ],
+        [
+          "subst. i.q. hebr. דּוֹר, syr. ܕܳܪܳܐ, chald. דָּר דָּרָא (de quo vid. Ges. thes. p. 330) aetas hominum: በዳሮሙ፡ εἰς γενεὰς αὐτῶν Ex. 30,8; Ex. 30,10; Ex. 31,16 (In Cod. C substitui solet ትውልድ፡). Lud. exhibet ዶር፡, quod equidem nonnisi in Cod. H Ex. 30,10 inveni."
+        ]
+      ]
+    },
+    "ዘይመጹእ": {
+      "match_type": "contains_root (ዘይመ)",
+      "current_def": "which + is to come, which will come (future relative)",
+      "dillmann_entry_nums": [
+        "7500"
+      ],
+      "dillmann_titles": [
+        "ዜማ"
+      ],
+      "dillmann_senses": [
+        [
+          "sonus , melos vid. sub ዘይመ፡"
+        ]
+      ]
+    },
+    "ሰሚዕኩ": {
+      "match_type": "contains_root (ሰሚዕ)",
+      "current_def": "I heard, I listened (1cs perfect of sameea)",
+      "dillmann_entry_nums": [
+        "2545"
+      ],
+      "dillmann_titles": [
+        "ሰምዐ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [שָׁמַע, ܫܡܰܥ, سَمِعَ amh. ሰማ፡] Subj. ይስማዕ፡ audire : በከመ፡ ሰማዕክሙ፡ በእዘኒክሙ፡ Jer. 33,11; ሰሚዖ፡ Jes. 37,1; እንዘ፡ ይሰምዑ፡ ኵሎሙ፡ Gen. 23,10; Gen. 23,13; Gen. 18,10; Matth. 13,16; Matth. 13,17; Luc. 14,35; c.c. Acc. rei: Gen. 3,10; Gen. 24,52; Ex. 16,9; 1 Reg. 17,28; Matth. 7,24; Marc. 7,14; Marc. 14,64; Luc"
+        ]
+      ]
+    },
+    "በእለ": {
+      "match_type": "prefix_stripped (እለ)",
+      "current_def": "in/among + those, in the ones who",
+      "dillmann_entry_nums": [
+        "7442",
+        "5394",
+        "7441"
+      ],
+      "dillmann_titles": [
+        "ዘ",
+        "እለ",
+        "ዘ"
+      ],
+      "dillmann_senses": [
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ],
+        [
+          "ቄጥሩ፡ vel ኤሌቄጥሩ፡ n. peregr. , ἤλεκτρον, electrum Hez. 1 4; Hez. 1,27; Hez. 8,2. – Voc. Ae.: እለ፡ ቄጥሩ፡ ዘ፡ ዖፍ፡ ዘራብዕ፡ ርእሱ፡ (!!)."
+        ],
+        [
+          "pron. rel. et conj. rel. ( gramm. § 147; gramm. § 169,5). Pron. rel. : Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡ qui , quae , quod . De constructione hujus pronominis (vid. gramm. § 201; § 202). Formae pronominis secundum numeros et genera variantur, ut: ኢየሱስ፡ ዘተብህለ፡ ክርስቶስ፡ Matth. 1,16; ምድር፡ እንተ፡ ኢኮነት፡ እንቲ"
+        ]
+      ]
+    },
+    "የወይነ": {
+      "match_type": "contains_root (ወይነ)",
+      "current_def": "of + the days, of the time (genitive)",
+      "dillmann_entry_nums": [
+        "2762",
+        "2765"
+      ],
+      "dillmann_titles": [
+        "ሰትየ",
+        "ስቱይ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [שָׁתָה ܐܶܫܬܺܝ] Subj. ይስተይ፡, Imperat. ስተይ፡ et ስቲ፡ bibere , absol. Gen. 30,38; Ex. 17,6; Num. 29,11; በሊዕ፡ ወሰትይ፡ Ruth 3,3; ንብላዕ፡ ወንስተይ፡ Jes. 22,13; Jes. 21,5; Jes. 29,8; Jer. 32,13; 4 Esr. 10,7; Luc. 17,8; c. Acc. rei Lev. 10,9; እለ፡ ይሰትይዎ፡ ለወይን፡ Jes. 5,22; Jes. 22,13; Jes. 25,6; Jer. 42,5; Jer. 42"
+        ],
+        [
+          "part. potus : ኢትገሥጽ፡ ቢጸከ፡ እንዘ፡ ስቱይ፡ ወይን፡, var. ወይነ፡, Sir. 34,31."
+        ]
+      ]
+    },
+    "ተነገርኩ": {
+      "match_type": "contains_root (ነገር)",
+      "current_def": "I was told, it was related to me (1cs passive perfect)",
+      "dillmann_entry_nums": [
+        "5200",
+        "8249"
+      ],
+      "dillmann_titles": [
+        "ነገር",
+        "ጕልት"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. , rarius fem. , Pl. ነገራት፡ (verba, dicta, res) et አንጋር፡ (linguae), sermo , ratio loquendi i.e. lingua , dialectus , locutio (Sprache): ይነብባ፡ በነገረ፡ ከነዓን፡ Jes. 19,18; Jes. 36,13; Gen. 10,5; Gen. 11,1; Gen. 11,7; Gen. 11,9; ነገረ፡ ፋርስ፡ Dan. 1,4; Esth. 3,12; እለ፡ ካልእ፡ ነገሮሙ፡ ἀλλόφωνοι Hez. 3,6; ደ"
+        ],
+        [
+          "subst. , Pl. ጕልታት፡ praedium , fundus vel alia res ad utendum et fruendum legata religionis ergo, F.N. 18 passim; Kebr. Nag. f. 92 seq."
+        ]
+      ]
+    },
+    "ለበወ": {
+      "match_type": "exact",
+      "current_def": "he clothed, he put on, he wore",
+      "dillmann_entry_nums": [
+        "295",
+        "301",
+        "300"
+      ],
+      "dillmann_titles": [
+        "ልብ",
+        "አለበወ",
+        "ለበወ"
+      ],
+      "dillmann_senses": [
+        [
+          "denominatur ለበወ፡ q.v."
+        ],
+        [
+          "II,2 percipere vel intelligere facere ; intelligentem vel prudentem reddere ; edocere , instruere (συνετίζειν, συμβιβάζειν, δεικνύναι al.) c. Acc. pers. et rei vel በእንተ፡ rei: ዕፅ፡ ዘያሌቡ፡ ሠናየ፡ ወእኩየ፡ Gen. 2,9; Gen. 2,17; ዘአለበወኒ፡ Ps. 15,7; Ps. 31,10; 1 Petr. 5,10; 4 Esr. 14,10; አሌብወከ፡ ዘሀለወከ፡ ትንብብ፡ Ex. 4,"
+        ],
+        [
+          "I,2 ( denom. a ልብ፡) animo percipere vel comprehendere , intelligere , cognovisse et perspexisse (maxime convenit cum graeco συνιέναι, nonnumquam cum νοεῖν), c. Acc. rei: ልቡ፡ ጽራኅየ፡ Ps. 5,1; Ps. 49,23; ምንተ፡ ትሌቡ፡ ዘኢንሌቡ፡ ንሕነ፡ Job 15,9; መኑ፡ ብእሲ፡ ጠቢብ፡ ዘይሌብዎ፡ ለዝንቱ፡ Jer. 9,12; ለቡ፡ ዘርኢከ፡ Dan. 9,23; Dan. 9,25"
+        ]
+      ]
+    },
+    "ወይፈርሁ": {
+      "match_type": "affix_stripped (ፈር)",
+      "current_def": "and + they fear, they are afraid",
+      "dillmann_entry_nums": [
+        "6890"
+      ],
+      "dillmann_titles": [
+        "ወፈረ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [referendum videtur ad בַּר ܒܰܪܳܐ بَرٌّ campus , rus , أَبَرَّ; etiam بَرَزَ exivit in campum ] Subj. ይውፍር፡ etiam ዩፈር፡, Imperat. ውፍር፡ et ፈር፡, rus ire , in agros exire vel excurrere , per agros vel campos deambulare , ruri esse : ወፈሩ፡ ሕዝብ፡ 2 Esr. 18,16; ጸግወነ፡ ሰላመ፡ ኑፈር፡ ወንእቱ፡ Deg.; seq. Acc. loci:"
+        ]
+      ]
+    },
+    "መላእክት": {
+      "match_type": "exact",
+      "current_def": "angels, messengers (plural)",
+      "dillmann_entry_nums": [
+        "12254",
+        "1106",
+        "352"
+      ],
+      "dillmann_titles": [
+        "ምስኳዐ፡ ምሕያከ፡ መላእክት፡",
+        "ምልክና",
+        "መልአክ"
+      ],
+      "dillmann_senses": [
+        [
+          "mǝskwāʿa mǝḥyāka malāʾǝkt n. pr. (place name) ወእምድኅረ፡ ቀሠፍዎሙ፡ ወደይዎሙ፡ ውስተ፡ ምምስኳዐ፡ {form used in that ms.} ምሕያከ፡ መላእክት፡ ‘ After they had flogged them, they threw them into the ruminating place of officersʼ cud ’ 78 l. 6–7 (ed.), 67 l. 24–25 (tr.); ወእንዘ፡ ይነብሩ፡ ህየ፡ ለአኩ፡ ኀበ፡ ሊቀ፡ ማኅበር፡ አኃው፡ እለ፡ አግዓዞሙ፡ ንጉሥ፡"
+        ],
+        [
+          "subst. dominium , mancipium : ይጸንዕ፡ ምልክናሁ፡ እምድኅረ፡ ፴ ዓመት፡ (sc. usucapione) F.N. 35; ንኤዝዝ፡ ከመ፡ ይኩን፡ ላቲ፡ (ለብእሲት፡) ምልክናሁ፡ ለዝንቱ፡ ንዋይ፡ F.N. 24,7; potestas patria, tutoris al.; auctoritas , dominium , imperium , majestas , celsitudo : ዘታሕተ፡ ምልክናሁ፡ qui sub ejus (tutoris) potestate est F.N. 24; አሰስሎተ፡ ምልክናሁ፡"
+        ],
+        [
+          "subst. , m. [מַלְאָךְ, ܡܰܠܰܐܟܳܐ, مَلْأَكٌ, amh. መልአክ፡ et መላክ፡] Pl. መላእክት፡ nuntius , legatus : መላእክት፡ ረዋጽያን፡ Jes. 18,2; Judith 3,1. in specie legatus Dei i.e. angelus Luc. 2,13; Job 1,6; Hebr. 1,4-7; al. saepissime; መልአከ፡ ብርሃን፡ 2 Cor. 11,14; መላእክት፡ ዘመቅሠፍት፡ Hen. 56,1; መላእክት፡ ሞት፡ Job 33,23; Asc. Jes. 9"
+        ]
+      ]
+    },
+    "ዘበዐለው": {
+      "match_type": "affix_stripped (በዐለ)",
+      "current_def": "which + rules over, which has dominion",
+      "dillmann_entry_nums": [
+        "1334"
+      ],
+      "dillmann_titles": [
+        "መበለ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,2 [denom. a nomine e rad. በዐለ፡ בָּעַל ܒܥܰܠ بَعَلَ et بَلِلَ derivato] dominium obtinere et exercere, dominari , potestatem habere , c.c. ላዕለ፡, ut: በሐኵ፡ እንዘ፡ ይሜብል፡ ላዕለ፡ መርዔት፡ Prov. 24,66; 1 Tim. 2,12; 1 Cor. 6,12 rom.; Kuf. 10; Kuf. 19; c. ዲበ፡ Kuf. 43; በ፡ Kuf. 10; c. ውስተ፡ terrae Kuf. 22; Kuf. 40; K"
+        ]
+      ]
+    },
+    "አድባብር": {
+      "match_type": "contains_root (ድባብ)",
+      "current_def": "mountains (plural, extended form)",
+      "dillmann_entry_nums": [
+        "7981",
+        "1680"
+      ],
+      "dillmann_titles": [
+        "ድባብ",
+        "ምሥሃል"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , amharicum magis quam aeth., uraniscus portabilis vel umbraculum („a large umbrella, which instead of a canopy the priests carry about in procession“ Isenb. p. 166), Genz. f. 40 (vid. sub መርዋሕት፡); ጸዋሬ፡ ድባብ፡ Chron. Ax. f. 89."
+        ],
+        [
+          "subst. locus clementiae vel propitiationis i.e. ἱλαστήριον propitiatorium (כַּפֹּרֶת operculum arcae foederis, cui insistebant Cherubim) Ex. 38,5-8; Lev. 16,2; Lev. 13 seq.; Num. 7,89; Am. 9,1; Am. 8,14 (ምሥሃል፡ ሰማርያ፡); Hebr. 9,5. „ uraniscus , qualis in Aethiopia est super altaribus vel etiam super l"
+        ]
+      ]
+    },
+    "አድባር": {
+      "match_type": "exact",
+      "current_def": "mountains (plural)",
+      "dillmann_entry_nums": [
+        "7972"
+      ],
+      "dillmann_titles": [
+        "ደብር"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. m. , rarius fem. (ut 3 Reg. 16,24 var.) [huic nomini plerique conferunt samar. טבר mons , טַבּוּר locus editus , טִיבוּר umbilicus ; sed etiam arab. دُبْرٌ tergum ab eminendo dictum videtur, et significationes radicum دبر et דבר pone esse al. secundariae sunt; vicinum est I ደበበ፡] Pl. አድባር፡, P"
+        ]
+      ]
+    },
+    "ፈትሐ": {
+      "match_type": "exact",
+      "current_def": "judgment, ruling, decision",
+      "dillmann_entry_nums": [
+        "9970"
+      ],
+      "dillmann_titles": [
+        "ፈትሐ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [פתח ܦܬܚ فتح] Subj. ይፍታሕ፡ aperire , saccum Gen. 42,27; Gen. 43,21; ፈትሐ፡ ኪሰ፡ Jsp. p. 370; uterum Gen. 29,31; Ex. 13,2; Ex. 13,13; Luc. 2,23; thesaurum Hen. 11,1; Deut. 28,12; os 4 Esr. 14,41; Hen. 56,8; Hen. 106,11; Jes. 52,15; aures: ፍታሕ፡ አፉሁ፡ ወእዘኒሁ፡ Kuf. 12; manus: ፈቲሐከ፡ እዴከ፡ Ps. 103,29; እደዊሃ፡ "
+        ]
+      ]
+    },
+    "ወምስለ": {
+      "match_type": "prefix_stripped (ምስለ)",
+      "current_def": "and + with, together with, alongside",
+      "dillmann_entry_nums": [
+        "5696",
+        "2434",
+        "8420"
+      ],
+      "dillmann_titles": [
+        "ተኣኀዘ",
+        "አስተሳለመ",
+        "ገብረ"
+      ],
+      "dillmann_senses": [
+        [
+          "III,3 sese invicem prehendere i.e. confinem esse , contingere , attingere , συνάπτειν, c. ምስለ፡ Jos. 19,11; c. ላዕለ፡ Jos. 19,22; c. በ፡ Jos. 19,26. coagmentatum , commissum esse 3 Reg. 7,15. pugna congredi , adoriri , aggredi (angreifen), aciem instruere , συνάπτειν, παρατάσσεσθαι, ተኣኀዙ፡ ይትቃተሉ፡ 2 Reg. "
+        ],
+        [
+          "IV,3 pacem componere , in pacem et gratiam reducere , pacificare , reconciliare , pacare ; absol. : እለ፡ ያስተሳልሙ፡ ወያስተዓርቁ፡ Clem. f. 196; c. ማእከለ፡ vel ምስለ፡ inter , ut: አስተሳለመ፡ ማእከሌሆሙ፡ Jsp. p. 312; አስተሳልም፡ ምስለ፡ እለ፡ ይትባአሱ፡ Lud. e Syn.; c. Acc. , ut: ለመስተፃርራን፡ አስተሳልምዎሙ፡ F.N. 43,8; (Christus) አስተሳለመ፡ በመስቀሉ"
+        ],
+        [
+          "I,1 [גָּבֵר valuit , fortis fuit ; de prima radicis significatione vid. Ges. thes. p. 261] Subj. ይግበር፡ actuosum esse , laborare , Ruth 2,19; Ruth 3,2; Ex. 31,5. agere Deut. 17,12; Num. 24,18; Joh. 5,17; Jac. 2,22 Platt; Rom. 7,5. transit., facere , creare , condere : Gen. 1,7; Gen. 1,16 seq.; Gen. 2"
+        ]
+      ]
+    },
+    "ግብርኩም": {
+      "match_type": "contains_root (ግብር)",
+      "current_def": "your (mp) deeds, your works",
+      "dillmann_entry_nums": [
+        "7113",
+        "8435"
+      ],
+      "dillmann_titles": [
+        "ዐቃቢ",
+        "ምግባር"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. , fem. ዐቃቢት፡, Pl. m. ዐቃብያን፡, c. ዐቀብት፡ custos : Gen. 4,9; ዐቃብያን፡ (v. ዐቀብተ፡) ቤት፡ Koh. 12,3; ዐቃቤ፡ ኅለት፡ Jes. 27,4; መኑ፡ ይሠይም፡ ዐቃቤ፡ ላዕለ፡ አፉየ፡ Sir. 22,27; Ps. 38,2; Ps. 140,3; አንትሙ፡ ካህናት፡ ዐቃብያነ፡ ቤተ፡ እግዚአብሔር፡ Clem. f. 205; ካህናት፡ ዐቃብያነ፡ ሕጉ፡ ለእግዚአብሔር፡ Clem. f. 207; Petrus ዐቃቤ፡ መራኁተ፡ መንግሥተ፡ ሰመያት፡ Clem. "
+        ],
+        [
+          "subst. , plerumque m. , Pl. ምግባራት፡ actio , agendi ratio , institutum vitae , facinora , facta vel opera quae quis facere solet , πρᾶγμα Koh. 3,1; Koh. 3,17; ለኵሉ፡ ሰብእ፡ ይፈድዮ፡ በከመ፡ ምግባሩ፡ κατὰ τὰς πράξεις Sir. 32,24; Ps. 27,5; Matth. 16,27; Luc. 23,51; Rom. 8,13; Col. 3,9; ποιήματα Ps. 63,10; Koh. 9,7; "
+        ]
+      ]
+    },
+    "በበይነ": {
+      "match_type": "exact",
+      "current_def": "in + between, among, in the midst of",
+      "dillmann_entry_nums": [
+        "7693",
+        "8084",
+        "4124"
+      ],
+      "dillmann_titles": [
+        "ተዜያነወ",
+        "ደንገፀ",
+        "በበይነ"
+      ],
+      "dillmann_senses": [
+        [
+          ", rarius ተዘያነወ፡ (quam formam equidem nusquam nisi in Ludolfi operibus inveni, plerumque ab ipso emendatam) III,3 sibi invicem vel inter se annuntiare , c. Acc. rei: Ps. 95,2; 1 Par. 16,23. sibi invicem narrare vel enarrare aliquid, sermones conferre , sermocinari , colloqui : እንዘ፡ ይዜያነዉ፡ ፫ ዕለት፡ Chro"
+        ],
+        [
+          "vel ደንገጸ፡ quadril. I [amh. ደነገጸ፡ et ደነገጠ፡ id.; etymon haud satis conspicuum est; conjeceris si quidem ደ formativum est, collidi , concuti a נְקַשׁ ܢܩܰܫ, vel commoveri , contremiscere a نغش vel نغض] concuti , contremere , ἐῤῥάγη 3 Reg. 1,40; ᾔχησε 1 Reg. 4,5; Hen. 1,6; ἐθάμβησεν 1 Reg. 14,15. mente p"
+        ],
+        [
+          "praep. (e በ፡ et በይነ፡; gramm. § 166,22) inter (i.q. በበይናት፡), ubi de ratione nectendi, separandi, comparandi vel opponendi agitur, c. pron. suffixis usitatum: Ex. 21,18; Ex. 25,20; Ex. 26,5; Ex. 26,9; Ex. 28,7; Ex. 36,11; ob , propter , causa : በበይነ፡ ነፍሱ፡ ለዝንቱ፡ ብእሲ፡ Jon. 1,14; 1 Reg. 9,12; 1 Reg. 28,1"
+        ]
+      ]
+    },
+    "አምላከ": {
+      "match_type": "exact",
+      "current_def": "God, deity, divine one (noun); also: he reigned",
+      "dillmann_entry_nums": [
+        "1108"
+      ],
+      "dillmann_titles": [
+        "አምላክ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. ; est formâ pl., (vid. gramm. § 131,2) sine dubio a singulari deperdito መልክ፡ [coll. hebr. מֶלֶךְ et arab. مَلِكٌ et أَلْمَلِكُ, quae et ipsa de Deo usurpantur] derivatum est, et dominos , dominatores significat: deinde in notionem divini numinis (sive in pluribus Deis sive in unico Deo contin"
+        ]
+      ]
+    },
+    "ይግበሩ": {
+      "match_type": "exact",
+      "current_def": "they do, they make, they perform (3mp imperfect)",
+      "dillmann_entry_nums": [
+        "1135"
+      ],
+      "dillmann_titles": [
+        "አምሐለ"
+      ],
+      "dillmann_senses": [
+        [
+          "II,1 jurare facere vel jubere i.e. jurejurando obstringere , ad jusjurandum adigere , jusjurandum exigere ab aliquo vel deferre alicui, c. Acc. pers. jurantis (de reliqua constructione vid. I,1): Gen. 24,3; Gen. 50,16; Gen. 50,25; Kuf. 35; አምሐሎ፡ በደመ፡ አቤል፡ ከመ፡ seq. Subj. Clem. f. 15; Asc. Jes. 11,39;"
+        ]
+      ]
+    },
+    "እምይሠርሉ": {
+      "match_type": "contains_root (ይሠር)",
+      "current_def": "from + they weave; from their weaving/plotting",
+      "dillmann_entry_nums": [
+        "6500"
+      ],
+      "dillmann_titles": [
+        "ወሠረ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 et 2 [נָשַׂר נְסַר نَشَرَ وَشَرَ أَشَرَ serravit , ܢܣܰܪ incidit , dissecuit ] Subj. I,1 ይውሥር፡ et ይሥር፡ et ይሠር፡, serrare , serra secare vel dissecare , ይትሌዐልኑ፡ ሞሠርት፡ ዘአልቦ፡ ዘይወሥሩ፡ (v. ዘይዌሥሩ፡) ቦቱ፡ Jes. 10,15; ረሰይኩከ፡ ከመ፡ መንኰራኵረ፡ ሰረገላ፡ ዘየሐርስ፡ ወይወሥር፡ (v. ወይዌሥር፡) Jes. 41,15; c. Acc. : ወሠረ፡ ዕፀ፡ Sap. 13,1"
+        ]
+      ]
+    },
+    "ወእምበዘመድ": {
+      "match_type": "contains_root (ዘመድ)",
+      "current_def": "and + from + kindred, from kinship/family",
+      "dillmann_entry_nums": [
+        "7531",
+        "2007"
+      ],
+      "dillmann_titles": [
+        "ዘመድ",
+        "ሥጋዊ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. ( m. ), Pl. አዝማድ፡ cognatio , familia , stirps , genus , cognatus , cognati , consanguinei , proximi , συγγένεια ዘመድ፡ Gen. 12,1; Ex. 6,16; Ex. 6,19; Ruth 2,3; Jes. 38,12; vel አዝማድ፡ Ruth 2,1; Luc. 1,61; Act. 7,14; τὸ γένος ዘመድ፡ Tob. 5,12; Act. 17,29; vel አዝማድ፡ Jer. 36,32; Jer. 43,31; Tob. 6,12;"
+        ],
+        [
+          ", rarius ሥጋይ፡ (ut M.M. f. 73), adj. rel. , ad corpus pertinens , corporeus , corporalis , carnalis : አበው፡ ሥጋዊያን፡ (opp. spiritualibus) Chrys. ho. 29; Phlx. 233; ኵነኔ፡ ነፍሳዊ፡ ወሥጋዊ፡ F.M. 4,1; F.M. 19,2; Org. 3; ኀጢአት፡ ሥጋውያት፡ peccata carnalia (sc. quae ad res corporales et carnales pertinent; opp. peccatis"
+        ]
+      ]
+    },
+    "ወእምይግበሩ": {
+      "match_type": "contains_root (ይግበሩ)",
+      "current_def": "and + from + they do, from their deeds",
+      "dillmann_entry_nums": [
+        "1135"
+      ],
+      "dillmann_titles": [
+        "አምሐለ"
+      ],
+      "dillmann_senses": [
+        [
+          "II,1 jurare facere vel jubere i.e. jurejurando obstringere , ad jusjurandum adigere , jusjurandum exigere ab aliquo vel deferre alicui, c. Acc. pers. jurantis (de reliqua constructione vid. I,1): Gen. 24,3; Gen. 50,16; Gen. 50,25; Kuf. 35; አምሐሎ፡ በደመ፡ አቤል፡ ከመ፡ seq. Subj. Clem. f. 15; Asc. Jes. 11,39;"
+        ]
+      ]
+    },
+    "ይተለወጥ": {
+      "match_type": "contains_root (ተለወ)",
+      "current_def": "it changes, it is transformed, it is altered",
+      "dillmann_entry_nums": [
+        "4221"
+      ],
+      "dillmann_titles": [
+        "ተለወ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1, [תָּלָה ܬܠܳܐ suspendi ; intransit. adhaesit , affixus est ; تَلَا secutus est ; proprie: hangen an ] Subj. ይትሉ፡ (at ይትለው፡ Luc. 21,8 rom.; Rom. 12,9 Polygl.) adhaerere , adhaerescere ( deditum esse , studio propensum vel defixum esse ) κολλᾶσθαι, προςκολλᾶσθαι, c.c. ኀበ፡ pers.: ተለወ፡ ነፍሱ፡ ኀቤሃ፡ ጥቀ፡"
+        ]
+      ]
+    },
+    "ወበክርምት": {
+      "match_type": "contains_root (ክርም)",
+      "current_def": "and + in + winter, the rainy season",
+      "dillmann_entry_nums": [
+        "6074"
+      ],
+      "dillmann_titles": [
+        "ክርም"
+      ],
+      "dillmann_senses": [
+        [
+          ", etiam ከርም፡, subst. (i.q. كَرْمٌ uva , vitis , coll. כֶּרֶם) vitis : አስተጋብኡ፡ ዕፀወ፡ ክርም፡ ወአንደዱ፡ እሳተ፡ Sx. Nah. 10 (in aliis locis similibus legitur ሐረገ፡ ወይን፡ tamquam materia ignis facile inflammabilis, ut Sx. Haml. 5); locum ዐይነ፡ ከርም፡, quo Maria Elisabetham gravidam visitatura perrexit, Lud. affert e "
+        ]
+      ]
+    },
+    "እምግብርኩም": {
+      "match_type": "contains_root (ግብር)",
+      "current_def": "from + your (mp) deeds, your works",
+      "dillmann_entry_nums": [
+        "7113",
+        "8435"
+      ],
+      "dillmann_titles": [
+        "ዐቃቢ",
+        "ምግባር"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. , fem. ዐቃቢት፡, Pl. m. ዐቃብያን፡, c. ዐቀብት፡ custos : Gen. 4,9; ዐቃብያን፡ (v. ዐቀብተ፡) ቤት፡ Koh. 12,3; ዐቃቤ፡ ኅለት፡ Jes. 27,4; መኑ፡ ይሠይም፡ ዐቃቤ፡ ላዕለ፡ አፉየ፡ Sir. 22,27; Ps. 38,2; Ps. 140,3; አንትሙ፡ ካህናት፡ ዐቃብያነ፡ ቤተ፡ እግዚአብሔር፡ Clem. f. 205; ካህናት፡ ዐቃብያነ፡ ሕጉ፡ ለእግዚአብሔር፡ Clem. f. 207; Petrus ዐቃቤ፡ መራኁተ፡ መንግሥተ፡ ሰመያት፡ Clem. "
+        ],
+        [
+          "subst. , plerumque m. , Pl. ምግባራት፡ actio , agendi ratio , institutum vitae , facinora , facta vel opera quae quis facere solet , πρᾶγμα Koh. 3,1; Koh. 3,17; ለኵሉ፡ ሰብእ፡ ይፈድዮ፡ በከመ፡ ምግባሩ፡ κατὰ τὰς πράξεις Sir. 32,24; Ps. 27,5; Matth. 16,27; Luc. 23,51; Rom. 8,13; Col. 3,9; ποιήματα Ps. 63,10; Koh. 9,7; "
+        ]
+      ]
+    },
+    "ዘተነገረ": {
+      "match_type": "contains_root (ነገረ)",
+      "current_def": "which + was spoken, that which was told",
+      "dillmann_entry_nums": [
+        "8396",
+        "2624"
+      ],
+      "dillmann_titles": [
+        "ጐርጐረ",
+        "አሰርገወ"
+      ],
+      "dillmann_senses": [
+        [
+          "rad., cognata cum ጕርዔ፡, جَرْجَرَ غَرْغَرَ (etiam הִתְגּוֹרִר Hos. 7,14 ut mihi videtur) nec non ነገረ፡"
+        ],
+        [
+          "quadril. II ornare , comere , exornare : Ex. 39,6; አሰርገወ፡ ዕበያ፡ ለጥበቢሁ፡ Sir. 42,21; c. Acc. et በ፡ rei Hen. 18,1; c. dupl. Acc. Gen. 24,27; አሰርጎኩኪ፡ ሰርጐ፡ Hez. 16,11; Hez. 16,13; ያሰርግውዋ፡ ( Subj. ) አክሊለ፡ Esth. 1,11; Esth. 2,17; አሰርጎከ፡ ሰማየ፡ ፀሐየ፡ ወወርኀ፡ Mavâs. 8; etiam transl.: ornare vel polire orationem, u"
+        ]
+      ]
+    },
+    "እምትእዛዛት": {
+      "match_type": "prefix_stripped (ትእዛዛት)",
+      "current_def": "from + commandments, from ordinances",
+      "dillmann_entry_nums": [
+        "5845"
+      ],
+      "dillmann_titles": [
+        "ትእዛዝ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , fem. et m. , Pl. ትእዛዛት፡, potestas , imperium : እስመ፡ በትእዛዝ፡ ውእቱ፡ ቃሉ፡ ἐν ἐξουσίᾳ Luc. 4,32; Luc. 4,36; አግነዮሙ፡ ለትእዛዘ፡ ሮም፡ Jsp. p. 313; ሜጦሙ፡ ለትእዛዘ፡ ሮም፡ regedit eos sub imperium Romanorum Jsp. p. 312; ይወጽኡ፡ እምትእዛዝነ፡ Jsp. p. 324; i.q. officium (episcopi) . 331 Nr. 93. praeceptum , mandatum , edic"
+        ]
+      ]
+    },
+    "ተለወጥኩም": {
+      "match_type": "contains_root (ተለወ)",
+      "current_def": "you (pl.) changed, you were transformed",
+      "dillmann_entry_nums": [
+        "4221"
+      ],
+      "dillmann_titles": [
+        "ተለወ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1, [תָּלָה ܬܠܳܐ suspendi ; intransit. adhaesit , affixus est ; تَلَا secutus est ; proprie: hangen an ] Subj. ይትሉ፡ (at ይትለው፡ Luc. 21,8 rom.; Rom. 12,9 Polygl.) adhaerere , adhaerescere ( deditum esse , studio propensum vel defixum esse ) κολλᾶσθαι, προςκολλᾶσθαι, c.c. ኀበ፡ pers.: ተለወ፡ ነፍሱ፡ ኀቤሃ፡ ጥቀ፡"
+        ]
+      ]
+    },
+    "ወበወይነ": {
+      "match_type": "prefix_stripped (ወይነ)",
+      "current_def": "and + in + the days of, at the time of",
+      "dillmann_entry_nums": [
+        "2762",
+        "2765"
+      ],
+      "dillmann_titles": [
+        "ሰትየ",
+        "ስቱይ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [שָׁתָה ܐܶܫܬܺܝ] Subj. ይስተይ፡, Imperat. ስተይ፡ et ስቲ፡ bibere , absol. Gen. 30,38; Ex. 17,6; Num. 29,11; በሊዕ፡ ወሰትይ፡ Ruth 3,3; ንብላዕ፡ ወንስተይ፡ Jes. 22,13; Jes. 21,5; Jes. 29,8; Jer. 32,13; 4 Esr. 10,7; Luc. 17,8; c. Acc. rei Lev. 10,9; እለ፡ ይሰትይዎ፡ ለወይን፡ Jes. 5,22; Jes. 22,13; Jes. 25,6; Jer. 42,5; Jer. 42"
+        ],
+        [
+          "part. potus : ኢትገሥጽ፡ ቢጸከ፡ እንዘ፡ ስቱይ፡ ወይን፡, var. ወይነ፡, Sir. 34,31."
+        ]
+      ]
+    },
+    "ተነገርኩም": {
+      "match_type": "contains_root (ነገር)",
+      "current_def": "it was told to you (pl.), you were informed",
+      "dillmann_entry_nums": [
+        "5200",
+        "8249"
+      ],
+      "dillmann_titles": [
+        "ነገር",
+        "ጕልት"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. , rarius fem. , Pl. ነገራት፡ (verba, dicta, res) et አንጋር፡ (linguae), sermo , ratio loquendi i.e. lingua , dialectus , locutio (Sprache): ይነብባ፡ በነገረ፡ ከነዓን፡ Jes. 19,18; Jes. 36,13; Gen. 10,5; Gen. 11,1; Gen. 11,7; Gen. 11,9; ነገረ፡ ፋርስ፡ Dan. 1,4; Esth. 3,12; እለ፡ ካልእ፡ ነገሮሙ፡ ἀλλόφωνοι Hez. 3,6; ደ"
+        ],
+        [
+          "subst. , Pl. ጕልታት፡ praedium , fundus vel alia res ad utendum et fruendum legata religionis ergo, F.N. 18 passim; Kebr. Nag. f. 92 seq."
+        ]
+      ]
+    },
+    "ልብ": {
+      "match_type": "exact",
+      "current_def": "heart, mind, understanding, will (noun)",
+      "dillmann_entry_nums": [
+        "918",
+        "995",
+        "2496"
+      ],
+      "dillmann_titles": [
+        "ሐዘን",
+        "ሐጽ",
+        "ስሕተት"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. et fem. (ut Sir. 30,23; Sir. 38,20), Plur. ሐዘናት፡ tristitia , moeror , aegritudo , luctus : λύπη ብዙኃን፡ እለ፡ ሞቱ፡ እንበይነ፡ ሐዘን፡ ሐዘኑ፡ ለልብ፡ ይሰብሮ፡ ለኀይል፡ Sir. 38,18; Sir. 38,19; Sir. 38,20; Sir. 30,23; Sir. 14,1; Prov. 14,13; Luc. 22,45; Joh. 16,20; በሐዘን፡ ἐν λύπῃ Tob. 2,5; 4 Esr. 7,18; ἄλγημα Koh."
+        ],
+        [
+          "subst. , plerumque m. , Plur. አሕጻ፡ et አሕጻት፡ sagitta , telum [quamquam enim hebr. חֵץ a rad. חָצַץ provenit, tamen ob pluralis formas, quae cum pluralibus vocum ስም፡ et ጥብ፡ magis quam cum pluralibus vocum ፀር፡, ልብ፡ al. conveniunt, nunc (aliter atque in gramm. § 136,2,c) hujus vocis radicem ሐጸየ፡ statuer"
+        ],
+        [
+          "n. act. , m. et fem. , Pl. ስሕተታት፡ aberratio , error , errores , ( vitium , peccatum ): ስሕተት፡ ጸዋግ፡ περιφέρεια πονηρά Koh. 10,13; Koh. 7,25 (var. ስሕታት፡); πλάνη ፍኖተ፡ ስሕተት፡ Sap. 12,24; ስሕተቶሙ፡ እምአእምሮ፡ እግዚአብሔር፡ Sap. 14,22; ስሕተተ፡ ልቦሙ፡ Kuf. 1; Kuf. 12; ስሕተተ፡ አሕዛብ፡ Kuf. 6; Asc. Jes. 2,10; ዘእንበለ፡ ስሕተት፡ sine e"
+        ]
+      ]
+    },
+    "ይፈትሐ": {
+      "match_type": "prefix_stripped (ፈትሐ)",
+      "current_def": "he opens, he judges, he decides (imperfect)",
+      "dillmann_entry_nums": [
+        "9970"
+      ],
+      "dillmann_titles": [
+        "ፈትሐ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [פתח ܦܬܚ فتح] Subj. ይፍታሕ፡ aperire , saccum Gen. 42,27; Gen. 43,21; ፈትሐ፡ ኪሰ፡ Jsp. p. 370; uterum Gen. 29,31; Ex. 13,2; Ex. 13,13; Luc. 2,23; thesaurum Hen. 11,1; Deut. 28,12; os 4 Esr. 14,41; Hen. 56,8; Hen. 106,11; Jes. 52,15; aures: ፍታሕ፡ አፉሁ፡ ወእዘኒሁ፡ Kuf. 12; manus: ፈቲሐከ፡ እዴከ፡ Ps. 103,29; እደዊሃ፡ "
+        ]
+      ]
+    },
+    "አዋይከውን": {
+      "match_type": "contains_root (ይከውን)",
+      "current_def": "it will not be, it shall not exist (emphatic negative)",
+      "dillmann_entry_nums": [
+        "4810",
+        "6290"
+      ],
+      "dillmann_titles": [
+        "ትንሣኤ",
+        "ኮነ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. surrectio , lapsi Org. ascensus vel ortus siderum: ምስለ፡ ትንሣኤ፡ ፀሓይ፡ (በጽባሕ፡) Kuf. 3. exaestuatio undarum: ትንሣኤ፡ መዋግድ፡ M.M. f. 96. elatio , superbia , ἔπαρσις Zach. 12,7. insurgere contra aliquem, insultatio : ትንሣኤ፡ ፀር፡ Lit. 159,4; ትንሣኤ፡ ወቅሥት፡ turbae et rixae , Lud. e L. Myst. exsistere , emerge"
+        ],
+        [
+          "I,1 [proprie: erectum stare , vid. Ges. thes. p. 665; كَانَ exsistit , accidit , fuit ] Perf. 1 pers. Pl. ኮነ፡ (Jes. 1,9; Jes. 63,19; Jes. 64,6 al.), Subj. ይኩን፡ (ይኵን፡ passim), Imperat. ኩን፡ (ኵን፡) accidere , evenire , fieri ( geschehen ): ዘከመ፡ ኮነ፡ τὸ γεγονός Esth. 4,4; Esth. 4,7; ደንገፁ፡ በበይነ፡ ዘኮነ፡ Judit"
+        ]
+      ]
+    },
+    "መከነት": {
+      "match_type": "contains_root (መከነ)",
+      "current_def": "place, dwelling, habitation (noun)",
+      "dillmann_entry_nums": [
+        "1453",
+        "1452"
+      ],
+      "dillmann_titles": [
+        "መከነ",
+        "መከነ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,2 orbum facere , orbare : ከመ፡ ኢይመክኑ፡ ሕዝበኪ፡ Hez. 36,14 var.; Hez. 36,15 var."
+        ],
+        [
+          "I,1 [amh. id.; proprie, ut videtur, inhiberi , subsistere , a כּוּן (ኮነ፡) stetit propagatum; Arabes frequentant عَقَمَ عَقِمَ et عَقَرَ vel عَقُرَ] Subj. ይምክን፡ sterilem , i nfoecundum esse vel fieri , de hominibus, brutis et terra: ከመ፡ ኢትምክን፡ μήποτε στειρώσῃ Sir. 42,9; Kuf. 28; አንስት፡ ይመክና፡ 4 Reg. 2,"
+        ]
+      ]
+    },
+    "ወለሰላም": {
+      "match_type": "prefix_stripped (ለሰላም)",
+      "current_def": "and to + peace, completeness, well-being",
+      "dillmann_entry_nums": [
+        "9470",
+        "2435"
+      ],
+      "dillmann_titles": [
+        "ጸውዐ",
+        "ሰላም"
+      ],
+      "dillmann_senses": [
+        [
+          "(passim ጸወዐ፡ scriptum ut Ex. 34,5) I,2 [צָוַח צְוַח صاح, sine dubio etiam שִׁוֵּע et دعا] vocare , Jes. 44,7; Jes. 50,2; Job 5,1; c. Acc. pers.: Job 13,22; 1 Reg. 3,4; 1 Reg. 3,5; 1 Reg. 3,6; 1 Reg. 3,7; 1 Reg. 3,8; 1 Reg. 15,2; 1 Reg. 26,14; Gen. 3,9; Gen. 27,1; Ex. 3,4; Cant. 3,1; (προσφωνεῖν) Mat"
+        ],
+        [
+          "subst. , m. et fem. (ut Rom. 14,19; 1 Petr. 3,11; Hen. 5,4), [ܫܠܳܡ שָׁלוֹם سَلَامٌ] incolumitas , salus Hen. 76,8; Hen. 76,13; ሑር፡ በሰላም፡ Kuf. 18; በሰላም፡ የሐውር፡ ወበሰላም፡ ይትመየጥ፡ Kuf. 27; 2 Reg. 3,23; 2 reg. 3,24; ይዜንዎ፡ በእንተ፡ ሰላም፡ 2 Reg. 8,10; 1 Reg. 30,21; ከመ፡ ያእምር፡ ሰላሞሙ፡ ut cognosceret, quomodo valerent "
+        ]
+      ]
+    },
+    "ብርሃን": {
+      "match_type": "exact",
+      "current_def": "light, illumination",
+      "dillmann_entry_nums": [
+        "3865",
+        "854"
+      ],
+      "dillmann_titles": [
+        "ብርሃን",
+        "ሖረ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , plerumque m. ( fem. ex. gr. Jac. 1,17), Pl. ብርሃናት፡ lux , lumen (φῶς, φέγγος) Gen. 1,3; Gen. 1,4; Jes. 5,20; Jes. 9,1; Jes. 45,7; Jes. 60, 1; Jes. 60, 2; Jes. 60, 3; Jer. 28,16; Koh. 11,7; Job 3,4; Job 17,12; Job 38,19; Joh. 11,10; Matth. 10,27, al. creberrime; ብርሃነ፡ ወርኅ፡, ፀሓይ፡ Jes. 30,26; A"
+        ],
+        [
+          "I,1 [i.q. سَارَ profectus fuit , vid. §39.b; حَارَ (حَوْرٌ) significat redire ] Subj. (potissimum in libris antiquioribus) ይሖር፡ et (in recentioribus plerumque) ይሑር፡ (vid. gramm. p. 147), verbum usu tritissimum ire , incedere , vadere , proficisci : በእንግድዓኪ፡ ሑሪ፡ Gen. 3,13; ዘየሐውር፡ በአርባዕ፡, በእደዊሁ፡ Lev. "
+        ]
+      ]
+    },
+    "ወበሰላም": {
+      "match_type": "prefix_stripped (ሰላም)",
+      "current_def": "and in + peace, completeness, well-being",
+      "dillmann_entry_nums": [
+        "5463",
+        "7441",
+        "14"
+      ],
+      "dillmann_titles": [
+        "አምኀ",
+        "ዘ",
+        "ሃሌታ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,2 [componendum videtur cum وَمِقَ amavit , dilexit ] osculari (sicut φιλεῖν), ut: epistola perveniens ad eum ተአምኅ፡ ሊተ፡ አእዳዊሁ፡ ህየንተ፡ አፈ፡ ዚአየ፡ (osculetur meo nomine manus ejus vice oris mei), p. 43 Nr. 49; cfr. ተኣምኀ፡ et አምኃ፡ dilectionis et venerationis significationem dare alicui, salutare aliquem ("
+        ],
+        [
+          "pron. rel. et conj. rel. ( gramm. § 147; gramm. § 169,5). Pron. rel. : Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡ qui , quae , quod . De constructione hujus pronominis (vid. gramm. § 201; § 202). Formae pronominis secundum numeros et genera variantur, ut: ኢየሱስ፡ ዘተብህለ፡ ክርስቶስ፡ Matth. 1,16; ምድር፡ እንተ፡ ኢኮነት፡ እንቲ"
+        ],
+        [
+          "subst. abstr. : cantus Halleluja : አንቀጸ፡ ሃሌታ፡ (v. ሃሊታ፡) እምዮሐንስ፡ tabula Hallelujarum inde a Joannis festo , Deg. (vid. Catal. Cod. Aeth. Mus. Brit. p. 37)."
+        ]
+      ]
+    },
+    "ጥበብ": {
+      "match_type": "exact",
+      "current_def": "wisdom, understanding, skill (noun)",
+      "dillmann_entry_nums": [
+        "8899",
+        "8485"
+      ],
+      "dillmann_titles": [
+        "ጥበብ",
+        "ጉንባሕ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. et fem. , Pl. ጥበባት፡ sapientia , prudentia , intelligentia , scientia , disciplina : σοφία Kuf. 4; Job 11,6; Job 12,2; Job 15,8; Job 32,8; Koh. 1,16; Koh. 7,12; Koh. 7,19; Koh. 7,25; Koh. 8,1; Koh. 9,16; Prov. 1,2; Prov. 1,4; Prov. 14,8 al.; Sir. 1,20; Sir. 4,11; Sir. 11,1 al.; መንፈሰ፡ ጥበብ፡"
+        ],
+        [
+          "subst. incertae significationis, quod Lud. cum جُنْبُحٌ crassus , longus , altus composuit. Non reperitur nisi compositum, sc. አባጕንባሕ፡ vel አበጉንባሕ፡ (pro አበ፡ ጉንባሕ፡) vel ዖፈ፡ ጉንባሕ፡, quo nomine appelatur avis quaedam Abyssinica grandis, sc. bucerus Abyssinicus ( der abyssinische Hornvogel ), amharice እርኩ"
+        ]
+      ]
+    },
+    "ይሳለም": {
+      "match_type": "exact",
+      "current_def": "he is at peace, he is well, he prospers",
+      "dillmann_entry_nums": [
+        "2433"
+      ],
+      "dillmann_titles": [
+        "ተሳለመ"
+      ],
+      "dillmann_senses": [
+        [
+          "III,3 ( denom. a ሰላም፡) inter se pacem facere vel servare : ተካየዱ፡ ለተሳልሞ፡ ወለተራድኦ፡ Jsp. p. 299 et Jsp. p. 296; ተሳልሞቶሙ፡ Jsp. p. 344. inter se consalutare , salutem sibi invicem dicere , salutatione excipere aliquem: እምድኅረ፡ ተሠይመ፡ ኤጲስ፡ ቆጶስ፡ ይሳለምዎ፡ ኵሉ፡ ለለ፩፡ Lud. e Synodo; በተሳልሞ፡ ዚአሁ፡ Clem. f. 175; Kid. f. "
+        ]
+      ]
+    },
+    "ወከማ": {
+      "match_type": "prefix_stripped (ከማ)",
+      "current_def": "and + as, and like, and according to",
+      "dillmann_entry_nums": [
+        "6045"
+      ],
+      "dillmann_titles": [
+        "ከመ"
+      ],
+      "dillmann_senses": [
+        [
+          "adv. rel. , praep. , conj. [כְּמוֹ, כְּמָא, ܐܰܟܡܳܐ, كَمَا; gramm. § 63, a; gramm. § 64, b], Adv. rel. integrae sententiae praemissum: ከመ፡ comparative: ut , sicut , quemadmodum , sive addito correlato ( sic , ita ): Sir. 3,15; Sir. 10,2; ከመ፡ ይፈቱ፡ ኅጽው፡ – ከማሁ፡ Sir. 20,4; Jes. 62,5; Jer. 3,20; Hen. 28,2"
+        ]
+      ]
+    },
+    "እምሰብእ": {
+      "match_type": "prefix_stripped (ሰብእ)",
+      "current_def": "from + man, men, people, mankind",
+      "dillmann_entry_nums": [
+        "6341",
+        "4074",
+        "2714"
+      ],
+      "dillmann_titles": [
+        "ኬደI",
+        "ባዕል",
+        "ሰብእ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [amh. ሔደ፡, كَدِيدٌ terra calcata ; كَدَا durum fuit solum (proprie: tundendo vel calcando)] Subj. ይኪድ፡ calcare , viam, locum eundo , incedendo ; terere : abs. : ኀበ፡ ኬደ፡ ἐν βήμασιν αὐτοῦ Sir. 45,9; ብሔር፡ ኀበ፡ ኢኬደ፡ (እግረ፡) ሰብእ፡ Jer. 2,6; c. Acc. : ኬዱ፡ ፍኖተ፡ Job 22,15; Job 28,8; ፍኖተ፡ ረሲዓን፡ ኢትኪድ፡ Prov. "
+        ],
+        [
+          "adj. et subst. , fem. ባዕልት፡, Pl. አብዕልት፡ ( m. et fem. , ut Ruth 3,10) dives , locuples , opulentus Jer. 9,23; Dan. apocr. 1,4; Matth. 19,23; Matth. 27,57; Sir. 10,22; Sir. 13,18; Sir. 13,19; Sir. 21,4; ባዕል፡ ደንጻዊ፡ Sir. 25,2; Sir. 25,30; Sir. 25,14; ብእሲት፡ ክብርት፡ ወባዕልት፡ Sx. Haml. 15; Sx. Teq. 18; Kebr. N"
+        ],
+        [
+          "subst. , m. , sing. et coll. [huic voci comparari solent etymologi nomina propria שְׁבָא et סְבָא; amh. ሰው፡] homo , homines , genus humanum (rarius: aliquis , vir ): Sing. ut Gen. 1,26; Gen. 2,7; Jer. 14,9; Jes. 2,9; Jes. 5,15; Jes. 6,5; Ps. 21,6; እምከመ፡ ሞተ፡ ሰብእ፡ ይከውን፡ ክፍለ፡ ዕፄ፡ Sir. 10,11; Sir. 8,6; "
+        ]
+      ]
+    },
+    "አወልድ": {
+      "match_type": "prefix_stripped (ወልድ)",
+      "current_def": "children, offspring, sons (noun plural)",
+      "dillmann_entry_nums": [
+        "3432",
+        "6437",
+        "6436"
+      ],
+      "dillmann_titles": [
+        "ቅብእ",
+        "ልድ",
+        "ወልድ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , plerumque m. , Pl. ቅብኣት፡, pinguedo cujusvis generis: መባልዕተ፡ ቅብእ፡ Clem. f. 239. oleum ἔλαιον Gen. 28,18; Lev. 2,1 seq.; Lev. 7,12; ቅብእ፡ ቅድው፡ 3 Reg. 15,11; ቅብአ፡ ዕፍረት፡ σμυρνίνῳ ἐλαίῳ Esth. 2,12; Ps. 4,8; Ps. 103,17; Ps. 140,6; Sir. 39,26; Jer. 47,10; Hez. 27,17; Koh. 9,8; ቅብአ፡ መዐዛ፡ Koh. 7,1; A"
+        ],
+        [
+          "subst. i.q. ወልድ፡; non nisi seq. ቤት፡ usitatum, sc. ልደ፡ ቤት፡ οἰκογενής verna Jer. 2,14; Kuf. p. 54; Kuf. p. 59; Gen. 17,23. (dubium an 17,12)."
+        ],
+        [
+          "subst. m. , Pl. ውሉድ፡ filius , natus , Matth. 1,20; Matth. 1,21; Matth. 1,22; Matth. 1,23; Matth. 1,24; Matth. 1,25; Matth. 7,9; Matth. 10,37; Matth. 13,55; Matth. 17,55; Jes. 9,6; Ex. 22,28; Sir. 30,1 seq., al. sexcenties; ወልደ፡ እጓለ፡ እምሕያው፡ Matth. 11,19; Matth. 25,31; ወልደ፡ እግዚአብሔር፡ Matth. 4,3; Matth."
+        ]
+      ]
+    },
+    "ወፈተወወን": {
+      "match_type": "contains_root (ፈተወ)",
+      "current_def": "and + they desired them (f.), they lusted after them",
+      "dillmann_entry_nums": [
+        "9998"
+      ],
+      "dillmann_titles": [
+        "ፈተወ"
+      ],
+      "dillmann_senses": [
+        [
+          ", rarius ፈትወ፡ (Act. 25,25 Platt; Deut. 14,26 al.) I,1 [פתה ܦܬܐ فتا; origo est in dilatando et aperiendo; inde derivatur inhiare ] Subj. ይፍተው፡ vel ይፍቶ፡ et ይፍትው፡ vel ይፍቱ፡, cupire , concupiscere , appetere , desiderare , exoptare , ἐπιθυμεῖν, c. Acc. Ex. 20,17; Ex. 34,24; ፈቲውየ፡ Num. 16,15 var.; Deut. 5"
+        ]
+      ]
+    },
+    "እምእንተ": {
+      "match_type": "prefix_stripped (እንተ)",
+      "current_def": "from + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "7442",
+        "416"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ዘ",
+        "ላዕለ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ],
+        [
+          "praep. frequentissima [e.q. על, ܥܰܠ, عَلَى, amh. ላይ፡]; pron. suffixa per ê sibi subjungit, ut ላዕሌየ፡, ላዕሌከ፡ caet. ( gramm. § 167,3) super , supra (ἐπὶ et ὑπέρ), et de statu quietis et de motu in superiorem loci partem: ቆመ፡ ዕዝራ፡ ላዕለ፡ መከየድ፡ ዘዕፅ፡ 2 Esr. 18,4; አዕረፈት፡ በረከት፡ ላዕለ፡ ያዕቆብ፡ ዲበ፡ ርእሱ፡ Sir. 44,23;"
+        ]
+      ]
+    },
+    "ለነ": {
+      "match_type": "exact",
+      "current_def": "for us, to us (1cp dative pronoun)",
+      "dillmann_entry_nums": [
+        "144"
+      ],
+      "dillmann_titles": [
+        "ለ"
+      ],
+      "dillmann_senses": [
+        [
+          "praepositio inseparabilis (eadem quae לְ, ܠ, لِ, vid. gramm. § 164,2); c. pron. suff. ሊተ፡, ለከ፡, ለኪ፡, ሎቱ፡, ላቲ፡; ለነ፡, ለክሙ፡, ለክን፡, ሎሙ፡, ሎን፡ (Matth. 24,19; Sir. 7,24; Hen. 9,8) vel ሎንቱ፡ (Gen. 31,43; Num. 27,6) vel ሎንቶን፡ (Ex. 2,16) vel ሎቶን፡ (Jac. 3,3; Hez. 13,17); alias suffixorum formas videas sub አሌ፡ e"
+        ]
+      ]
+    },
+    "ተመይጥኩም": {
+      "match_type": "contains_root (ተመይ)",
+      "current_def": "you (pl.) turned back, you changed your mind",
+      "dillmann_entry_nums": [
+        "10590"
+      ],
+      "dillmann_titles": [
+        "ተመይ"
+      ],
+      "dillmann_senses": [
+        [
+          "(ተሞይ፡ Lud.) sedes episc. Aeg."
+        ]
+      ]
+    },
+    "በመርገም": {
+      "match_type": "prefix_stripped (መርገም)",
+      "current_def": "by/with + a curse, by mutual imprecation",
+      "dillmann_entry_nums": [
+        "2376"
+      ],
+      "dillmann_titles": [
+        "መርገም"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. et fem. (Ps. 108,16; Ps. 108,17), Pl. መርገማት፡ (Cyr. f. 105; F.N. 9,4) imprecatio , maledictio , exsecratio , dirae , δυσφημία 2 Cor. 6,8; ἀρά, κατάρα Rom. 3,14; Gal. 3,10; Gal. 3,13; Hebr. 6,8; Jac. 3,10; 2 Petr. 2,14; Num. 5,23; መሐላ፡ ዘመርገም፡ Num. 5,21; 2 Esr. 23,2; መርገመ፡ እግዚአብሔር፡ Prov. 3,"
+        ]
+      ]
+    },
+    "ዘንግበር": {
+      "match_type": "contains_root (ግበር)",
+      "current_def": "which + we do, until we accomplish (relative 1cp)",
+      "dillmann_entry_nums": [
+        "8427"
+      ],
+      "dillmann_titles": [
+        "ግብር"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. et fem. , Pl. ግበር፡ et ግብራት፡ actio , efficacia , ἐνέργεια Sap. 7,26. labor , operatio , opera , opus ( Arbeit ): ሀቦ፡ ግብሮ፡ በአምጣነ፡ ኀይሉ፡ Sir. 30,38; ኢትትማከር፡ ምስለ፡ ሀካይ፡ በእንተ፡ ግብር፡ Sir. 37,11; materfamilias ትሁቦን፡ ግብሮን፡ ለአእማቲሃ፡ Clem. f. 190; Ex. 1,11; ግብረ፡ ሐቅል፡ Ex. 1,14; Ex. 5,13 seq.; Hagg. 1,1"
+        ]
+      ]
+    },
+    "እምበይነ": {
+      "match_type": "exact",
+      "current_def": "from + between, from among",
+      "dillmann_entry_nums": [
+        "4123"
+      ],
+      "dillmann_titles": [
+        "እንበይነ"
+      ],
+      "dillmann_senses": [
+        [
+          "(seu እምበይነ፡ Luc. 4,43 rom.; Act. 24,14 et 25,19 rom., ex እምነ፡ et በይነ፡) praep. , rarius conj. ( gramm. § 166,22). praep. ob , propter , causa , ergo , እንበይነ፡ ዚአሆሙ፡ መጽአ፡ ማየ፡ አይኅ፡ Sir. 40,10; እንበይነ፡ ርእሱ፡ ያመክረከ፡ Sir. 37,8; እንበይነ፡ ምጽዋት፡ χάριν ἐντολῆς Sir. 29,9; ብዙኃን፡ እለ፡ ወድቁ፡ እንበይነ፡ንዋይ፡ Sir. 34,6; Sir. 3"
+        ]
+      ]
+    },
+    "አንድም": {
+      "match_type": "contains_root (አንድ)",
+      "current_def": "each one, every single one, one by one",
+      "dillmann_entry_nums": [
+        "5433"
+      ],
+      "dillmann_titles": [
+        "አሐዱ"
+      ],
+      "dillmann_senses": [
+        [
+          "n. numer., fem. አሐቲ፡ (pro አሐድቲ፡), Acc. m. አሐደ፡, fem. አሐተ፡ (gramm. § 158); raro c. pron. suff. , ut: አሐድነ፡ Macc. 10,37 Platt (አሐደነ፡ rom.), unus , una , unum ; ejus character est ፩; [אֱחָד ܚܰܕ أَحَدٌ; amh. inserta nasali አንድ፡] እግዚአብሔር፡ አሐዱ፡ ውእቱ፡ Deut. 6,4; Rom. 3,30; ውእቱ፡ አሐዱ፡ ውእቱ፡ ባሕቲቱ፡ 1 Esr. 4,7; J"
+        ]
+      ]
+    },
+    "ምእት": {
+      "match_type": "exact",
+      "current_def": "hundred (numeral)",
+      "dillmann_entry_nums": [
+        "1418",
+        "778",
+        "6974"
+      ],
+      "dillmann_titles": [
+        "ምእት",
+        "ሐቢ",
+        "ዐሠርቱ"
+      ],
+      "dillmann_senses": [
+        [
+          "n. numerale [מֵאָה ܡܳܐܐ مِأَيَةٌ, amh. መቶ፡] Pl. አምኣት፡ (pro quo male nonnumquam አእማት፡ scriptum reperitur) centum ; centuria . Ejus character est ፻. Quamvis primitus substantivi vis habeat, tamen ምእት፡ rem numeratam plerumque non per st. constr. c. sibi subjungit, sed adjectivorum instar appositione si"
+        ],
+        [
+          "(pro ሐቢይ፡ vel ሐብይ፡) subst. , m. , Pl. ሐበይት፡ (tamquam a ሐባዪ፡) procurator , administrator , praefectus , ut ሐበይተ፡ ምግባር፡ ἐργοδιῶκται 1 Esr. 5,56; duces Hen. 6,8; in spec., ubi de re militari agitur, centurio , tribunus , praetor , dux : ሐቤ፡ ምእት፡ ἑκατοντάρχης Act. 10,1; Matth. 8,5 (ሐቢ፡ Act. 22,25); ሐበይት"
+        ],
+        [
+          "n. num. (i.e. ዐሠርት፡ cum suff. û ), plerumque nominibus m. junctum, Acc. ዐሠርተ፡, decem : Gen. 14,4; Gen. 32,23; Gen. 37,2; Gen. 37,9; Ex. 16,36; Ruth 4,2; 1 Reg. 1,8; 1 Reg. 25,5; Jes. 38,5; Jes. 38,8; ዐሠርቱ፡ ወአሐዱ፡ ወርኅ፡ Zach. 1,7; Hez. 26,1; አመ፡ ተርፉ፡ ዐሠርቱ፡ Am. 6,9; 4 Esr. 14,19; Judith 1,1; Ps. 91,3; M"
+        ]
+      ]
+    },
+    "ወእምእንተ": {
+      "match_type": "contains_root (እንተ)",
+      "current_def": "and from + thou, you (2ms pronoun)",
+      "dillmann_entry_nums": [
+        "4054",
+        "7442"
+      ],
+      "dillmann_titles": [
+        "ቦአ",
+        "ዘ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [בּוֹא بَاءَ] Subj. ይባእ፡ intrare , ingredi , introire , inire Gen. 6,18; Hen. 14,21; Jos. 6,1; c.c. Acc. loci: ቦአ፡ ቤቶ፡ Dan. 2,17; Ps. 5,8; ቦአ፡ ጽርሐ፡ 1 Esr. 3,3; Gen. 24,67; ባኡ፡ አህጉረ፡ Jer. 4,5; ኢይክል፡ በዊአ፡ ቤተ፡ እግዚአብሔር፡ Jer. 43,5; ባእ፡ ቤተከ፡ Jes. 26,20; Jes. 13,20; ቦአ፡ ብሔረ፡ ግብጽ፡ Gen. 46,6; Marc. 1,21;"
+        ],
+        [
+          "nota Genitivi (gramm. § 145; § 186). Sicut pron. rel. ዘ፡, ita notam Genitivi ዘ፡ secundum genera et numeros eorum a quibus pendet nominum variare licet, sc. Sing. m. ዘ፡, fem. እንተ፡, Pl. c. እለ፡, ut: ዕፀ፡ በለን፡ እንተ፡ ላሕ፡ Gen. 35,8; Gen. 2,4; መኃትው፡ እለ፡ ወርቅ፡ Apoc. 1,20; Jac. 5,14; at plerumque ዘ፡ post nomina"
+        ]
+      ]
+    },
+    "ስም": {
+      "match_type": "exact",
+      "current_def": "name",
+      "dillmann_entry_nums": [
+        "995",
+        "1399",
+        "2550"
+      ],
+      "dillmann_titles": [
+        "ሐጽ",
+        "መነየ",
+        "ስምዕ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , plerumque m. , Plur. አሕጻ፡ et አሕጻት፡ sagitta , telum [quamquam enim hebr. חֵץ a rad. חָצַץ provenit, tamen ob pluralis formas, quae cum pluralibus vocum ስም፡ et ጥብ፡ magis quam cum pluralibus vocum ፀር፡, ልብ፡ al. conveniunt, nunc (aliter atque in gramm. § 136,2,c) hujus vocis radicem ሐጸየ፡ statuer"
+        ],
+        [
+          "rad. inus. Significat separare , secludere (cfr. مَنَعَ מָנַע) unde ምኔት፡ monasterium , deinde dividere , partiri (cfr. מָנַה); hinc nomen ምን፡ (sicut ስም፡ a ሰመየ፡), quod in st. constr. ምነ፡ et cum እ prosthetico ( gramm. § 34) እምነ፡ sonat et praepositionis vicem explet, sicut מִן ܡܶܢ مِنْ. مَنَى certo mod"
+        ],
+        [
+          "subst. , m. et fem. , Pl. ስምዓት፡, Pl. Pl. ስምዐታት፡ res audita , rumor , nuntius : መኑ፡ ገብረ፡ ዘንተ፡ ስምዐ፡ እምትካት፡ ἀκουστά Jes. 45,21; ስምዐ፡ ኮነ፡ Jes. 48,3; በከመ፡ ስምዕ፡ ዘሰማዕክሙ፡ Asc. Jes. 7,2; ἀκοή ወንሕነኒ፡ ንሰምዕ፡ ሠናየ፡ ስምዐ፡ በላዕሌኪ፡ Tob. 10,12; መኑ፡ አምነነ፡ ስምዐነ፡ Jes. 53,1. testimonium , testificatio , contestatio Kuf. 1;"
+        ]
+      ]
+    },
+    "ዘእምላዕሌሁም": {
+      "match_type": "contains_root (ላዕሌሁ)",
+      "current_def": "who + from + above them, who was over them as leader",
+      "dillmann_entry_nums": [
+        "6872",
+        "7619"
+      ],
+      "dillmann_titles": [
+        "አስተውፅአ",
+        "አዝነመ"
+      ],
+      "dillmann_senses": [
+        [
+          "vel አስተወፅአ፡ IV,1 et crebrius አስተዋፅአ፡ IV,3 expendere , erogare : 4 Reg. 12,15; Marc. 5,26; 2 Cor. 12,15; ወአሐውር፡ ኣስተዋፅእ፡ ምጽዋተ፡ ἐδαπάνων αὐτά Tob. 1,7; አስተውፅኦ፡ (v. አስተዋፅኦ፡) ለመድፍንከ፡ በእንተ፡ ትእዛዙ፡ ለልዑል፡ Sir. 29,11; እለ፡ ኢያስተዋፅኡ፡ ብዕሎሙ፡ በሠናይ፡ ὁ κακῶς τῷ πλούτῳ κεχρημένος Chrys. Ta. 2; ለእመቦ፡ ምንትኒ፡ ዘአጥረይነ፡ ናስተዋ"
+        ],
+        [
+          "II,1 pluere facere vel jubere , de Deo: ኢያዝነመ፡ ዲበ፡ ምድር፡ Gen. 2,5; Kuf. 12; ያዘንም፡ ከመ፡ ዝናም፡ ኀያል፡ Jes. 30,30; Jer. 14,22; Ep. Jer. 52; ኣዘንም፡ ውስተ፡ ገጸ፡ አሐቲ፡ ሀገር፡ Am. 4,7; ያዘንም፡ ለክሙ፡ ጸዳየ፡ ወመፀወ፡ Joel 2,23; seq. ዝናመ፡ Matth. 5,45. grandinare facere : ኣዘንም፡ በረደ፡ Ex. 9,18; አዝነመ፡ ላዕለ፡ ሕዝብ፡ Sir. 46,6. alias res "
+        ]
+      ]
+    },
+    "ለርእሱም": {
+      "match_type": "contains_root (ርእሱ)",
+      "current_def": "for + themselves, for their own heads/selves",
+      "dillmann_entry_nums": [
+        "7980",
+        "2230"
+      ],
+      "dillmann_titles": [
+        "ዲበ",
+        "ርእስ"
+      ],
+      "dillmann_senses": [
+        [
+          "praep. [sive a ደበበ፡ sive a ዴበ፡ propagata] antiquitus ዲቤ፡ (ut Matth. 14,26 et Matth. 24,2 rom.; Joh. 12,15 et Joh. 13,25 rom.) quae forma ante pronomina suff. semper retinetur (gramm. § 167,3), dein plerumque ዲበ፡ ዲበ፡ simplex: super , supra , in , plerumque ἐπί, de statu quietis et de motu (cum ላዕለ፡ m"
+        ],
+        [
+          "subst. [רוֹשׁ ܪܺܝܫܳܐ رَأَسَ, amh. ራስ፡] m. , rarius fem. (ut Apoc. 13,3; M.M. f. 231 de capite corporis), Pl. አርእስት፡ (semel, sc. 1 Par. 12,20 in Cod. Abb. CXLI reperi ርእሳን፡, sed alii habent ርኡሳን፡), Pl. Pl. አርእስታት፡ caput corporis hominum et animalium Matth. 5,36; Matth. 6,17; Matth. 8,20; Gen. 3,15; G"
+        ]
+      ]
+    },
+    "ወመለከውት": {
+      "match_type": "contains_root (መለከ)",
+      "current_def": "and + angels, messengers (noun plural)",
+      "dillmann_entry_nums": [
+        "1103",
+        "1098"
+      ],
+      "dillmann_titles": [
+        "መላኪ",
+        "መለከ"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. possessor , dominus , herus ut aedificii, agri, servi, al. F.N. 24,2; F.N. 31; F.N. 37; Chrys. Ta. 12. dominator , regnator : እግዚአብሔር፡ መላኬ፡ ነፍሳቲነ፡ ወፈጣሪሃ፡ ውስተ፡ ሥጋነ፡ Jsp. p. 352; እግዚአብሔር፡ መላኬ፡ ሰማያት፡ ወምድር፡ Macc. f. 10; ክርስቶስ፡ መላኬ፡ ኵሉ፡ አጽናፍ፡ Sx. Masc. 2 Enc."
+        ],
+        [
+          "I,1 [مَلَكَ possedit, regnavit ; מָלַךְ regnavit , ܡܠܰܟ consuluit ] Subj. ይምልክ፡ possidere , dominio tenere , occupare , potiri , c. Acc. : κατέχειν Ex. 32,13; Gen. 48,4; ዘይመልክ፡ ሀገረ፡ καταλαμβανόμενος πόλιν Prov. 16,32; ምልካ፡ ወተዋረሳ፡ ἐνάρχου κληρονομεῖν Deut. 2,24; ዮሐናን፡ ወእሊአሁ፡ ተጸወኑ፡ ኀበ፡ ቍድስ፡ ወመለክዋ፡ ope"
+        ]
+      ]
+    },
+    "እምሳር": {
+      "match_type": "prefix_stripped (ሳር)",
+      "current_def": "from + the prince/chief",
+      "dillmann_entry_nums": [
+        "1937"
+      ],
+      "dillmann_titles": [
+        "ሣዕር"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , plerumque m. , Pl. አሥዕርት፡ (Chrys. Ta. 27) [Aethiopes et Arabes herbas, quibus terra obsita est, cum pilis corporis comparantes herbarum et pilorum nomina ex eadem radice propagaverunt, ut شَعْرَاءُ herbosus, plantis abundans, arboribus obsitus : سُعرٌ plantae , arbores ; (Syri ab una radice"
+        ]
+      ]
+    },
+    "ወጠነሱ": {
+      "match_type": "contains_root (ወጠነ)",
+      "current_def": "and + they began, they commenced",
+      "dillmann_entry_nums": [
+        "6846",
+        "8947"
+      ],
+      "dillmann_titles": [
+        "ወጠነ",
+        "ጥንት"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 et I,2, raro ወጥነ፡ I,1 (Sx. Mag. 13,si quidem lectio sana est) [بَدَأَ بَدَا], Subj. I,1 ይውጥን፡ (ut F.M. 2,11; Chrys. ho. 4; Jsp. p. 363, al.), raro ይጠን፡ (M.M. f. 211), initium facere , coepisse , incipere , inchoare , exordiri , aggredi , Ps. 76,10; seq. Subj. : ዘይዌጥን፡ ይርዳእ፡ Prov. 13,12; ትዌጥን፡ ትቅ"
+        ],
+        [
+          "initium vid. sub ወጠነ፡"
+        ]
+      ]
+    },
+    "ወተመይጡ": {
+      "match_type": "contains_root (ተመይ)",
+      "current_def": "and + they turned, they returned",
+      "dillmann_entry_nums": [
+        "10590"
+      ],
+      "dillmann_titles": [
+        "ተመይ"
+      ],
+      "dillmann_senses": [
+        [
+          "(ተሞይ፡ Lud.) sedes episc. Aeg."
+        ]
+      ]
+    },
+    "ወበአራዊት": {
+      "match_type": "prefix_stripped (አራዊት)",
+      "current_def": "and + in/among + wild beasts",
+      "dillmann_entry_nums": [
+        "5523"
+      ],
+      "dillmann_titles": [
+        "አርዌ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , m. et fem. , coll. et sing., Pl. አራዊት፡ bestia , fera , animal : ልበ፡ አርዌ፡ ተውህቦ፡ Dan. 5,21; ቦኡ፡ አራዊት፡ Job 37,7; Marc. 1,13. bestiae terrestres (distinguuntur a volatilibus) Sir. 17,4; አራዊተ፡ ምድር፡ 1 Reg. 17,44; አራዊተ፡ ገዳም፡ Jes. 18,6; Jer. 15,3; Jer. 16,4; Jer. 19,7; Jer. 34,5; Judith 11,7; Gen. "
+        ]
+      ]
+    },
+    "ወይበልዑ": {
+      "match_type": "contains_root (ይበል)",
+      "current_def": "and + they eat, they consume (3mp imperfect)",
+      "dillmann_entry_nums": [
+        "3743"
+      ],
+      "dillmann_titles": [
+        "ብህለ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1 [amh. ባለ፡ Isenb. grammar p. 136; sine dubio i.q. ܡܰܠܶܠ (cfr. ብዕል፡ et مَالٌ); Arabice occurrit quidem بَهَلَ sed significat maledixit , VIII supplex fuit in oratione (መሐለ፡ ማሕለለ፡)]; Perf. nonnisi apud scriptores inferioris aevi usitatum est, ex. gr. in Chrys. crebro, ut: ብህለ፡ ካልአ፡ aliud quid dixit"
+        ]
+      ]
+    },
+    "እምብእሲሁም": {
+      "match_type": "contains_root (ብእሲ)",
+      "current_def": "from + their flesh, from their bodies",
+      "dillmann_entry_nums": [
+        "9004",
+        "860"
+      ],
+      "dillmann_titles": [
+        "ጥዕመ",
+        "ሐዋሪ"
+      ],
+      "dillmann_senses": [
+        [
+          ", rarius ጠዐመ፡ (ut. Hebr. 6,5 rom.) I,1 [טָעַם ܛܥܶܡ طَعِمَ] Subj. ይጥዐም፡, raro ይጥዕም፡ (ut Hebr. 2,9), Imperat. ጠዐም፡, Infin. ጥዒም፡ gustare , sive gustu explorare , sive libare , delibare , c. Acc. : 1 Reg. 14,24; 1 Reg. 14,29; 1 Reg. 14,43; 2 Reg. 3,35; 4 Reg. 7,2; 4 Reg. 7,19; ይጥዕም፡ ጕርዔ፡ እክለ፡ Job 12,11;"
+        ],
+        [
+          "n. ag. , fem. ሐዋሪት፡, Pl. ሐዋርያን፡, fem. ሐዋርያት፡ ambulans , incedens , viator , peregrinator : erat ጻማዊ፡ በገድሉ፡ ወሐዋሪ፡ በፍኖተ፡ አበው፡ ቅዱሳን፡ Gad. T.H. ; est sicut ፈላሲ፡ ሐዋሪ፡ እምኔነ፡ a nobis discedens Genz. f. 89; ሐዋሪ፡ ዘኢይሴፎ፡ ተመይጦቶ፡ ወንዉም፡ ዘኢይትረአይ፡ ንቅሀቱ፡ Genz. f. 89. At in Bibliis significare solet: is qui it petit"
+        ]
+      ]
+    },
+    "ደም": {
+      "match_type": "exact",
+      "current_def": "blood (noun)",
+      "dillmann_entry_nums": [
+        "6276",
+        "7499",
+        "7838"
+      ],
+      "dillmann_titles": [
+        "አንኮለለ",
+        "ዞም",
+        "ደም"
+      ],
+      "dillmann_senses": [
+        [
+          "(አንኰለለ፡) V intransit. vertigine circumagi , ሐመር፡ እንተ፡ ታንኮልል፡ ማእከለ፡ ዐውሎ፡ Sir. 36,2; de ebrio: ከመ፡ ዘአንኮለሎ፡ (v. ዘአንኰለሎ፡) ደም፡ Jes. 19,14. transit. vertigine circumagere , vertiginem facere : ብፃው፡ ክቡድ፡ ዘያንኮልሎ፡ ለድማሕ፡ ከመ፡ ስቴ፡ ክርዳድ፡ ዘውስተ፡ እደ፡ መያሲ፡ M.M. f. 333; ወአንኮለላ፡ (v. ወአንኰለላ፡) Jer. 31,26. – Voc. Ae.: ያን"
+        ],
+        [
+          "et ዞሞ፡ n. peregr. sc. ζωμός, jus , jusculum , Hez. 24,10; Hez. 24,8 (var. pro ደም፡); Jud. 6,19; Jud. 6,20."
+        ],
+        [
+          "subst. ( m. ), Pl. ደማት፡ [דָּם ܕܡܳܐ دَمٌ] sanguis , Gen. 9,4; Gen. 9,5; Gen. 9,6; Gen. 37,26; Gen. 37,31; Gen. 42,22; Ex. 7,20; Ex. 7,21; Ex. 12,7; Ex. 24,6; Lev. 12,4; Lev. 12,7; Lev. 20,18; Marc. 5,25; Marc. 5,29; Matth. 26,28; Apoc. 8,7. al. sexcenties; ሥጋ፡ ወደም፡ Sir. 14,18; Matth. 16,17; Hebr. 2,1"
+        ]
+      ]
+    },
+    "ወአዛዚል": {
+      "match_type": "contains_root (አዛዚ)",
+      "current_def": "and + Azazel (proper name) - fallen Watcher who taught metalwork and cosmetics",
+      "dillmann_entry_nums": [
+        "5844"
+      ],
+      "dillmann_titles": [
+        "አዛዚ"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. potens , potestate praeditus : ረሰየከ፡ እግዚአብሔር፡ አዛዜ፡ ለኵነኔየ፡ Jsp. p. 366. curator : orbi, እለ፡ አልቦሙ፡ አብ፡ ወኢእም፡ ወኢአዛዚ፡ F.N. 24,3. testator , ( testatus ): F.N. 41 (pluries)."
+        ]
+      ]
+    },
+    "መሥራት": {
+      "match_type": "contains_root (ሥራት)",
+      "current_def": "foundation, base, basis (noun); also: bonds, chains",
+      "dillmann_entry_nums": [
+        "1803"
+      ],
+      "dillmann_titles": [
+        "ሥርዐት"
+      ],
+      "dillmann_senses": [
+        [
+          "n. act. et subst. , m. et fem. , Pl. ሥርዐታት፡ dispositio , ordinatio , ordo , classis : መኰንን፡ ለባዊ፡ ይገብር፡ ሥርዐተ፡ ἡγεμονία συνετοῦ τεταγμένη ἐστί Sir. 16,26; Cant. 6,10 (aciei); τάγμα Num. 2,2; ῥυθμός 4 Reg. 16,10; Ex. 25,38 (ὑπόθεμα substructio ); Ex. 39,22 ἀποσκευή apparatus ; በበሥርዐቶሙ፡ secundum ordines"
+        ]
+      ]
+    },
+    "ወአንፀበረት": {
+      "match_type": "contains_root (በረት)",
+      "current_def": "and + mirrors, polished metal surfaces (noun plural)",
+      "dillmann_entry_nums": [
+        "5850",
+        "11498"
+      ],
+      "dillmann_titles": [
+        "ምእያም",
+        "ሞሶጴተም"
+      ],
+      "dillmann_senses": [
+        [
+          "(v. ምዕያም፡) subst. caula , Hen. 86,2. — Voc . Ae .: ምዕያም፡ ዘ፡ የላምብረት፡; aliud : አፍአ፡ ምዕያም፡ መርሕብ፡ ብ፡ ሜዳ፡"
+        ],
+        [
+          "vel መስፌተም፡ i.e. μοσφαιθάμ Jud. 5,16."
+        ]
+      ]
+    },
+    "ወእምግብር": {
+      "match_type": "contains_root (ግብር)",
+      "current_def": "and from + deed, work, act, thing",
+      "dillmann_entry_nums": [
+        "7113",
+        "8435"
+      ],
+      "dillmann_titles": [
+        "ዐቃቢ",
+        "ምግባር"
+      ],
+      "dillmann_senses": [
+        [
+          "n. ag. , fem. ዐቃቢት፡, Pl. m. ዐቃብያን፡, c. ዐቀብት፡ custos : Gen. 4,9; ዐቃብያን፡ (v. ዐቀብተ፡) ቤት፡ Koh. 12,3; ዐቃቤ፡ ኅለት፡ Jes. 27,4; መኑ፡ ይሠይም፡ ዐቃቤ፡ ላዕለ፡ አፉየ፡ Sir. 22,27; Ps. 38,2; Ps. 140,3; አንትሙ፡ ካህናት፡ ዐቃብያነ፡ ቤተ፡ እግዚአብሔር፡ Clem. f. 205; ካህናት፡ ዐቃብያነ፡ ሕጉ፡ ለእግዚአብሔር፡ Clem. f. 207; Petrus ዐቃቤ፡ መራኁተ፡ መንግሥተ፡ ሰመያት፡ Clem. "
+        ],
+        [
+          "subst. , plerumque m. , Pl. ምግባራት፡ actio , agendi ratio , institutum vitae , facinora , facta vel opera quae quis facere solet , πρᾶγμα Koh. 3,1; Koh. 3,17; ለኵሉ፡ ሰብእ፡ ይፈድዮ፡ በከመ፡ ምግባሩ፡ κατὰ τὰς πράξεις Sir. 32,24; Ps. 27,5; Matth. 16,27; Luc. 23,51; Rom. 8,13; Col. 3,9; ποιήματα Ps. 63,10; Koh. 9,7; "
+        ]
+      ]
+    },
+    "ወአዕበይ": {
+      "match_type": "prefix_stripped (ዕበይ)",
+      "current_def": "and + he showed, he magnified, he revealed to them",
+      "dillmann_entry_nums": [
+        "7163"
+      ],
+      "dillmann_titles": [
+        "ዕበይ"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. , Pl. ዕበያት፡ magnitudo , domus Hen. 14,16; corporis humani F.N. 10; ዕበየ፡ ሣህልከ፡ Ps. 50,1; Num. 14,19; ዕበየ፡ ኀይሉ፡ Eph. 1,19; Ps. 78,12; ዕበየ፡ ስብሐት፡ Ps. 8,2; Ps. 95,6; Ps. 103,2; Sir. 17,13. pars major vel potior Kuf. p. 131 lin. 5 et 7. magnitudo dignitatis, honoris, potentiae, amplitudo : በአምጣነ፡ "
+        ]
+      ]
+    },
+    "ወተለወጡ": {
+      "match_type": "contains_root (ተለወ)",
+      "current_def": "and + they changed, they transformed themselves",
+      "dillmann_entry_nums": [
+        "4221"
+      ],
+      "dillmann_titles": [
+        "ተለወ"
+      ],
+      "dillmann_senses": [
+        [
+          "I,1, [תָּלָה ܬܠܳܐ suspendi ; intransit. adhaesit , affixus est ; تَلَا secutus est ; proprie: hangen an ] Subj. ይትሉ፡ (at ይትለው፡ Luc. 21,8 rom.; Rom. 12,9 Polygl.) adhaerere , adhaerescere ( deditum esse , studio propensum vel defixum esse ) κολλᾶσθαι, προςκολλᾶσθαι, c.c. ኀበ፡ pers.: ተለወ፡ ነፍሱ፡ ኀቤሃ፡ ጥቀ፡"
+        ]
+      ]
+    },
+    "ወአርማሮስ": {
+      "match_type": "contains_root (አርማ)",
+      "current_def": "and + Armaros (proper name) - a Watcher who taught enchantment-resolving",
+      "dillmann_entry_nums": [
+        "10715"
+      ],
+      "dillmann_titles": [
+        "አርማ"
+      ],
+      "dillmann_senses": [
+        [
+          "Hermes (? Sx. Mag. 9)."
+        ]
+      ]
+    },
+    "አዋልድ": {
+      "match_type": "exact",
+      "current_def": "children, offspring, sons (noun plural)",
+      "dillmann_entry_nums": [
+        "6436",
+        "6438"
+      ],
+      "dillmann_titles": [
+        "ወልድ",
+        "ወለት"
+      ],
+      "dillmann_senses": [
+        [
+          "subst. m. , Pl. ውሉድ፡ filius , natus , Matth. 1,20; Matth. 1,21; Matth. 1,22; Matth. 1,23; Matth. 1,24; Matth. 1,25; Matth. 7,9; Matth. 10,37; Matth. 13,55; Matth. 17,55; Jes. 9,6; Ex. 22,28; Sir. 30,1 seq., al. sexcenties; ወልደ፡ እጓለ፡ እምሕያው፡ Matth. 11,19; Matth. 25,31; ወልደ፡ እግዚአብሔር፡ Matth. 4,3; Matth."
+        ],
+        [
+          "(pro ወለድት፡) subst. fem. , Pl. አዋልድ፡ filia , Gen. 6,1 seq.; Gen. 11,29; Gen. 24,23; Gen. 24,24; Ex. 2,1; Ex. 2,5; Lev. 18,10 seq.; Job 42,13; Jer. 5,17; Jer. 16,2; በከመ፡ እም፡ ከማሁ፡ ወለታ፡ Hez. 16,44; Sir. 22,3; Matth. 9,18; Matth. 10,35; Matth. 10,37. neptis : ወለተ፡ ወልድከ፡ አው፡ ወለተ፡ ወለትከ፡ Lev. 18,10; አዋልደ፡ አ"
+        ]
+      ]
+    },
+    "ወርሐ": {
+      "match_type": "exact",
+      "current_def": "moon, lunar body (noun)",
+      "dillmann_entry_nums": [
+        "6517"
+      ],
+      "dillmann_titles": [
+        "ወርሐ"
+      ],
+      "dillmann_senses": [
+        [
+          "transpositum e ረውሐ፡; መዋርሕት፡ pro መራውሕት፡ q.v. col. 306, in Voc. Ae. explicatur መስተናፈሻ፡"
+        ]
+      ]
+    }
+  },
+  "no_match": [
+    {
+      "word": "ወይበእ",
+      "def": "and + he comes, he enters"
+    },
+    {
+      "word": "እምእግዚአብሄር",
+      "def": "from + God, Lord (the Lord God)"
+    },
+    {
+      "word": "እግዚአብሄር",
+      "def": "God, Lord (the Lord God)"
+    },
+    {
+      "word": "እምጽድቃን",
+      "def": "from + the righteous ones, just ones"
+    },
+    {
+      "word": "ወእምኰን",
+      "def": "and from + being, manner, way"
+    },
+    {
+      "word": "ወረእይኩ",
+      "def": "and + I saw (1cs perfect)"
+    },
+    {
+      "word": "ወበምሐረት",
+      "def": "and in + mercy, compassion, grace (Hawt variant)"
+    },
+    {
+      "word": "ተመሊከቱ",
+      "def": "his angels, his messengers"
+    },
+    {
+      "word": "ወእምኩሉ",
+      "def": "and from + all, everything (bound form)"
+    },
+    {
+      "word": "እምክብረት",
+      "def": "from + glory, honor, majesty (with -t suffix)"
+    },
+    {
+      "word": "ወይፈስስ",
+      "def": "and + he flows, pours out"
+    },
+    {
+      "word": "እምዐቡይ",
+      "def": "from + great, mighty, grand"
+    },
+    {
+      "word": "ወይተወከዱ",
+      "def": "and + they contend, they strive"
+    },
+    {
+      "word": "በእምእግዚአብሄር",
+      "def": "in/by + from + God the Lord"
+    },
+    {
+      "word": "ወእምጽድቃን",
+      "def": "and from + the righteous ones, just ones"
+    },
+    {
+      "word": "ስየና",
+      "def": "Sinai/Zion (proper name) - variant spelling of the holy mountain"
+    },
+    {
+      "word": "ወኀጤአት",
+      "def": "and + sin, transgression, iniquity"
+    },
+    {
+      "word": "ይረግም",
+      "def": "he curses, he condemns; imperfect of ragama (to curse)"
+    },
+    {
+      "word": "ወአወደክም",
+      "def": "and + he will destroy you (plural), he will bring ruin upon you"
+    },
+    {
+      "word": "ይገበር",
+      "def": "he does, he makes, he performs; variant of gabara (to do)"
+    },
+    {
+      "word": "ወስብሃት",
+      "def": "and + glory, praise, splendor"
+    },
+    {
+      "word": "ወክብረት",
+      "def": "and + glory, honor, majesty (with -t suffix)"
+    },
+    {
+      "word": "እምኀጤአት",
+      "def": "from + sin, from transgression"
+    },
+    {
+      "word": "አምሆም",
+      "def": "them, to them (3rd person masculine plural object pronoun)"
+    },
+    {
+      "word": "ወልደ",
+      "def": "child, son, offspring (noun); also: children of (construct)"
+    },
+    {
+      "word": "እንስ",
+      "def": "man, human being, mankind (noun)"
+    },
+    {
+      "word": "ኩሉም",
+      "def": "all of them, every one of them (pronoun)"
+    },
+    {
+      "word": "ኩሉ",
+      "def": "all, everything (bound form)"
+    },
+    {
+      "word": "በኩሉ",
+      "def": "in/by + all, everything (bound form)"
+    },
+    {
+      "word": "አንቱም",
+      "def": "you (2nd person masculine plural pronoun)"
+    },
+    {
+      "word": "ሠምያዛ",
+      "def": "Semyaza (proper name) - he sees the name; leader of the fallen Watchers"
+    },
+    {
+      "word": "መስጠር",
+      "def": "secret, hidden thing, mystery (noun)"
+    },
+    {
+      "word": "በእንቲሁ",
+      "def": "on account of it, because of it, for its sake"
+    },
+    {
+      "word": "ዘኩሉ",
+      "def": "of/which + all, everything (bound form)"
+    },
+    {
+      "word": "ኀጤአት",
+      "def": "sin, transgression, iniquity (noun)"
+    },
+    {
+      "word": "ዐቡይ",
+      "def": "great, mighty, grand"
+    },
+    {
+      "word": "ይኀጤኡ",
+      "def": "they sin, they transgress (imperfect 3mp)"
+    },
+    {
+      "word": "ወይበእው",
+      "def": "and + they said, and they spoke (3mp)"
+    },
+    {
+      "word": "ወባራቅእል",
+      "def": "and + Baraqiel (proper name) - lightning of God; a chief of tens among the Watchers"
+    },
+    {
+      "word": "ወይወጥሉ",
+      "def": "and + they cast down, and they throw (3mp imperfect)"
+    },
+    {
+      "word": "ወመፅረት",
+      "def": "and + tribulation, affliction, distress (noun)"
+    },
+    {
+      "word": "ወአያዐወን",
+      "def": "and + not + they knew them; they did not recognize (negative 3mp)"
+    },
+    {
+      "word": "ዐቡያት",
+      "def": "great ones, mighty ones (noun plural)"
+    },
+    {
+      "word": "ለጂብዓን",
+      "def": "to/for + the chosen ones, the elect (dative)"
+    },
+    {
+      "word": "ወሰዲቡ",
+      "def": "and + he drove out, he expelled"
+    },
+    {
+      "word": "ወእግዚአብሄር",
+      "def": "and + God, Lord (the Lord God)"
+    },
+    {
+      "word": "እመረለ",
+      "def": "from + he descended, coming down from"
+    },
+    {
+      "word": "ይበእ",
+      "def": "he comes, he enters"
+    },
+    {
+      "word": "ህሩያን",
+      "def": "the chosen ones, the elect (noun plural)"
+    },
+    {
+      "word": "ወጽድቃን",
+      "def": "and + the righteous ones, just ones"
+    },
+    {
+      "word": "ወይስመእ",
+      "def": "and + he hears, and it is heard"
+    },
+    {
+      "word": "ይከወን",
+      "def": "he/it becomes, he/it shall be (imperfect)"
+    },
+    {
+      "word": "እምኰን",
+      "def": "from + being, manner, way"
+    },
+    {
+      "word": "ወይከወን",
+      "def": "and + he/it becomes, and it shall be"
+    },
+    {
+      "word": "ወይረጓ",
+      "def": "and + they tremble, they quake with fear"
+    },
+    {
+      "word": "ወይረዐዑ",
+      "def": "and + they pasture, they tend (as shepherds)"
+    },
+    {
+      "word": "ዘልእለ",
+      "def": "which is upon, that which is above, concerning"
+    },
+    {
+      "word": "ከከባት",
+      "def": "stars (noun plural); the celestial bodies"
+    },
+    {
+      "word": "ወይተንገደገዱ",
+      "def": "and + they totter, they stagger, they are shaken"
+    },
+    {
+      "word": "ዘዐቡያት",
+      "def": "of + the great ones, of the mighty"
+    },
+    {
+      "word": "ወይመከኩ",
+      "def": "and + they counsel, they take counsel together"
+    },
+    {
+      "word": "አኩነ",
+      "def": "I was, I became (1cs perfect of kawana)"
+    },
+    {
+      "word": "ወዲባት",
+      "def": "and + upon it, upon them (preposition)"
+    },
+    {
+      "word": "እምደር",
+      "def": "from + earth, from the ground"
+    },
+    {
+      "word": "ወትትፈለጥ",
+      "def": "and + it is split, divided, cleft"
+    },
+    {
+      "word": "ወይፈሰስ",
+      "def": "and + it flows, pours out, melts"
+    },
+    {
+      "word": "ዘደበር",
+      "def": "of + the mountain"
+    },
+    {
+      "word": "ወይመጹእ",
+      "def": "and + he/they will come (imperfect)"
+    },
+    {
+      "word": "ዘበኩሉ",
+      "def": "of/which + in/by + all, everything (bound form)"
+    },
+    {
+      "word": "ጽድቃን",
+      "def": "the righteous ones, just ones"
+    },
+    {
+      "word": "ወይመሐር",
+      "def": "and + he shows mercy, he is compassionate"
+    },
+    {
+      "word": "ወይውለዱ",
+      "def": "and + they beget, they give birth to"
+    },
+    {
+      "word": "ለጽድቃን",
+      "def": "to/for + the righteous ones, just ones"
+    },
+    {
+      "word": "ወይክሉን",
+      "def": "and + they are able, they can, they prevail"
+    },
+    {
+      "word": "ወምሐረት",
+      "def": "and + mercy, compassion, grace (Hawt variant)"
+    },
+    {
+      "word": "ገበረ",
+      "def": "he did, he made, he performed, he wrought"
+    },
+    {
+      "word": "ይገበኩም",
+      "def": "he does to you (pl.), he deals with you"
+    },
+    {
+      "word": "በከወክብ",
+      "def": "in/by + the stars, among the stars"
+    },
+    {
+      "word": "አይወለዱም",
+      "def": "they do not beget, they bear no children (negative)"
+    },
+    {
+      "word": "ወእምይጠይሩ",
+      "def": "and + from + they fly, from their flying"
+    },
+    {
+      "word": "እምይቀውም",
+      "def": "from + he stands, from standing/establishing"
+    },
+    {
+      "word": "ስዐር",
+      "def": "Seir (proper name) - mountainous region; also: hair, tempest"
+    },
+    {
+      "word": "ወእምበቀይጥ",
+      "def": "and + from + punishment, retribution"
+    },
+    {
+      "word": "መዀዓት",
+      "def": "reproach, rebuke, chastisement (noun)"
+    },
+    {
+      "word": "አወደክም",
+      "def": "he destroyed you (pl.), he brought ruin upon you"
+    },
+    {
+      "word": "ይበሰኩም",
+      "def": "he will seek you (pl.), he will come upon you"
+    },
+    {
+      "word": "ይፈሰስ",
+      "def": "it flows, it pours out, it melts (3ms imperfect)"
+    },
+    {
+      "word": "መረግዛ",
+      "def": "curse, execration, malediction (noun)"
+    },
+    {
+      "word": "ትረግም",
+      "def": "she/you(fs) curse(s), she condemns (imperfect 2fs/3fs)"
+    },
+    {
+      "word": "እምመዀዓትኩም",
+      "def": "from + your (pl.) reproach, from your chastisement"
+    },
+    {
+      "word": "ወትበይሉ",
+      "def": "and + they say, they declare (3mp imperfect)"
+    },
+    {
+      "word": "ዘለእሊኩም",
+      "def": "which + is upon you (pl.), concerning you"
+    },
+    {
+      "word": "እምምሐረት",
+      "def": "from + mercy, compassion, grace (Hawt variant)"
+    },
+    {
+      "word": "ተሜአኩም",
+      "def": "you (pl.) have returned, you have come back"
+    },
+    {
+      "word": "ወስምኩም",
+      "def": "and + your (pl.) name, your reputation"
+    },
+    {
+      "word": "ለመረግዛ",
+      "def": "for + a curse, unto a curse/malediction"
+    },
+    {
+      "word": "ይረግምኩም",
+      "def": "he curses you (pl.), he condemns you"
+    },
+    {
+      "word": "ወይሜእኩም",
+      "def": "and + he returns to you, he comes back to you"
+    },
+    {
+      "word": "ወይበእሉ",
+      "def": "and + they say, they speak (3mp imperfect)"
+    },
+    {
+      "word": "ሰአትት",
+      "def": "hours, times, moments (noun plural)"
+    },
+    {
+      "word": "ወለእምጽድቃን",
+      "def": "and + for + from + the righteous ones"
+    },
+    {
+      "word": "ወበኀገስ",
+      "def": "and + in + joy, with gladness"
+    },
+    {
+      "word": "ይውእሉ",
+      "def": "they say, they speak (3mp imperfect variant)"
+    },
+    {
+      "word": "ወይውሐብ",
+      "def": "and + he gives, he grants, he bestows"
+    },
+    {
+      "word": "ወአያደው",
+      "def": "and + they did not know, they were ignorant"
+    },
+    {
+      "word": "ወእምእግዚአብሄር",
+      "def": "and from + God, Lord (the Lord God)"
+    },
+    {
+      "word": "በዘሁ",
+      "def": "in + this, by this, at this (demonstrative)"
+    },
+    {
+      "word": "ወተወለዱ",
+      "def": "and + they were born, were begotten (3mp passive)"
+    },
+    {
+      "word": "ዘጠበይት",
+      "def": "of + beauty, of comeliness"
+    },
+    {
+      "word": "ወረእይወን",
+      "def": "and + they saw them (f.), they beheld them"
+    },
+    {
+      "word": "ንዕሐዝ",
+      "def": "let us take, let us seize (1cp cohortative)"
+    },
+    {
+      "word": "ወንወልደ",
+      "def": "and + let us beget, let us sire (1cp cohortative)"
+    },
+    {
+      "word": "እነ",
+      "def": "I (1cs pronoun, emphatic); behold"
+    },
+    {
+      "word": "አንአ",
+      "def": "I (1cs pronoun, independent form)"
+    },
+    {
+      "word": "እፍርሃ",
+      "def": "I fear (1cs imperfect of farha)"
+    },
+    {
+      "word": "ወአንቱም",
+      "def": "and + you (2mp pronoun)"
+    },
+    {
+      "word": "ወይመልሱ",
+      "def": "and + they return, they answer, they respond"
+    },
+    {
+      "word": "ንማል",
+      "def": "let us swear, let us take an oath (1cp cohortative)"
+    },
+    {
+      "word": "ወንተወክድ",
+      "def": "and + let us bind ourselves, let us obligate (1cp)"
+    },
+    {
+      "word": "ወአይንግሰእን",
+      "def": "and + not + we desist; we will not abandon (neg 1cp)"
+    },
+    {
+      "word": "ማልኩ",
+      "def": "they swore (3mp perfect of mala)"
+    },
+    {
+      "word": "ወተወከዱ",
+      "def": "and + they bound themselves by oath"
+    },
+    {
+      "word": "ማእተይ",
+      "def": "two hundred (numeral)"
+    },
+    {
+      "word": "ወይወረዱ",
+      "def": "and + they descended, they came down"
+    },
+    {
+      "word": "እምቨን",
+      "def": "from + in/upon (variant preposition form)"
+    },
+    {
+      "word": "እምሄርምውን",
+      "def": "from + Hermon - the mountain where the Watchers descended"
+    },
+    {
+      "word": "ወያዐትዑ",
+      "def": "and + they called it, they named it"
+    },
+    {
+      "word": "ይወሰው",
+      "def": "he/it is called, named (passive imperfect)"
+    },
+    {
+      "word": "ዘአላቃት",
+      "def": "of + the leaders, of the chiefs"
+    },
+    {
+      "word": "ዘማእተይት",
+      "def": "of + the two hundred, of the multitude"
+    },
+    {
+      "word": "እምሠማይ",
+      "def": "from + heaven, from the sky"
+    },
+    {
+      "word": "ወአራክይበ",
+      "def": "and + Araqiba (proper name) - earth of God; a Watcher chief of tens"
+    },
+    {
+      "word": "ወራምእል",
+      "def": "and + Rameel (proper name) - thunder of God; a Watcher chief of tens"
+    },
+    {
+      "word": "ወአሳእል",
+      "def": "and + Asael/Azazel (proper name) - God has made; taught forbidden arts"
+    },
+    {
+      "word": "ወእምኩሉም",
+      "def": "and + from + all of them"
+    },
+    {
+      "word": "ያዐቱም",
+      "def": "they called them, they named them (3mp)"
+    },
+    {
+      "word": "ነሲሁም",
+      "def": "their leaders, their chiefs (noun + 3mp suffix)"
+    },
+    {
+      "word": "ወምረጩ",
+      "def": "and + they chose, they selected"
+    },
+    {
+      "word": "አሃተ",
+      "def": "one (feminine numeral), a single (f.)"
+    },
+    {
+      "word": "ይበኡ",
+      "def": "they enter, they come in (3mp imperfect)"
+    },
+    {
+      "word": "እምእንቲሁን",
+      "def": "from + on account of them (f.), because of them"
+    },
+    {
+      "word": "ወይተረከሱ",
+      "def": "and + they defile themselves, they become impure"
+    },
+    {
+      "word": "በእንቲሁን",
+      "def": "on account of them (f.), because of them"
+    },
+    {
+      "word": "ወአምሆኑም",
+      "def": "and + them, to all of them (3mp emphatic)"
+    },
+    {
+      "word": "ወወለዳ",
+      "def": "and + she bore, she gave birth"
+    },
+    {
+      "word": "ረዑዋን",
+      "def": "giants, Rephaim (noun plural) - offspring of Watchers and women"
+    },
+    {
+      "word": "ሙላእቱም",
+      "def": "their fullness, their completeness (noun + 3mp)"
+    },
+    {
+      "word": "ሰለስት",
+      "def": "three (numeral)"
+    },
+    {
+      "word": "እምክናት",
+      "def": "from + cubits (measure of length)"
+    },
+    {
+      "word": "በልዑ",
+      "def": "they ate, they consumed (3mp perfect)"
+    },
+    {
+      "word": "መጣቅት",
+      "def": "provision, sustenance, food (noun)"
+    },
+    {
+      "word": "ዘእንስ",
+      "def": "of + man, of mankind, of human beings"
+    },
+    {
+      "word": "ወአይክላ",
+      "def": "and + not + she was able; she could not"
+    },
+    {
+      "word": "ይሰዕርወን",
+      "def": "they devour them (f.), they consume them"
+    },
+    {
+      "word": "ወበልዑ",
+      "def": "and + they ate, they consumed"
+    },
+    {
+      "word": "በአዓወፍ",
+      "def": "in/among + birds, fowl of the air"
+    },
+    {
+      "word": "ወበእንሳሳት",
+      "def": "and + in/among + reptiles, creeping things"
+    },
+    {
+      "word": "ወበዓሳት",
+      "def": "and + in/among + fish"
+    },
+    {
+      "word": "ሲጋ",
+      "def": "flesh, meat, body (noun)"
+    },
+    {
+      "word": "ወይሰትይው",
+      "def": "and + they drink (3mp imperfect)"
+    },
+    {
+      "word": "ወሠይፈት",
+      "def": "and + swords, bladed weapons (noun plural)"
+    },
+    {
+      "word": "ወመከላከያት",
+      "def": "and + shields, defensive armor (noun plural)"
+    },
+    {
+      "word": "እምብእርት",
+      "def": "from + silver/iron, from precious metal"
+    },
+    {
+      "word": "ወዘመው",
+      "def": "and + they fornicated, they committed adultery"
+    },
+    {
+      "word": "ወተርከሱ",
+      "def": "and + they defiled, they made impure"
+    },
+    {
+      "word": "ፈንወቲሁም",
+      "def": "their paths, their ways, their conduct"
+    },
+    {
+      "word": "ፅርወት",
+      "def": "sorcery, enchantment, magic arts (noun)"
+    },
+    {
+      "word": "ከወክብት",
+      "def": "stars (noun plural variant)"
+    },
+    {
+      "word": "ወ኶ካቤል",
+      "def": "and + Kokabel (proper name) - star of God; Watcher who taught astrology"
+    },
+    {
+      "word": "ወአራቅእል",
+      "def": "and + Araqiel (proper name) - earth of God; Watcher who taught earth-signs"
+    },
+    {
+      "word": "ወሸምሲል",
+      "def": "and + Shemsiel (proper name) - sun of God; Watcher who taught signs of the sun"
+    },
+    {
+      "word": "ዘጸሃይ",
+      "def": "of + the sun, pertaining to the sun"
+    },
+    {
+      "word": "ወሳርአይል",
+      "def": "and + Saraiel (proper name) - prince of God; taught course of the moon"
+    },
+    {
+      "word": "ኰከበ",
+      "def": "star, celestial body (noun singular)"
+    }
+  ]
+}
