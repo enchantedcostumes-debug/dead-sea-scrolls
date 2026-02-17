@@ -593,6 +593,11 @@ function buildWordHTML(word) {
     const enochUsage = word.enoch_usage || '';
     const cognates = word.cognates_english || '';
 
+    // Structured cognate data
+    const hebCognate = word.hebrew_cognate || null;
+    const arCognate = word.arabic_cognate || null;
+    const hasCognates = hebCognate || arCognate;
+
     // Build letter table rows from word data or auto-analysis
     let letterRows = '';
     const letters = word.letters || def?.letters || [];
@@ -705,6 +710,37 @@ function buildWordHTML(word) {
         ${pictographic ? `
             <h3 class="word-section-header">Root Meaning</h3>
             <div class="word-pictographic">${pictographic}</div>
+        ` : ''}
+
+        ${hasCognates ? `
+            <h3 class="word-section-header">Semitic Cognate Family</h3>
+            <div class="cognate-tree">
+                <div class="cognate-root-label">Proto-Semitic Root</div>
+                <div class="cognate-branches">
+                    ${hebCognate ? `
+                        <div class="cognate-branch cognate-hebrew">
+                            <div class="cognate-lang-label">Hebrew</div>
+                            ${hebCognate.script ? `<div class="cognate-script" lang="he">${hebCognate.script}</div>` : ''}
+                            <div class="cognate-translit">${hebCognate.translit || ''}</div>
+                            <div class="cognate-meaning">${hebCognate.meaning || ''}</div>
+                        </div>
+                    ` : ''}
+                    <div class="cognate-branch cognate-geez">
+                        <div class="cognate-lang-label">Ge'ez</div>
+                        <div class="cognate-script" lang="gez">${word.geez}</div>
+                        <div class="cognate-translit">${translit}</div>
+                        <div class="cognate-meaning">${truncateGloss(englishDef || definition)}</div>
+                    </div>
+                    ${arCognate ? `
+                        <div class="cognate-branch cognate-arabic">
+                            <div class="cognate-lang-label">Arabic</div>
+                            ${arCognate.script ? `<div class="cognate-script" lang="ar">${arCognate.script}</div>` : ''}
+                            <div class="cognate-translit">${arCognate.translit || ''}</div>
+                            <div class="cognate-meaning">${arCognate.meaning || ''}</div>
+                        </div>
+                    ` : ''}
+                </div>
+            </div>
         ` : ''}
 
         <h3 class="word-section-header">Fidel Character Analysis</h3>

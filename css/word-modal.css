@@ -316,6 +316,132 @@
     font-style: normal;
 }
 
+/* Cognate Tree */
+.cognate-tree {
+    text-align: center;
+    padding: 15px 0 20px;
+}
+
+.cognate-root-label {
+    display: inline-block;
+    background: rgba(212, 175, 55, 0.2);
+    color: #d4af37;
+    padding: 6px 20px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    border: 1px solid rgba(212, 175, 55, 0.4);
+    margin-bottom: 15px;
+}
+
+.cognate-tree .cognate-root-label::after {
+    content: '';
+    display: block;
+    width: 2px;
+    height: 15px;
+    background: rgba(212, 175, 55, 0.4);
+    margin: 8px auto 0;
+}
+
+.cognate-branches {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.cognate-branches::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 25%;
+    right: 25%;
+    height: 2px;
+    background: rgba(212, 175, 55, 0.3);
+}
+
+.cognate-branch {
+    flex: 1;
+    min-width: 120px;
+    max-width: 200px;
+    padding: 12px 10px;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 8px;
+    background: rgba(20, 15, 10, 0.6);
+    position: relative;
+}
+
+.cognate-branch::before {
+    content: '';
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    width: 2px;
+    height: 8px;
+    background: rgba(212, 175, 55, 0.3);
+}
+
+.cognate-hebrew {
+    border-color: rgba(100, 149, 237, 0.5);
+}
+
+.cognate-geez {
+    border-color: rgba(212, 175, 55, 0.6);
+    background: rgba(212, 175, 55, 0.08);
+}
+
+.cognate-arabic {
+    border-color: rgba(76, 175, 80, 0.5);
+}
+
+.cognate-lang-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+.cognate-hebrew .cognate-lang-label { color: #6495ED; }
+.cognate-geez .cognate-lang-label { color: #d4af37; }
+.cognate-arabic .cognate-lang-label { color: #4CAF50; }
+
+.cognate-script {
+    font-size: 1.6rem;
+    margin: 4px 0;
+    line-height: 1.4;
+}
+
+.cognate-hebrew .cognate-script {
+    font-family: 'SBL Hebrew', 'Ezra SIL', 'Times New Roman', serif;
+    color: #6495ED;
+}
+
+.cognate-geez .cognate-script {
+    font-family: 'Nyala', 'Abyssinica SIL', 'Noto Sans Ethiopic', sans-serif;
+    color: #d4af37;
+}
+
+.cognate-arabic .cognate-script {
+    font-family: 'Traditional Arabic', 'Geeza Pro', 'Scheherazade', serif;
+    color: #4CAF50;
+    direction: rtl;
+}
+
+.cognate-translit {
+    font-size: 0.85rem;
+    color: #a08040;
+    font-style: italic;
+    margin: 2px 0;
+}
+
+.cognate-meaning {
+    font-size: 0.8rem;
+    color: #806030;
+    margin-top: 4px;
+}
+
 /* Sources */
 .word-sources {
     margin-top: 30px;
@@ -378,6 +504,19 @@
 
     .word-timeline-num {
         padding: 8px;
+    }
+
+    .cognate-branches {
+        gap: 8px;
+    }
+
+    .cognate-branch {
+        min-width: 90px;
+        padding: 8px 6px;
+    }
+
+    .cognate-script {
+        font-size: 1.2rem;
     }
 }
 
