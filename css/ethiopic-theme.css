@@ -526,6 +526,65 @@ nav a.active {
 }
 
 /* ============================================================================
+   GRAMMAR VIEW - Color-coded parts of speech
+   ============================================================================ */
+
+/* Grammar toggle button */
+#grammar-toggle {
+    background: rgba(120,80,200,0.2);
+    color: #c0a0e0;
+    border: 1px solid rgba(120,80,200,0.5);
+    padding: 8px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: all 0.3s ease;
+    letter-spacing: 1px;
+}
+
+#grammar-toggle:hover {
+    background: rgba(120,80,200,0.35);
+    border-color: #c0a0e0;
+    box-shadow: 0 0 12px rgba(120,80,200,0.3);
+}
+
+#grammar-toggle.active {
+    background: rgba(200,80,80,0.2);
+    border-color: #f06060;
+    color: #f08080;
+    box-shadow: 0 0 15px rgba(200,80,80,0.3);
+}
+
+/* Grammar legend */
+.grammar-legend {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 8px 0 15px;
+    padding: 10px 15px;
+    background: rgba(0,0,0,0.4);
+    border: 1px solid rgba(120,80,200,0.2);
+    border-radius: 6px;
+}
+
+.grammar-legend-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 11px;
+    color: #9080b0;
+    letter-spacing: 0.5px;
+}
+
+.grammar-legend-swatch {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 3px;
+}
+
+/* ============================================================================
    PARALLEL VIEW - Side-by-side Ge'ez | English (Charles 1917)
    ============================================================================ */
 
