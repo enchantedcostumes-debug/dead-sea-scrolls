@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="en" translate="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" content="notranslate">
+    <meta http-equiv="Content-Language" content="en">
+    <title>Dead Sea Scrolls - Mechanical Translation from Ge'ez</title>
+    <style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Segoe UI', Georgia, serif;
+    background: linear-gradient(135deg, #080812 0%, #12101e 50%, #080812 100%);
+    color: #c0a0e0;
+    line-height: 1.8;
+    min-height: 100vh;
+}
+
+.container { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+
+/* Hero Header */
+.hero {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(180deg, rgba(128,80,200,0.15) 0%, transparent 100%);
+    border-bottom: 1px solid rgba(128,80,200,0.3);
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-size: 3em;
+    color: #c0a0e0;
+    text-shadow: 0 0 30px rgba(128,80,200,0.5);
+    margin-bottom: 10px;
+    letter-spacing: 3px;
+}
+
+.subtitle {
+    color: #9070b0;
+    font-size: 1.3em;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.stats {
+    color: #705090;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
+
+.geez-title {
+    font-family: 'Nyala', 'Abyssinica SIL', 'Noto Sans Ethiopic', serif;
+    font-size: 2em;
+    color: #c0a0e0;
+    text-shadow: 0 0 20px rgba(128,80,200,0.4);
+    margin: 15px 0;
+    direction: ltr;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+    padding: 0 20px;
+}
+
+nav a {
+    color: #c0a0e0;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 1px solid rgba(128,80,200,0.4);
+    border-radius: 4px;
+    background: rgba(0,0,0,0.5);
+    transition: all 0.3s ease;
+}
+
+nav a:hover {
+    background: rgba(128,80,200,0.2);
+    border-color: #c0a0e0;
+    box-shadow: 0 0 15px rgba(128,80,200,0.3);
+}
+
+/* Section headers */
+.section-header {
+    color: #c0a0e0;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 40px 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgba(128,80,200,0.4);
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.section-header::before {
+    content: '';
+    width: 30px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #c0a0e0);
+}
+
+/* Chapter grid */
+.chapter-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 12px;
+    margin-bottom: 40px;
+}
+
+.chapter-card {
+    padding: 15px;
+    background: rgba(15,10,25,0.8);
+    border: 1px solid rgba(128,80,200,0.3);
+    text-decoration: none;
+    color: #c0a0e0;
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    text-align: center;
+}
+
+.chapter-card:hover {
+    border-color: #c0a0e0;
+    background: rgba(128,80,200,0.1);
+    box-shadow: 0 0 20px rgba(128,80,200,0.2);
+    transform: translateY(-2px);
+}
+
+.chapter-num {
+    font-weight: 600;
+    font-size: 14px;
+    color: #c0a0e0;
+}
+
+.chapter-stats {
+    font-size: 11px;
+    color: #705090;
+    margin-top: 5px;
+}
+
+/* Section card for themed groups */
+.section-card {
+    padding: 20px;
+    background: linear-gradient(135deg, rgba(128,80,200,0.1) 0%, rgba(15,10,25,0.9) 100%);
+    border: 1px solid rgba(128,80,200,0.4);
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.section-card h3 {
+    color: #c0a0e0;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.section-card p {
+    color: #9070b0;
+    font-size: 0.95em;
+}
+
+/* Guide box */
+.guide-box {
+    background: rgba(15,10,25,0.9);
+    border: 1px solid rgba(128,80,200,0.3);
+    padding: 25px;
+    border-radius: 8px;
+    margin-bottom: 40px;
+}
+
+.guide-box p {
+    margin-bottom: 12px;
+    color: #9070b0;
+}
+
+.guide-box strong {
+    color: #c0a0e0;
+}
+
+/* Source section */
+.source-section {
+    background: linear-gradient(135deg, rgba(128,80,200,0.15) 0%, rgba(15,10,25,0.9) 100%);
+    border: 1px solid rgba(128,80,200,0.4);
+    padding: 30px;
+    border-radius: 8px;
+    margin: 40px 0;
+}
+
+.source-section h3 {
+    color: #c0a0e0;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+.source-section p {
+    color: #9070b0;
+    line-height: 1.8;
+    margin-bottom: 8px;
+}
+
+.source-section a {
+    color: #c0a0e0;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(128,80,200,0.5);
+}
+
+.source-section a:hover {
+    border-bottom-color: #c0a0e0;
+}
+
+.source-list {
+    list-style: none;
+    padding: 0;
+    margin: 15px 0;
+}
+
+.source-list li {
+    padding: 8px 0;
+    border-bottom: 1px solid rgba(128,80,200,0.15);
+    color: #9070b0;
+}
+
+.source-list li strong {
+    color: #c0a0e0;
+}
+
+/* Tools grid */
+.tools-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+    margin-bottom: 40px;
+}
+
+.tool-card {
+    padding: 20px;
+    background: linear-gradient(135deg, rgba(128,80,200,0.1) 0%, rgba(15,10,25,0.9) 100%);
+    border: 1px solid rgba(128,80,200,0.4);
+    border-radius: 8px;
+    text-decoration: none;
+    color: #c0a0e0;
+    transition: all 0.3s ease;
+}
+
+.tool-card:hover {
+    border-color: #c0a0e0;
+    box-shadow: 0 0 30px rgba(128,80,200,0.3);
+}
+
+.tool-name {
+    font-weight: 600;
+    font-size: 15px;
+    color: #c0a0e0;
+    margin-bottom: 8px;
+}
+
+.tool-stats {
+    font-size: 12px;
+    color: #705090;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 40px 20px;
+    color: #504060;
+    font-size: 13px;
+    border-top: 1px solid rgba(128,80,200,0.2);
+    margin-top: 40px;
+}
+
+footer a {
+    color: #9070b0;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #c0a0e0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    h1 { font-size: 2em; }
+    .geez-title { font-size: 1.4em; }
+    .chapter-grid { grid-template-columns: repeat(3, 1fr); }
+    .tools-grid { grid-template-columns: 1fr; }
+    nav { gap: 8px; }
+    nav a { padding: 8px 12px; font-size: 13px; }
+}
+</style>
+</head>
+<body>
+
+<div class="hero">
+    <h1>Dead Sea Scrolls</h1>
+    <div class="geez-title">መጽሐፈ፡ ሄኖክ</div>
+    <p class="subtitle">Mechanical Translation from Classical Ge'ez (Ethiopic)</p>
+    <p class="stats">Book of the Watchers | 36 Chapters | Every Word Clickable | Fidel Letter Analysis</p>
+</div>
+
+<div class="container">
+
+    <nav>
+        <a href="https://bible.ozark-oracle.com">The Mechanical Bible</a>
+        <a href="1_enoch/index.html">1 Enoch Chapters</a>
+    </nav>
+
+    <div class="section-header">About This Project</div>
+    <div class="guide-box">
+        <p><strong>What is this?</strong> A word-by-word mechanical translation of the Book of 1 Enoch from the original Ge'ez (Classical Ethiopic) language, preserved in Ethiopian manuscripts since antiquity.</p>
+        <p><strong>Click any Ge'ez word</strong> to see its Fidel character breakdown, gematria value, root analysis, scholarly definition (Dillmann's Lexicon), and linguistic timeline from Proto-Semitic to modern Amharic.</p>
+        <p><strong>Why Ge'ez?</strong> The Book of Enoch survives complete ONLY in Ge'ez. Greek and Aramaic fragments exist, but the Ethiopian Church preserved the full 108 chapters. This is the oldest complete witness to a text quoted in Jude 1:14-15.</p>
+        <p><strong>Scholarly standard:</strong> Text follows R.H. Charles' 1906 critical edition of the Ethiopic text. English follows Charles' 1917 translation. Lexical data from August Dillmann's <em>Lexicon Linguae Aethiopicae</em> (1865) and Wolf Leslau's <em>Comparative Dictionary of Ge'ez</em> (2006).</p>
+    </div>
+
+    <div class="section-header">Phase 1: Book of the Watchers (1 Enoch 1-36)</div>
+
+    <div class="section-card">
+        <h3>The Blessing of Enoch (Chapters 1-5)</h3>
+        <p>Opening theophany and introduction. God's coming from Sinai, nature's obedience contrasted with human rebellion.</p>
+    </div>
+    <div class="chapter-grid">
+        <a href="1_enoch/1.html" class="chapter-card"><div class="chapter-num">Chapter 1</div><div class="chapter-stats">9 verses</div></a>
+        <a href="1_enoch/2.html" class="chapter-card"><div class="chapter-num">Chapter 2</div><div class="chapter-stats">3 verses</div></a>
+        <a href="1_enoch/3.html" class="chapter-card"><div class="chapter-num">Chapter 3</div><div class="chapter-stats">1 verse</div></a>
+        <a href="1_enoch/4.html" class="chapter-card"><div class="chapter-num">Chapter 4</div><div class="chapter-stats">1 verse</div></a>
+        <a href="1_enoch/5.html" class="chapter-card"><div class="chapter-num">Chapter 5</div><div class="chapter-stats">9 verses</div></a>
+    </div>
+
+    <div class="section-card">
+        <h3>The Fall of the Watchers (Chapters 6-11)</h3>
+        <p>Two hundred angels descend on Mount Hermon. Led by Semjaza, they swear an oath and take human wives. Azazel teaches metalworking and cosmetics. The Nephilim giants consume mankind. Archangels petition God.</p>
+    </div>
+    <div class="chapter-grid">
+        <a href="1_enoch/6.html" class="chapter-card"><div class="chapter-num">Chapter 6</div><div class="chapter-stats">8 verses</div></a>
+        <a href="1_enoch/7.html" class="chapter-card"><div class="chapter-num">Chapter 7</div><div class="chapter-stats">6 verses</div></a>
+        <a href="1_enoch/8.html" class="chapter-card"><div class="chapter-num">Chapter 8</div><div class="chapter-stats">4 verses</div></a>
+        <a href="1_enoch/9.html" class="chapter-card"><div class="chapter-num">Chapter 9</div><div class="chapter-stats">11 verses</div></a>
+        <a href="1_enoch/10.html" class="chapter-card"><div class="chapter-num">Chapter 10</div><div class="chapter-stats">22 verses</div></a>
+        <a href="1_enoch/11.html" class="chapter-card"><div class="chapter-num">Chapter 11</div><div class="chapter-stats">2 verses</div></a>
+    </div>
+
+    <div class="section-card">
+        <h3>Enoch's Commission and Throne Vision (Chapters 12-16)</h3>
+        <p>Enoch commissioned to announce judgement on the Watchers. His petition rejected. Vision of God's crystal throne with flaming cherubim. God's rebuke: "You should intercede for men, not men for you."</p>
+    </div>
+    <div class="chapter-grid">
+        <a href="1_enoch/12.html" class="chapter-card"><div class="chapter-num">Chapter 12</div><div class="chapter-stats">6 verses</div></a>
+        <a href="1_enoch/13.html" class="chapter-card"><div class="chapter-num">Chapter 13</div><div class="chapter-stats">10 verses</div></a>
+        <a href="1_enoch/14.html" class="chapter-card"><div class="chapter-num">Chapter 14</div><div class="chapter-stats">25 verses</div></a>
+        <a href="1_enoch/15.html" class="chapter-card"><div class="chapter-num">Chapter 15</div><div class="chapter-stats">12 verses</div></a>
+        <a href="1_enoch/16.html" class="chapter-card"><div class="chapter-num">Chapter 16</div><div class="chapter-stats">4 verses</div></a>
+    </div>
+
+    <div class="section-card">
+        <h3>Enoch's First Journey (Chapters 17-19)</h3>
+        <p>Journey to the ends of the earth. Mountains of fire, treasuries of winds and stars, the great abyss. Place where fallen angels are imprisoned until judgement.</p>
+    </div>
+    <div class="chapter-grid">
+        <a href="1_enoch/17.html" class="chapter-card"><div class="chapter-num">Chapter 17</div><div class="chapter-stats">8 verses</div></a>
+        <a href="1_enoch/18.html" class="chapter-card"><div class="chapter-num">Chapter 18</div><div class="chapter-stats">16 verses</div></a>
+        <a href="1_enoch/19.html" class="chapter-card"><div class="chapter-num">Chapter 19</div><div class="chapter-stats">3 verses</div></a>
+    </div>
+
+    <div class="section-card">
+        <h3>The Holy Angels and Second Journey (Chapters 20-36)</h3>
+        <p>Names of the seven archangels. Sheol and the abodes of the dead. Seven mountains and the fragrant tree of life. Jerusalem as center of the earth. The accursed valley. Paradise and the tree of wisdom. The ends of the earth.</p>
+    </div>
+    <div class="chapter-grid">
+        <a href="1_enoch/20.html" class="chapter-card"><div class="chapter-num">Chapter 20</div><div class="chapter-stats">8 verses</div></a>
+        <a href="1_enoch/21.html" class="chapter-card"><div class="chapter-num">Chapter 21</div><div class="chapter-stats">10 verses</div></a>
+        <a href="1_enoch/22.html" class="chapter-card"><div class="chapter-num">Chapter 22</div><div class="chapter-stats">14 verses</div></a>
+        <a href="1_enoch/23.html" class="chapter-card"><div class="chapter-num">Chapter 23</div><div class="chapter-stats">4 verses</div></a>
+        <a href="1_enoch/24.html" class="chapter-card"><div class="chapter-num">Chapter 24</div><div class="chapter-stats">6 verses</div></a>
+        <a href="1_enoch/25.html" class="chapter-card"><div class="chapter-num">Chapter 25</div><div class="chapter-stats">7 verses</div></a>
+        <a href="1_enoch/26.html" class="chapter-card"><div class="chapter-num">Chapter 26</div><div class="chapter-stats">6 verses</div></a>
+        <a href="1_enoch/27.html" class="chapter-card"><div class="chapter-num">Chapter 27</div><div class="chapter-stats">5 verses</div></a>
+        <a href="1_enoch/28.html" class="chapter-card"><div class="chapter-num">Chapter 28</div><div class="chapter-stats">3 verses</div></a>
+        <a href="1_enoch/29.html" class="chapter-card"><div class="chapter-num">Chapter 29</div><div class="chapter-stats">2 verses</div></a>
+        <a href="1_enoch/30.html" class="chapter-card"><div class="chapter-num">Chapter 30</div><div class="chapter-stats">3 verses</div></a>
+        <a href="1_enoch/31.html" class="chapter-card"><div class="chapter-num">Chapter 31</div><div class="chapter-stats">3 verses</div></a>
+        <a href="1_enoch/32.html" class="chapter-card"><div class="chapter-num">Chapter 32</div><div class="chapter-stats">6 verses</div></a>
+        <a href="1_enoch/33.html" class="chapter-card"><div class="chapter-num">Chapter 33</div><div class="chapter-stats">4 verses</div></a>
+        <a href="1_enoch/34.html" class="chapter-card"><div class="chapter-num">Chapter 34</div><div class="chapter-stats">3 verses</div></a>
+        <a href="1_enoch/35.html" class="chapter-card"><div class="chapter-num">Chapter 35</div><div class="chapter-stats">1 verse</div></a>
+        <a href="1_enoch/36.html" class="chapter-card"><div class="chapter-num">Chapter 36</div><div class="chapter-stats">4 verses</div></a>
+    </div>
+
+    <div class="section-header">How It Works</div>
+    <div class="guide-box">
+        <p><strong>Click any Ge'ez word</strong> - See Fidel character breakdown with consonant base + vowel order analysis</p>
+        <p><strong>Every character revealed:</strong> Ge'ez Fidel syllabary - 26 consonants x 7 vowel orders = 182+ forms</p>
+        <p><strong>Gematria values</strong> - Ethiopic numerical values calculated per word and per verse</p>
+        <p><strong>Scholarly definitions</strong> - Sourced from Dillmann (1865) and Leslau (2006) lexicons</p>
+        <p><strong>Linguistic timeline</strong> - Proto-Semitic root to Ge'ez to modern Amharic evolution</p>
+    </div>
+
+    <div class="section-header">Scholarly Sources</div>
+    <div class="source-section">
+        <h3>All Sources Public Domain or Open Access</h3>
+        <ul class="source-list">
+            <li><strong>R.H. Charles</strong> - <em>The Ethiopic Version of the Book of Enoch</em> (Oxford, 1906) - Critical edition of the Ge'ez text from multiple manuscripts</li>
+            <li><strong>R.H. Charles</strong> - <em>The Book of Enoch or 1 Enoch</em> (SPCK, 1917) - English translation used as base for mechanical rendering</li>
+            <li><strong>August Dillmann</strong> - <em>Lexicon Linguae Aethiopicae</em> (Leipzig, 1865) - The foundational Ge'ez dictionary, still authoritative</li>
+            <li><strong>Wolf Leslau</strong> - <em>Comparative Dictionary of Ge'ez</em> (Harrassowitz, 2006) - Modern comparative lexicography with Semitic cognates</li>
+            <li><strong>J.C. de Caussin</strong> - <em>Ge'ez Word Corpus</em> (Beta Masaheft, 2024) - Digital Ge'ez word frequency and morphological data</li>
+        </ul>
+        <p style="text-align: center; margin-top: 15px; font-style: italic; color: #705090;">
+            "And Enoch walked with God: and he was not; for God took him." - Genesis 5:24
+        </p>
+    </div>
+
+    <div class="section-header">Future Phases</div>
+    <div class="tools-grid">
+        <div class="tool-card">
+            <div class="tool-name">Phase 2: Parables of Enoch</div>
+            <div class="tool-stats">1 Enoch 37-71 - The Son of Man, the Elect One, messianic prophecy</div>
+        </div>
+        <div class="tool-card">
+            <div class="tool-name">Phase 2: Astronomical Book</div>
+            <div class="tool-stats">1 Enoch 72-82 - Solar/lunar calendars, gates of heaven</div>
+        </div>
+        <div class="tool-card">
+            <div class="tool-name">Phase 2: Dream Visions</div>
+            <div class="tool-stats">1 Enoch 83-90 - Animal Apocalypse, history as allegory</div>
+        </div>
+        <div class="tool-card">
+            <div class="tool-name">Phase 3: Qumran Scrolls</div>
+            <div class="tool-stats">Hebrew/Aramaic fragments - War Scroll, Community Rule, Temple Scroll</div>
+        </div>
+    </div>
+
+</div>
+
+<footer>
+    <p>Dead Sea Scrolls Mechanical Translation - Copyright 2026 Tammy L Casey</p>
+    <p style="margin-top: 8px;">
+        <a href="https://bible.ozark-oracle.com">The Mechanical Bible</a> |
+        <a href="https://dead-sea-scrolls.ozark-oracle.com">Dead Sea Scrolls</a> |
+        Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
+    </p>
+    <p style="margin-top: 8px; color: #403050;">
+        Ge'ez text: Charles 1906 critical edition (public domain) |
+        English: Charles 1917 translation (public domain) |
+        Lexicon: Dillmann 1865 (public domain)
+    </p>
+</footer>
+
+</body>
+</html>

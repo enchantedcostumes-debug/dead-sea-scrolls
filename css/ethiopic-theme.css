@@ -1,0 +1,446 @@
+/**
+ * Ethiopic Theme - Dead Sea Scrolls Mechanical Translation
+ * Adapted from Egyptian Gold Theme (Mechanical Bible)
+ * Copyright (c) 2026 Tammy L Casey. All rights reserved.
+ */
+
+/* Reset */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+/* Base - Deep indigo/dark blue for Ethiopian night sky */
+body {
+    font-family: 'Segoe UI', Georgia, serif;
+    background: linear-gradient(135deg, #080812 0%, #0f1024 50%, #080812 100%);
+    color: #b0a0d0;
+    line-height: 1.8;
+    min-height: 100vh;
+}
+
+.container { max-width: 1200px; margin: 0 auto; padding: 40px 20px; }
+
+/* Hero Header */
+.hero {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(180deg, rgba(120,80,200,0.1) 0%, transparent 100%);
+    border-bottom: 1px solid rgba(120,80,200,0.3);
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #c0a0e0;
+    text-shadow: 0 0 30px rgba(120,80,200,0.5);
+    margin-bottom: 10px;
+    letter-spacing: 3px;
+}
+
+.subtitle {
+    color: #9080b0;
+    font-size: 1.2em;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.stats {
+    color: #706090;
+    font-size: 0.95em;
+    letter-spacing: 1px;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    margin: 25px 0;
+    flex-wrap: wrap;
+    padding: 0 20px;
+}
+
+nav a {
+    color: #c0a0e0;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid rgba(120,80,200,0.4);
+    border-radius: 4px;
+    background: rgba(0,0,0,0.5);
+    transition: all 0.3s ease;
+    font-size: 14px;
+}
+
+nav a:hover {
+    background: rgba(120,80,200,0.2);
+    border-color: #c0a0e0;
+    box-shadow: 0 0 15px rgba(120,80,200,0.3);
+}
+
+nav a.active {
+    background: rgba(120,80,200,0.25);
+    border-color: #c0a0e0;
+}
+
+/* Section headers */
+.section-header {
+    color: #c0a0e0;
+    font-size: 15px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin: 35px 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid rgba(120,80,200,0.4);
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.section-header::before {
+    content: '';
+    width: 30px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #c0a0e0);
+}
+
+/* Chapter Navigation */
+.chapter-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin: 25px 0;
+}
+
+.chapter-nav a {
+    min-width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(120,80,200,0.4);
+    text-decoration: none;
+    color: #9080b0;
+    border-radius: 4px;
+    font-size: 14px;
+    background: rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+}
+
+.chapter-nav a:hover,
+.chapter-nav a.active {
+    border-color: #c0a0e0;
+    color: #c0a0e0;
+    background: rgba(120,80,200,0.15);
+    box-shadow: 0 0 10px rgba(120,80,200,0.2);
+}
+
+/* Verse Display */
+.verse {
+    margin: 25px 0;
+    padding: 25px;
+    background: rgba(15,10,25,0.9);
+    border: 1px solid rgba(120,80,200,0.3);
+    border-radius: 8px;
+}
+
+.verse-ref {
+    color: #c0a0e0;
+    font-weight: bold;
+    font-size: 14px;
+    margin-bottom: 12px;
+}
+
+.verse-gematria {
+    display: inline-block;
+    background: rgba(120,80,200,0.15);
+    padding: 3px 10px;
+    border-radius: 4px;
+    font-size: 12px;
+    color: #c0a0e0;
+    margin-left: 12px;
+    font-family: 'Consolas', monospace;
+    border: 1px solid rgba(120,80,200,0.3);
+}
+
+/* Original Ge'ez text */
+.original-text {
+    font-size: 1.4em;
+    line-height: 2.2;
+    margin: 18px 0;
+    padding: 20px;
+    background: rgba(0,0,0,0.4);
+    border-radius: 6px;
+    border: 1px solid rgba(120,80,200,0.2);
+}
+
+/* Ge'ez (Ethiopic) - LEFT TO RIGHT (unlike Hebrew) */
+.geez {
+    direction: ltr;
+    text-align: left;
+    font-family: 'Nyala', 'Abyssinica SIL', 'Noto Sans Ethiopic', 'Times New Roman', serif;
+    font-size: 1.5em;
+}
+
+/* Hebrew - for cross-references to canonical Bible */
+.hebrew {
+    direction: rtl;
+    text-align: right;
+    font-family: 'SBL Hebrew', 'Ezra SIL', 'Times New Roman', serif;
+}
+
+/* Clickable words */
+.word {
+    cursor: pointer;
+    padding: 5px 8px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    display: inline-block;
+    margin: 3px;
+    color: #b0a0d0;
+}
+
+.word:hover {
+    background: rgba(120,80,200,0.25);
+    color: #c0a0e0;
+    box-shadow: 0 0 10px rgba(120,80,200,0.3);
+}
+
+/* Translation sections */
+.translation {
+    font-size: 1.1em;
+    line-height: 1.9;
+    margin: 18px 0;
+    padding: 18px;
+    background: rgba(0,0,0,0.3);
+    border-left: 4px solid #c0a0e0;
+    color: #9080b0;
+    border-radius: 0 6px 6px 0;
+}
+
+.mechanical {
+    font-size: 1em;
+    line-height: 1.9;
+    margin: 10px 0;
+    padding: 15px;
+    background: rgba(120,80,200,0.08);
+    border-left: 4px solid rgba(120,80,200,0.5);
+    color: #a090c0;
+    border-radius: 0 6px 6px 0;
+    font-style: italic;
+}
+
+.mechanical::before {
+    content: 'MECHANICAL: ';
+    font-style: normal;
+    font-weight: bold;
+    color: #c0a0e0;
+    font-size: 0.85em;
+}
+
+/* Info boxes */
+.intro, .guide-box, .info-box {
+    background: rgba(15,10,25,0.9);
+    border: 1px solid rgba(120,80,200,0.3);
+    padding: 25px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.intro h2, .guide-box h2, .info-box h2 {
+    color: #c0a0e0;
+    margin-bottom: 15px;
+}
+
+.intro p, .guide-box p, .info-box p {
+    margin-bottom: 12px;
+    color: #9080b0;
+}
+
+.intro strong, .guide-box strong, .info-box strong {
+    color: #c0a0e0;
+}
+
+/* Stats boxes */
+.stats-box {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+}
+
+.stat {
+    background: rgba(0,0,0,0.4);
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid rgba(120,80,200,0.3);
+}
+
+.stat-number {
+    font-size: 2.5em;
+    color: #c0a0e0;
+    font-weight: bold;
+    text-shadow: 0 0 15px rgba(120,80,200,0.4);
+}
+
+.stat-label {
+    color: #706090;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+/* Cross-references */
+.cross-refs {
+    margin-top: 15px;
+    padding: 15px;
+    background: rgba(0,0,0,0.2);
+    border-radius: 6px;
+    border: 1px solid rgba(120,80,200,0.15);
+}
+
+.cross-refs h4 {
+    color: #c0a0e0;
+    margin-bottom: 10px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.cross-refs ul { list-style: none; }
+.cross-refs li { margin: 8px 0; color: #9080b0; }
+
+.ref-verse {
+    color: #c0a0e0;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.ref-topic { color: #9080b0; }
+
+.theme-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    background: rgba(120,80,200,0.2);
+    border-radius: 3px;
+    font-size: 11px;
+    margin-left: 8px;
+    color: #c0a0e0;
+}
+
+/* Footnotes */
+.footnotes {
+    margin-top: 12px;
+    padding: 12px;
+    background: rgba(0,0,0,0.2);
+    border-radius: 6px;
+}
+
+.footnotes h4 {
+    color: #9080b0;
+    font-size: 12px;
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footnote { margin: 5px 0; font-size: 0.9em; color: #706090; }
+.footnote-marker { color: #c0a0e0; font-weight: bold; }
+.footnote-alt { font-style: italic; }
+
+/* Manuscript info */
+.manuscript-tag {
+    display: inline-block;
+    padding: 2px 8px;
+    background: rgba(60,120,80,0.2);
+    border: 1px solid rgba(60,120,80,0.4);
+    border-radius: 3px;
+    font-size: 11px;
+    color: #80c0a0;
+    margin: 2px 4px;
+}
+
+/* Book navigation grid */
+.book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 15px;
+    margin: 30px 0;
+}
+
+.book-card {
+    background: rgba(15,10,25,0.8);
+    border: 1px solid rgba(120,80,200,0.3);
+    border-radius: 8px;
+    padding: 20px;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: block;
+}
+
+.book-card:hover {
+    border-color: #c0a0e0;
+    box-shadow: 0 0 20px rgba(120,80,200,0.2);
+    transform: translateY(-2px);
+}
+
+.book-card h3 { color: #c0a0e0; margin-bottom: 5px; }
+.book-card p { color: #706090; font-size: 0.9em; }
+
+/* Tool cards (matching mechanical-bible) */
+.tool-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+}
+
+.tool-card {
+    background: rgba(15,10,25,0.8);
+    border: 1px solid rgba(120,80,200,0.3);
+    border-radius: 8px;
+    padding: 25px;
+    text-decoration: none;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.tool-card:hover {
+    border-color: #c0a0e0;
+    box-shadow: 0 0 20px rgba(120,80,200,0.2);
+}
+
+.tool-card h3 { color: #c0a0e0; margin-bottom: 8px; }
+.tool-card p { color: #9080b0; font-size: 0.9em; margin-bottom: 8px; }
+.tool-card .tool-stat { color: #706090; font-size: 0.85em; }
+
+/* Footer */
+.site-footer {
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 50px;
+    border-top: 1px solid rgba(120,80,200,0.2);
+    color: #504070;
+    font-size: 0.85em;
+}
+
+.site-footer a { color: #9080b0; text-decoration: none; }
+.site-footer a:hover { color: #c0a0e0; }
+
+/* Responsive */
+@media (max-width: 768px) {
+    h1 { font-size: 1.8em; }
+    .container { padding: 20px 10px; }
+    .verse { padding: 15px; }
+    .original-text { font-size: 1.2em; padding: 12px; }
+    .geez { font-size: 1.3em; }
+    .stats-box { grid-template-columns: repeat(2, 1fr); }
+    .book-grid { grid-template-columns: 1fr; }
+    .tool-grid { grid-template-columns: 1fr; }
+    nav { gap: 6px; }
+    nav a { padding: 8px 12px; font-size: 13px; }
+}
+
+@media (max-width: 480px) {
+    h1 { font-size: 1.4em; }
+    .geez { font-size: 1.1em; }
+    .chapter-nav a { min-width: 34px; height: 34px; font-size: 12px; }
+}

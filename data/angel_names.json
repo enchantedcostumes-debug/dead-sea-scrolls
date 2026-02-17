@@ -1,0 +1,246 @@
+{
+  "source": "Charles, The Book of Enoch (1906/1917)",
+  "description": "Angel and Watcher names from 1 Enoch, Book of the Watchers",
+  "names": [
+    {
+      "english": "Semjaza",
+      "geez": "ሰምያዛ",
+      "transliteration": "Semyaza",
+      "meaning": "he sees the name",
+      "category": "watcher",
+      "rank": "leader",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Araklba",
+      "geez": "አረቅልባ",
+      "transliteration": "Araqiba",
+      "meaning": "earth of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Rameel",
+      "geez": "ራሜል",
+      "transliteration": "Rameel",
+      "meaning": "thunder of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Kokabiel",
+      "geez": "ኮካብኤል",
+      "transliteration": "Kokabiel",
+      "meaning": "star of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Tamiel",
+      "geez": "ታምኤል",
+      "transliteration": "Tamiel",
+      "meaning": "perfection of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Ramiel",
+      "geez": "ራሚኤል",
+      "transliteration": "Ramiel",
+      "meaning": "thunder of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Daniel",
+      "geez": "ዳንኤል",
+      "transliteration": "Daniel",
+      "meaning": "judgment of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Ezeqeel",
+      "geez": "ኤዘቄኤል",
+      "transliteration": "Ezeqeel",
+      "meaning": "strength of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Baraqijal",
+      "geez": "በረቂያል",
+      "transliteration": "Baraqijal",
+      "meaning": "lightning of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Asael",
+      "geez": "አሳኤል",
+      "transliteration": "Asael",
+      "meaning": "made by God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Armaros",
+      "geez": "አርማሮስ",
+      "transliteration": "Armaros",
+      "meaning": "accursed one",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Batarel",
+      "geez": "ባጣርኤል",
+      "transliteration": "Batarel",
+      "meaning": "rain of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Ananel",
+      "geez": "አናንኤል",
+      "transliteration": "Ananel",
+      "meaning": "cloud of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Zaqiel",
+      "geez": "ዘቅኤል",
+      "transliteration": "Zaqiel",
+      "meaning": "purity of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Samsapeel",
+      "geez": "ሳምሳፔል",
+      "transliteration": "Samsapeel",
+      "meaning": "sun of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Satarel",
+      "geez": "ሳጣርኤል",
+      "transliteration": "Satarel",
+      "meaning": "side of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Turel",
+      "geez": "ቱርኤል",
+      "transliteration": "Turel",
+      "meaning": "rock of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Jomjael",
+      "geez": "ዮምያኤል",
+      "transliteration": "Jomjael",
+      "meaning": "day of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Sariel",
+      "geez": "ሳሪኤል",
+      "transliteration": "Sariel",
+      "meaning": "prince of God",
+      "category": "watcher",
+      "rank": "chief of tens",
+      "chapter": 6,
+      "verse": 7
+    },
+    {
+      "english": "Azazel",
+      "geez": "አዛዝኤል",
+      "transliteration": "Azazel",
+      "meaning": "scapegoat / God strengthens",
+      "category": "watcher",
+      "rank": "teacher of forbidden arts",
+      "chapter": 8,
+      "verse": 1
+    },
+    {
+      "english": "Raphael",
+      "geez": "ሩፋኤል",
+      "transliteration": "Rufael",
+      "meaning": "God has healed",
+      "category": "archangel",
+      "rank": "archangel",
+      "chapter": 10,
+      "verse": 4
+    },
+    {
+      "english": "Michael",
+      "geez": "ሚካኤል",
+      "transliteration": "Mikael",
+      "meaning": "who is like God",
+      "category": "archangel",
+      "rank": "archangel",
+      "chapter": 10,
+      "verse": 11
+    },
+    {
+      "english": "Gabriel",
+      "geez": "ገብርኤል",
+      "transliteration": "Gebriel",
+      "meaning": "man of God",
+      "category": "archangel",
+      "rank": "archangel",
+      "chapter": 10,
+      "verse": 9
+    },
+    {
+      "english": "Uriel",
+      "geez": "ዑራኤል",
+      "transliteration": "Urael",
+      "meaning": "light of God",
+      "category": "archangel",
+      "rank": "archangel",
+      "chapter": 10,
+      "verse": 1
+    }
+  ]
+}
