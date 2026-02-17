@@ -104,14 +104,14 @@ function transliterate(geezWord) {
 
 function getWordGloss(geezWord) {
     // Try the loaded word data from word-modal.js
-    if (typeof geezDefs !== 'undefined' && geezDefs && geezDefs[geezWord]) {
-        const def = geezDefs[geezWord].definition || geezDefs[geezWord].english || '';
-        // Return first few words of the definition as a gloss
-        return truncateGloss(def);
-    }
+    // Prefer english_definition (enriched) over raw definition
     if (typeof wordData !== 'undefined' && wordData && wordData[geezWord]) {
         const wd = wordData[geezWord];
-        const def = wd.definition || wd.english || '';
+        const def = wd.english_definition || wd.definition || wd.english || '';
+        return truncateGloss(def);
+    }
+    if (typeof geezDefs !== 'undefined' && geezDefs && geezDefs[geezWord]) {
+        const def = geezDefs[geezWord].english_definition || geezDefs[geezWord].definition || geezDefs[geezWord].english || '';
         return truncateGloss(def);
     }
     return '---';

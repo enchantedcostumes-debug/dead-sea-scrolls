@@ -586,6 +586,13 @@ function buildWordHTML(word) {
     const source = word.source || def?.source || '';
     const variantNote = def?.variantNote || '';
 
+    // Enriched fields from Leslau dictionary / classification
+    const englishDef = word.english_definition || '';
+    const pos = word.part_of_speech || '';
+    const domain = word.semantic_domain || '';
+    const enochUsage = word.enoch_usage || '';
+    const cognates = word.cognates_english || '';
+
     // Build letter table rows from word data or auto-analysis
     let letterRows = '';
     const letters = word.letters || def?.letters || [];
@@ -635,6 +642,23 @@ function buildWordHTML(word) {
     // Pictographic / root meaning
     const pictographic = word.pictographic || def?.pictographic || '';
 
+    // POS label mapping
+    const posLabels = {
+        'n': 'Noun', 'v': 'Verb', 'adj': 'Adjective', 'adv': 'Adverb',
+        'prep': 'Preposition', 'conj': 'Conjunction', 'pron': 'Pronoun',
+        'part': 'Particle', 'prop': 'Proper Noun', 'compound': 'Compound',
+        'interj': 'Interjection'
+    };
+    const posLabel = posLabels[pos] || pos;
+
+    // Domain badge color mapping
+    const domainColors = {
+        'divine': '#8B5CF6', 'angelic': '#6366F1', 'nature': '#10B981',
+        'person': '#F59E0B', 'action': '#EF4444', 'temporal': '#3B82F6',
+        'abstract': '#8B5CF6', 'grammar': '#6B7280'
+    };
+    const domainColor = domainColors[domain] || '#6B7280';
+
     return `
         <div class="word-header-section">
             <div class="word-language-badge">Ge'ez (Ethiopic)</div>
@@ -642,7 +666,22 @@ function buildWordHTML(word) {
             ${translit ? `<div class="word-translit">(${translit}) ${variantNote}</div>` : ''}
             ${root ? `<div class="word-root"><strong>Root:</strong> <span lang="gez">${root}</span></div>` : ''}
             ${definition ? `<div class="word-definition"><strong>Meaning:</strong> ${definition}</div>` : ''}
+            ${(pos || domain) ? `
+                <div class="word-badges">
+                    ${posLabel ? `<span class="word-pos-badge">${posLabel}</span>` : ''}
+                    ${domain && domain !== 'unclassified' ? `<span class="word-domain-badge" style="background:${domainColor}">${domain}</span>` : ''}
+                </div>
+            ` : ''}
         </div>
+
+        ${englishDef ? `
+            <div class="word-english-section">
+                <h3 class="word-section-header">English Definition</h3>
+                <div class="word-english-def">${englishDef}</div>
+                ${enochUsage ? `<div class="word-enoch-usage"><strong>In 1 Enoch:</strong> ${enochUsage}</div>` : ''}
+                ${cognates ? `<div class="word-cognates"><strong>English cognates:</strong> ${cognates}</div>` : ''}
+            </div>
+        ` : ''}
 
         <div class="word-stats-row">
             <div class="word-stat-box">
