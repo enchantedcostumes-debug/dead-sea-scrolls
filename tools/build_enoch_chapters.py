@@ -230,6 +230,9 @@ def build_chapter_html(chapter_num, chapter_data):
             <a href="index.html">Chapters</a>
         </nav>
         {chapter_nav}
+        <div class="view-toolbar">
+            <button id="interlinear-toggle" onclick="toggleInterlinear()">Interlinear View</button>
+        </div>
 {verses_html}
         <div class="page-nav">{nav_prev}<a href="index.html">All Chapters</a>{nav_next}</div>
 </div>
@@ -239,6 +242,7 @@ document.addEventListener('keydown', function(e) {{
 }});
 </script>
     <script src="../js/word-modal.js"></script>
+    <script src="../js/interlinear.js"></script>
 </body>
 </html>"""
 
